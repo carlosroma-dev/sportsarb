@@ -1,0 +1,61 @@
+{
+  "odds": [
+    {
+      "event_id": 66456908,
+      "home": "México",
+      "away": "Coreia do Sul",
+      "date_start": "2026-06-18 22:00:00",
+      "tournament_name": "Copa do Mundo",
+      "category_name": "Internacional",
+      "market_id": 1,
+      "market_name": "Resultado Final",
+      "market_code": "1x2",
+      "outcome_id": "1",
+      "outcome_code": "{$competitor1}",
+      "outcome_name": "México",
+      "odd": 2.02,
+      "is_live": 0,
+      "event_status_id": 0,
+      "specifier": "",
+      "specifier_value": ""
+    },
+    {
+      "event_id": 66456908,
+      "home": "México",
+      "away": "Coreia do Sul",
+      "date_start": "2026-06-18 22:00:00",
+      "tournament_name": "Copa do Mundo",
+      "category_name": "Internacional",
+      "market_id": 1,
+      "market_name": "Resultado Final",
+      "market_code": "1x2",
+      "outcome_id": "2",
+      "outcome_code": "draw",
+      "outcome_name": "Empate",
+      "odd": 3.23,
+      "is_live": 0,
+      "event_status_id": 0,
+      "specifier": "",
+      "specifier_value": ""
+    },
+    {
+      "event_id": 66456908,
+      "home": "México",
+      "away": "Coreia do Sul",
+      "date_start": "2026-06-18 22:00:00",
+      "tournament_name": "Copa do Mundo",
+      "category_name": "Internacional",
+      "market_id": 1,
+      "market_name": "Resultado Final",
+      "market_code": "1x2",
+      "outcome_id": "3",
+      "outcome_code": "{$competitor2}",
+      "outcome_name": "Coreia do Sul",
+      "odd": 3.94,
+      "is_live": 0,
+      "event_status_id": 0,
+      "specifier": "",
+      "specifier_value": ""
+    }
+  ]
+}

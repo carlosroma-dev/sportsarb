@@ -1,0 +1,5014 @@
+{
+  "stats": [
+    {
+      "url": "https://s5.sir.sportradar.com/betano/br/match/66457078",
+      "providerId": 1
+    }
+  ],
+  "hasOptaStats": true,
+  "sportId": "FOOT",
+  "shortName": "Equador - Alemanha",
+  "totalMarketsAvailable": 1131,
+  "hasMatchCombo": true,
+  "matchComboUrl": "/odds/equador-alemanha/criar-aposta/83963753/",
+  "betRadarId": 66457078,
+  "notes": "",
+  "tvChannel": "",
+  "exclusiveStreamNote": "AO VIVO APENAS NA BETANO",
+  "streamingAvailable": true,
+  "regionName": "Copa Do Mundo",
+  "regionId": "189813",
+  "leagueDescription": "Jogos",
+  "leagueId": "201663",
+  "leagueName": "Copa do Mundo da FIFA 2026™",
+  "leagueUrl": "/sport/futebol/copa-do-mundo/copa-do-mundo-da-fifa-2026/493g/",
+  "showNotificationBellPulse": true,
+  "streamOverlayMarketIds": [],
+  "willGoLive": true,
+  "hasZeroRake": true,
+  "matchComboAllowedMarketTypes": [
+    4159,
+    4160,
+    4161,
+    343,
+    535,
+    449,
+    4629,
+    536,
+    493,
+    351,
+    436,
+    437,
+    643,
+    4165,
+    4166,
+    460,
+    4167,
+    4168,
+    439,
+    1000113,
+    1000114,
+    644,
+    1000111,
+    1000112,
+    4114,
+    4111,
+    4104
+  ],
+  "id": "83963753",
+  "name": "Equador - Alemanha",
+  "startTime": 1782417600000,
+  "url": "/odds/equador-alemanha/83963753/",
+  "markets": [
+    {
+      "id": "2823366514",
+      "uniqueId": "2823366514",
+      "name": "Total de chutes",
+      "type": "4159",
+      "typeId": 4159,
+      "handicap": 18.5,
+      "displayOrder": 1047,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41590",
+      "selections": [
+        {
+          "id": "9860183679",
+          "name": "Mais de 25.5",
+          "price": 1.9,
+          "handicap": 25.5,
+          "betRef": "9860183679",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183680",
+          "name": "Menos de 25.5",
+          "price": 1.83,
+          "handicap": 25.5,
+          "betRef": "9860183680",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183683",
+          "name": "Mais de 24.5",
+          "price": 1.67,
+          "handicap": 24.5,
+          "betRef": "9860183683",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183684",
+          "name": "Menos de 24.5",
+          "price": 2.12,
+          "handicap": 24.5,
+          "betRef": "9860183684",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183675",
+          "name": "Mais de 26.5",
+          "price": 2.22,
+          "handicap": 26.5,
+          "betRef": "9860183675",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183676",
+          "name": "Menos de 26.5",
+          "price": 1.62,
+          "handicap": 26.5,
+          "betRef": "9860183676",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9861258420",
+          "name": "Mais de 18.5",
+          "price": 1.06,
+          "handicap": 18.5,
+          "betRef": "9861258420",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9861258421",
+          "name": "Menos de 18.5",
+          "price": 7.7,
+          "handicap": 18.5,
+          "betRef": "9861258421",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860192939",
+          "name": "Mais de 19.5",
+          "price": 1.1,
+          "handicap": 19.5,
+          "betRef": "9860192939",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860192940",
+          "name": "Menos de 19.5",
+          "price": 6.1,
+          "handicap": 19.5,
+          "betRef": "9860192940",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183701",
+          "name": "Mais de 20.5",
+          "price": 1.16,
+          "handicap": 20.5,
+          "betRef": "9860183701",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183702",
+          "name": "Menos de 20.5",
+          "price": 4.85,
+          "handicap": 20.5,
+          "betRef": "9860183702",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183697",
+          "name": "Mais de 21.5",
+          "price": 1.24,
+          "handicap": 21.5,
+          "betRef": "9860183697",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183698",
+          "name": "Menos de 21.5",
+          "price": 3.85,
+          "handicap": 21.5,
+          "betRef": "9860183698",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183691",
+          "name": "Mais de 22.5",
+          "price": 1.34,
+          "handicap": 22.5,
+          "betRef": "9860183691",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183692",
+          "name": "Menos de 22.5",
+          "price": 3.1,
+          "handicap": 22.5,
+          "betRef": "9860183692",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183687",
+          "name": "Mais de 23.5",
+          "price": 1.47,
+          "handicap": 23.5,
+          "betRef": "9860183687",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183688",
+          "name": "Menos de 23.5",
+          "price": 2.55,
+          "handicap": 23.5,
+          "betRef": "9860183688",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183673",
+          "name": "Mais de 27.5",
+          "price": 2.62,
+          "handicap": 27.5,
+          "betRef": "9860183673",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183674",
+          "name": "Menos de 27.5",
+          "price": 1.45,
+          "handicap": 27.5,
+          "betRef": "9860183674",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183677",
+          "name": "Mais de 28.5",
+          "price": 3.15,
+          "handicap": 28.5,
+          "betRef": "9860183677",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183678",
+          "name": "Menos de 28.5",
+          "price": 1.33,
+          "handicap": 28.5,
+          "betRef": "9860183678",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183681",
+          "name": "Mais de 29.5",
+          "price": 3.85,
+          "handicap": 29.5,
+          "betRef": "9860183681",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183682",
+          "name": "Menos de 29.5",
+          "price": 1.23,
+          "handicap": 29.5,
+          "betRef": "9860183682",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183685",
+          "name": "Mais de 30.5",
+          "price": 4.75,
+          "handicap": 30.5,
+          "betRef": "9860183685",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183686",
+          "name": "Menos de 30.5",
+          "price": 1.16,
+          "handicap": 30.5,
+          "betRef": "9860183686",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183689",
+          "name": "Mais de 31.5",
+          "price": 5.8,
+          "handicap": 31.5,
+          "betRef": "9860183689",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183690",
+          "name": "Menos de 31.5",
+          "price": 1.11,
+          "handicap": 31.5,
+          "betRef": "9860183690",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183693",
+          "name": "Mais de 32.5",
+          "price": 7.1,
+          "handicap": 32.5,
+          "betRef": "9860183693",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183694",
+          "name": "Menos de 32.5",
+          "price": 1.08,
+          "handicap": 32.5,
+          "betRef": "9860183694",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823110419",
+      "uniqueId": "2823110419",
+      "name": "Equador Total de chutes",
+      "type": "4160",
+      "typeId": 4160,
+      "handicap": 6.5,
+      "displayOrder": 1049,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41600",
+      "selections": [
+        {
+          "id": "9860183711",
+          "name": "Mais de 11.5",
+          "price": 1.93,
+          "handicap": 11.5,
+          "betRef": "9860183711",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183712",
+          "name": "Menos de 11.5",
+          "price": 1.82,
+          "handicap": 11.5,
+          "betRef": "9860183712",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183707",
+          "name": "Mais de 10.5",
+          "price": 1.57,
+          "handicap": 10.5,
+          "betRef": "9860183707",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183708",
+          "name": "Menos de 10.5",
+          "price": 2.3,
+          "handicap": 10.5,
+          "betRef": "9860183708",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183715",
+          "name": "Mais de 12.5",
+          "price": 2.45,
+          "handicap": 12.5,
+          "betRef": "9860183715",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183716",
+          "name": "Menos de 12.5",
+          "price": 1.52,
+          "handicap": 12.5,
+          "betRef": "9860183716",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183713",
+          "name": "Mais de 6.5",
+          "price": 1.05,
+          "handicap": 6.5,
+          "betRef": "9860183713",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183714",
+          "name": "Menos de 6.5",
+          "price": 8.75,
+          "handicap": 6.5,
+          "betRef": "9860183714",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183709",
+          "name": "Mais de 7.5",
+          "price": 1.1,
+          "handicap": 7.5,
+          "betRef": "9860183709",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183710",
+          "name": "Menos de 7.5",
+          "price": 6.1,
+          "handicap": 7.5,
+          "betRef": "9860183710",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183705",
+          "name": "Mais de 8.5",
+          "price": 1.2,
+          "handicap": 8.5,
+          "betRef": "9860183705",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183706",
+          "name": "Menos de 8.5",
+          "price": 4.25,
+          "handicap": 8.5,
+          "betRef": "9860183706",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183703",
+          "name": "Mais de 9.5",
+          "price": 1.35,
+          "handicap": 9.5,
+          "betRef": "9860183703",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183704",
+          "name": "Menos de 9.5",
+          "price": 3.05,
+          "handicap": 9.5,
+          "betRef": "9860183704",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183717",
+          "name": "Mais de 13.5",
+          "price": 3.2,
+          "handicap": 13.5,
+          "betRef": "9860183717",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183718",
+          "name": "Menos de 13.5",
+          "price": 1.32,
+          "handicap": 13.5,
+          "betRef": "9860183718",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183721",
+          "name": "Mais de 14.5",
+          "price": 4.25,
+          "handicap": 14.5,
+          "betRef": "9860183721",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183722",
+          "name": "Menos de 14.5",
+          "price": 1.2,
+          "handicap": 14.5,
+          "betRef": "9860183722",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860194137",
+          "name": "Mais de 15.5",
+          "price": 5.7,
+          "handicap": 15.5,
+          "betRef": "9860194137",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860194138",
+          "name": "Menos de 15.5",
+          "price": 1.12,
+          "handicap": 15.5,
+          "betRef": "9860194138",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860194139",
+          "name": "Mais de 16.5",
+          "price": 7.6,
+          "handicap": 16.5,
+          "betRef": "9860194139",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860194140",
+          "name": "Menos de 16.5",
+          "price": 1.07,
+          "handicap": 16.5,
+          "betRef": "9860194140",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823366515",
+      "uniqueId": "2823366515",
+      "name": "Alemanha Total de chutes",
+      "type": "4161",
+      "typeId": 4161,
+      "handicap": 9.5,
+      "displayOrder": 1051,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41610",
+      "selections": [
+        {
+          "id": "9860183743",
+          "name": "Mais de 13.5",
+          "price": 1.75,
+          "handicap": 13.5,
+          "betRef": "9860183743",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183744",
+          "name": "Menos de 13.5",
+          "price": 2.0,
+          "handicap": 13.5,
+          "betRef": "9860183744",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860192941",
+          "name": "Mais de 12.5",
+          "price": 1.47,
+          "handicap": 12.5,
+          "betRef": "9860192941",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860192942",
+          "name": "Menos de 12.5",
+          "price": 2.55,
+          "handicap": 12.5,
+          "betRef": "9860192942",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183737",
+          "name": "Mais de 14.5",
+          "price": 2.12,
+          "handicap": 14.5,
+          "betRef": "9860183737",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183738",
+          "name": "Menos de 14.5",
+          "price": 1.67,
+          "handicap": 14.5,
+          "betRef": "9860183738",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9861258422",
+          "name": "Mais de 9.5",
+          "price": 1.1,
+          "handicap": 9.5,
+          "betRef": "9861258422",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9861258423",
+          "name": "Menos de 9.5",
+          "price": 6.2,
+          "handicap": 9.5,
+          "betRef": "9861258423",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860194145",
+          "name": "Mais de 10.5",
+          "price": 1.18,
+          "handicap": 10.5,
+          "betRef": "9860194145",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860194146",
+          "name": "Menos de 10.5",
+          "price": 4.5,
+          "handicap": 10.5,
+          "betRef": "9860194146",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860194143",
+          "name": "Mais de 11.5",
+          "price": 1.3,
+          "handicap": 11.5,
+          "betRef": "9860194143",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860194144",
+          "name": "Menos de 11.5",
+          "price": 3.3,
+          "handicap": 11.5,
+          "betRef": "9860194144",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183733",
+          "name": "Mais de 15.5",
+          "price": 2.67,
+          "handicap": 15.5,
+          "betRef": "9860183733",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183734",
+          "name": "Menos de 15.5",
+          "price": 1.44,
+          "handicap": 15.5,
+          "betRef": "9860183734",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183729",
+          "name": "Mais de 16.5",
+          "price": 3.45,
+          "handicap": 16.5,
+          "betRef": "9860183729",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183730",
+          "name": "Menos de 16.5",
+          "price": 1.28,
+          "handicap": 16.5,
+          "betRef": "9860183730",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183725",
+          "name": "Mais de 17.5",
+          "price": 4.5,
+          "handicap": 17.5,
+          "betRef": "9860183725",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183726",
+          "name": "Menos de 17.5",
+          "price": 1.18,
+          "handicap": 17.5,
+          "betRef": "9860183726",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183727",
+          "name": "Mais de 18.5",
+          "price": 5.9,
+          "handicap": 18.5,
+          "betRef": "9860183727",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183728",
+          "name": "Menos de 18.5",
+          "price": 1.11,
+          "handicap": 18.5,
+          "betRef": "9860183728",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183731",
+          "name": "Mais de 19.5",
+          "price": 7.6,
+          "handicap": 19.5,
+          "betRef": "9860183731",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183732",
+          "name": "Menos de 19.5",
+          "price": 1.07,
+          "handicap": 19.5,
+          "betRef": "9860183732",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823108698",
+      "uniqueId": "2823108698",
+      "name": "Chutes no gol",
+      "type": "X002",
+      "typeId": 343,
+      "handicap": 3.5,
+      "displayOrder": 1055,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X0020",
+      "selections": [
+        {
+          "id": "9860176922",
+          "name": "Mais de 8.5",
+          "price": 1.67,
+          "handicap": 8.5,
+          "betRef": "9860176922",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176923",
+          "name": "Menos de 8.5",
+          "price": 2.12,
+          "handicap": 8.5,
+          "betRef": "9860176923",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176926",
+          "name": "Mais de 7.5",
+          "price": 1.38,
+          "handicap": 7.5,
+          "betRef": "9860176926",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176927",
+          "name": "Menos de 7.5",
+          "price": 2.87,
+          "handicap": 7.5,
+          "betRef": "9860176927",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176920",
+          "name": "Mais de 9.5",
+          "price": 2.12,
+          "handicap": 9.5,
+          "betRef": "9860176920",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176921",
+          "name": "Menos de 9.5",
+          "price": 1.67,
+          "handicap": 9.5,
+          "betRef": "9860176921",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860177003",
+          "name": "Mais de 3.5",
+          "price": 1.01,
+          "handicap": 3.5,
+          "betRef": "9860177003",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860177004",
+          "name": "Menos de 3.5",
+          "price": 12.0,
+          "handicap": 3.5,
+          "betRef": "9860177004",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176940",
+          "name": "Mais de 4.5",
+          "price": 1.04,
+          "handicap": 4.5,
+          "betRef": "9860176940",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176941",
+          "name": "Menos de 4.5",
+          "price": 9.25,
+          "handicap": 4.5,
+          "betRef": "9860176941",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176936",
+          "name": "Mais de 5.5",
+          "price": 1.1,
+          "handicap": 5.5,
+          "betRef": "9860176936",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176937",
+          "name": "Menos de 5.5",
+          "price": 6.3,
+          "handicap": 5.5,
+          "betRef": "9860176937",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176930",
+          "name": "Mais de 6.5",
+          "price": 1.2,
+          "handicap": 6.5,
+          "betRef": "9860176930",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176931",
+          "name": "Menos de 6.5",
+          "price": 4.2,
+          "handicap": 6.5,
+          "betRef": "9860176931",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176924",
+          "name": "Mais de 10.5",
+          "price": 2.82,
+          "handicap": 10.5,
+          "betRef": "9860176924",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176925",
+          "name": "Menos de 10.5",
+          "price": 1.4,
+          "handicap": 10.5,
+          "betRef": "9860176925",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176928",
+          "name": "Mais de 11.5",
+          "price": 3.85,
+          "handicap": 11.5,
+          "betRef": "9860176928",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176929",
+          "name": "Menos de 11.5",
+          "price": 1.23,
+          "handicap": 11.5,
+          "betRef": "9860176929",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176932",
+          "name": "Mais de 12.5",
+          "price": 5.4,
+          "handicap": 12.5,
+          "betRef": "9860176932",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176933",
+          "name": "Menos de 12.5",
+          "price": 1.13,
+          "handicap": 12.5,
+          "betRef": "9860176933",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176934",
+          "name": "Mais de 13.5",
+          "price": 7.3,
+          "handicap": 13.5,
+          "betRef": "9860176934",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176935",
+          "name": "Menos de 13.5",
+          "price": 1.07,
+          "handicap": 13.5,
+          "betRef": "9860176935",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176938",
+          "name": "Mais de 14.5",
+          "price": 9.5,
+          "handicap": 14.5,
+          "betRef": "9860176938",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176939",
+          "name": "Menos de 14.5",
+          "price": 1.04,
+          "handicap": 14.5,
+          "betRef": "9860176939",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860176942",
+          "name": "Mais de 15.5",
+          "price": 11.5,
+          "handicap": 15.5,
+          "betRef": "9860176942",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860176943",
+          "name": "Menos de 15.5",
+          "price": 1.015,
+          "handicap": 15.5,
+          "betRef": "9860176943",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823109658",
+      "uniqueId": "2823109658",
+      "name": "Equador Chutes no gol",
+      "type": "X133",
+      "typeId": 535,
+      "handicap": 0.5,
+      "displayOrder": 1062,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1330",
+      "selections": [
+        {
+          "id": "9860181515",
+          "name": "Mais de 3.5",
+          "price": 1.75,
+          "handicap": 3.5,
+          "betRef": "9860181515",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181516",
+          "name": "Menos de 3.5",
+          "price": 2.0,
+          "handicap": 3.5,
+          "betRef": "9860181516",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181517",
+          "name": "Mais de 2.5",
+          "price": 1.31,
+          "handicap": 2.5,
+          "betRef": "9860181517",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181518",
+          "name": "Menos de 2.5",
+          "price": 3.25,
+          "handicap": 2.5,
+          "betRef": "9860181518",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181519",
+          "name": "Mais de 4.5",
+          "price": 2.62,
+          "handicap": 4.5,
+          "betRef": "9860181519",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181520",
+          "name": "Menos de 4.5",
+          "price": 1.45,
+          "handicap": 4.5,
+          "betRef": "9860181520",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181527",
+          "name": "Mais de 0.5",
+          "price": 1.015,
+          "handicap": 0.5,
+          "betRef": "9860181527",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181528",
+          "name": "Menos de 0.5",
+          "price": 12.0,
+          "handicap": 0.5,
+          "betRef": "9860181528",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181521",
+          "name": "Mais de 1.5",
+          "price": 1.09,
+          "handicap": 1.5,
+          "betRef": "9860181521",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181522",
+          "name": "Menos de 1.5",
+          "price": 6.4,
+          "handicap": 1.5,
+          "betRef": "9860181522",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181523",
+          "name": "Mais de 5.5",
+          "price": 4.2,
+          "handicap": 5.5,
+          "betRef": "9860181523",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181524",
+          "name": "Menos de 5.5",
+          "price": 1.2,
+          "handicap": 5.5,
+          "betRef": "9860181524",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181525",
+          "name": "Mais de 6.5",
+          "price": 6.8,
+          "handicap": 6.5,
+          "betRef": "9860181525",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181526",
+          "name": "Menos de 6.5",
+          "price": 1.08,
+          "handicap": 6.5,
+          "betRef": "9860181526",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181529",
+          "name": "Mais de 7.5",
+          "price": 10.0,
+          "handicap": 7.5,
+          "betRef": "9860181529",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181530",
+          "name": "Menos de 7.5",
+          "price": 1.03,
+          "handicap": 7.5,
+          "betRef": "9860181530",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181531",
+          "name": "Mais de 8.5",
+          "price": 12.5,
+          "handicap": 8.5,
+          "betRef": "9860181531",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181532",
+          "name": "Menos de 8.5",
+          "price": 1.01,
+          "handicap": 8.5,
+          "betRef": "9860181532",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823109651",
+      "uniqueId": "2823109651",
+      "name": "Alemanha Chutes no gol",
+      "type": "X134",
+      "typeId": 449,
+      "handicap": 1.5,
+      "displayOrder": 1065,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1340",
+      "selections": [
+        {
+          "id": "9860181495",
+          "name": "Mais de 5.5",
+          "price": 2.07,
+          "handicap": 5.5,
+          "betRef": "9860181495",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181496",
+          "name": "Menos de 5.5",
+          "price": 1.7,
+          "handicap": 5.5,
+          "betRef": "9860181496",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181499",
+          "name": "Mais de 4.5",
+          "price": 1.55,
+          "handicap": 4.5,
+          "betRef": "9860181499",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181500",
+          "name": "Menos de 4.5",
+          "price": 2.35,
+          "handicap": 4.5,
+          "betRef": "9860181500",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181493",
+          "name": "Mais de 6.5",
+          "price": 3.05,
+          "handicap": 6.5,
+          "betRef": "9860181493",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181494",
+          "name": "Menos de 6.5",
+          "price": 1.35,
+          "handicap": 6.5,
+          "betRef": "9860181494",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181513",
+          "name": "Mais de 1.5",
+          "price": 1.02,
+          "handicap": 1.5,
+          "betRef": "9860181513",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181514",
+          "name": "Menos de 1.5",
+          "price": 11.0,
+          "handicap": 1.5,
+          "betRef": "9860181514",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181507",
+          "name": "Mais de 2.5",
+          "price": 1.09,
+          "handicap": 2.5,
+          "betRef": "9860181507",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181508",
+          "name": "Menos de 2.5",
+          "price": 6.5,
+          "handicap": 2.5,
+          "betRef": "9860181508",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181503",
+          "name": "Mais de 3.5",
+          "price": 1.25,
+          "handicap": 3.5,
+          "betRef": "9860181503",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181504",
+          "name": "Menos de 3.5",
+          "price": 3.7,
+          "handicap": 3.5,
+          "betRef": "9860181504",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181497",
+          "name": "Mais de 7.5",
+          "price": 4.6,
+          "handicap": 7.5,
+          "betRef": "9860181497",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181498",
+          "name": "Menos de 7.5",
+          "price": 1.17,
+          "handicap": 7.5,
+          "betRef": "9860181498",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181501",
+          "name": "Mais de 8.5",
+          "price": 6.9,
+          "handicap": 8.5,
+          "betRef": "9860181501",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181502",
+          "name": "Menos de 8.5",
+          "price": 1.08,
+          "handicap": 8.5,
+          "betRef": "9860181502",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181505",
+          "name": "Mais de 9.5",
+          "price": 9.75,
+          "handicap": 9.5,
+          "betRef": "9860181505",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181506",
+          "name": "Menos de 9.5",
+          "price": 1.03,
+          "handicap": 9.5,
+          "betRef": "9860181506",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181509",
+          "name": "Mais de 10.5",
+          "price": 12.0,
+          "handicap": 10.5,
+          "betRef": "9860181509",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181510",
+          "name": "Menos de 10.5",
+          "price": 1.015,
+          "handicap": 10.5,
+          "betRef": "9860181510",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181511",
+          "name": "Mais de 11.5",
+          "price": 14.0,
+          "handicap": 11.5,
+          "betRef": "9860181511",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181512",
+          "name": "Menos de 11.5",
+          "price": 1.005,
+          "handicap": 11.5,
+          "betRef": "9860181512",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426351",
+      "uniqueId": "2707426351",
+      "name": "Faixa de Total chutes no gol (alternativas)",
+      "type": "5344",
+      "typeId": 5344,
+      "handicap": 0.0,
+      "displayOrder": 1056,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_53440",
+      "selections": [
+        {
+          "id": "9393615733",
+          "name": "0",
+          "price": 800.0,
+          "handicap": 0.0,
+          "betRef": "9393615733",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615734",
+          "name": "1-3",
+          "price": 18.5,
+          "handicap": 0.0,
+          "betRef": "9393615734",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9393615735",
+          "name": "4-6",
+          "price": 3.6,
+          "handicap": 0.0,
+          "betRef": "9393615735",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615736",
+          "name": "7-9",
+          "price": 2.05,
+          "handicap": 0.0,
+          "betRef": "9393615736",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9393615737",
+          "name": "10-12",
+          "price": 2.42,
+          "handicap": 0.0,
+          "betRef": "9393615737",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615738",
+          "name": "13-15",
+          "price": 5.0,
+          "handicap": 0.0,
+          "betRef": "9393615738",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9393615739",
+          "name": "16+",
+          "price": 11.5,
+          "handicap": 0.0,
+          "betRef": "9393615739",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823110311",
+      "uniqueId": "2823110311",
+      "name": "Total de Faltas",
+      "type": "4629",
+      "typeId": 4629,
+      "handicap": 15.5,
+      "displayOrder": 1075,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_46290",
+      "selections": [
+        {
+          "id": "9860181790",
+          "name": "Mais de 21.5",
+          "price": 1.93,
+          "handicap": 21.5,
+          "betRef": "9860181790",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181791",
+          "name": "Menos de 21.5",
+          "price": 1.82,
+          "handicap": 21.5,
+          "betRef": "9860181791",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181794",
+          "name": "Mais de 20.5",
+          "price": 1.67,
+          "handicap": 20.5,
+          "betRef": "9860181794",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181795",
+          "name": "Menos de 20.5",
+          "price": 2.1,
+          "handicap": 20.5,
+          "betRef": "9860181795",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181786",
+          "name": "Mais de 22.5",
+          "price": 2.25,
+          "handicap": 22.5,
+          "betRef": "9860181786",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181787",
+          "name": "Menos de 22.5",
+          "price": 1.6,
+          "handicap": 22.5,
+          "betRef": "9860181787",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183339",
+          "name": "Mais de 15.5",
+          "price": 1.1,
+          "handicap": 15.5,
+          "betRef": "9860183339",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183340",
+          "name": "Menos de 15.5",
+          "price": 6.1,
+          "handicap": 15.5,
+          "betRef": "9860183340",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183337",
+          "name": "Mais de 16.5",
+          "price": 1.16,
+          "handicap": 16.5,
+          "betRef": "9860183337",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183338",
+          "name": "Menos de 16.5",
+          "price": 4.8,
+          "handicap": 16.5,
+          "betRef": "9860183338",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181808",
+          "name": "Mais de 17.5",
+          "price": 1.24,
+          "handicap": 17.5,
+          "betRef": "9860181808",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181809",
+          "name": "Menos de 17.5",
+          "price": 3.8,
+          "handicap": 17.5,
+          "betRef": "9860181809",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181802",
+          "name": "Mais de 18.5",
+          "price": 1.35,
+          "handicap": 18.5,
+          "betRef": "9860181802",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181803",
+          "name": "Menos de 18.5",
+          "price": 3.05,
+          "handicap": 18.5,
+          "betRef": "9860181803",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181798",
+          "name": "Mais de 19.5",
+          "price": 1.5,
+          "handicap": 19.5,
+          "betRef": "9860181798",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181799",
+          "name": "Menos de 19.5",
+          "price": 2.5,
+          "handicap": 19.5,
+          "betRef": "9860181799",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181788",
+          "name": "Mais de 23.5",
+          "price": 2.67,
+          "handicap": 23.5,
+          "betRef": "9860181788",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181789",
+          "name": "Menos de 23.5",
+          "price": 1.44,
+          "handicap": 23.5,
+          "betRef": "9860181789",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181792",
+          "name": "Mais de 24.5",
+          "price": 3.2,
+          "handicap": 24.5,
+          "betRef": "9860181792",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181793",
+          "name": "Menos de 24.5",
+          "price": 1.32,
+          "handicap": 24.5,
+          "betRef": "9860181793",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181796",
+          "name": "Mais de 25.5",
+          "price": 3.9,
+          "handicap": 25.5,
+          "betRef": "9860181796",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181797",
+          "name": "Menos de 25.5",
+          "price": 1.23,
+          "handicap": 25.5,
+          "betRef": "9860181797",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181800",
+          "name": "Mais de 26.5",
+          "price": 4.8,
+          "handicap": 26.5,
+          "betRef": "9860181800",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181801",
+          "name": "Menos de 26.5",
+          "price": 1.16,
+          "handicap": 26.5,
+          "betRef": "9860181801",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181804",
+          "name": "Mais de 27.5",
+          "price": 5.9,
+          "handicap": 27.5,
+          "betRef": "9860181804",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181805",
+          "name": "Menos de 27.5",
+          "price": 1.11,
+          "handicap": 27.5,
+          "betRef": "9860181805",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823110309",
+      "uniqueId": "2823110309",
+      "name": "Equador Total de Faltas",
+      "type": "X135",
+      "typeId": 536,
+      "handicap": 6.5,
+      "displayOrder": 1080,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1350",
+      "selections": [
+        {
+          "id": "9860181766",
+          "name": "Mais de 11.5",
+          "price": 1.85,
+          "handicap": 11.5,
+          "betRef": "9860181766",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181767",
+          "name": "Menos de 11.5",
+          "price": 1.88,
+          "handicap": 11.5,
+          "betRef": "9860181767",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181770",
+          "name": "Mais de 10.5",
+          "price": 1.53,
+          "handicap": 10.5,
+          "betRef": "9860181770",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181771",
+          "name": "Menos de 10.5",
+          "price": 2.4,
+          "handicap": 10.5,
+          "betRef": "9860181771",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181764",
+          "name": "Mais de 12.5",
+          "price": 2.35,
+          "handicap": 12.5,
+          "betRef": "9860181764",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181765",
+          "name": "Menos de 12.5",
+          "price": 1.55,
+          "handicap": 12.5,
+          "betRef": "9860181765",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860183335",
+          "name": "Mais de 6.5",
+          "price": 1.04,
+          "handicap": 6.5,
+          "betRef": "9860183335",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860183336",
+          "name": "Menos de 6.5",
+          "price": 9.0,
+          "handicap": 6.5,
+          "betRef": "9860183336",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181784",
+          "name": "Mais de 7.5",
+          "price": 1.09,
+          "handicap": 7.5,
+          "betRef": "9860181784",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181785",
+          "name": "Menos de 7.5",
+          "price": 6.4,
+          "handicap": 7.5,
+          "betRef": "9860181785",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181778",
+          "name": "Mais de 8.5",
+          "price": 1.18,
+          "handicap": 8.5,
+          "betRef": "9860181778",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181779",
+          "name": "Menos de 8.5",
+          "price": 4.5,
+          "handicap": 8.5,
+          "betRef": "9860181779",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181774",
+          "name": "Mais de 9.5",
+          "price": 1.32,
+          "handicap": 9.5,
+          "betRef": "9860181774",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181775",
+          "name": "Menos de 9.5",
+          "price": 3.2,
+          "handicap": 9.5,
+          "betRef": "9860181775",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181768",
+          "name": "Mais de 13.5",
+          "price": 3.05,
+          "handicap": 13.5,
+          "betRef": "9860181768",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181769",
+          "name": "Menos de 13.5",
+          "price": 1.35,
+          "handicap": 13.5,
+          "betRef": "9860181769",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181772",
+          "name": "Mais de 14.5",
+          "price": 4.05,
+          "handicap": 14.5,
+          "betRef": "9860181772",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181773",
+          "name": "Menos de 14.5",
+          "price": 1.22,
+          "handicap": 14.5,
+          "betRef": "9860181773",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181776",
+          "name": "Mais de 15.5",
+          "price": 5.4,
+          "handicap": 15.5,
+          "betRef": "9860181776",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181777",
+          "name": "Menos de 15.5",
+          "price": 1.13,
+          "handicap": 15.5,
+          "betRef": "9860181777",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181780",
+          "name": "Mais de 16.5",
+          "price": 7.2,
+          "handicap": 16.5,
+          "betRef": "9860181780",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181781",
+          "name": "Menos de 16.5",
+          "price": 1.07,
+          "handicap": 16.5,
+          "betRef": "9860181781",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823109746",
+      "uniqueId": "2823109746",
+      "name": "Alemanha Total de Faltas",
+      "type": "X136",
+      "typeId": 493,
+      "handicap": 5.5,
+      "displayOrder": 1085,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1360",
+      "selections": [
+        {
+          "id": "9860181744",
+          "name": "Mais de 9.5",
+          "price": 1.82,
+          "handicap": 9.5,
+          "betRef": "9860181744",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181745",
+          "name": "Menos de 9.5",
+          "price": 1.93,
+          "handicap": 9.5,
+          "betRef": "9860181745",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181748",
+          "name": "Mais de 8.5",
+          "price": 1.47,
+          "handicap": 8.5,
+          "betRef": "9860181748",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181749",
+          "name": "Menos de 8.5",
+          "price": 2.55,
+          "handicap": 8.5,
+          "betRef": "9860181749",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181742",
+          "name": "Mais de 10.5",
+          "price": 2.32,
+          "handicap": 10.5,
+          "betRef": "9860181742",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181743",
+          "name": "Menos de 10.5",
+          "price": 1.57,
+          "handicap": 10.5,
+          "betRef": "9860181743",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181762",
+          "name": "Mais de 5.5",
+          "price": 1.06,
+          "handicap": 5.5,
+          "betRef": "9860181762",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181763",
+          "name": "Menos de 5.5",
+          "price": 7.7,
+          "handicap": 5.5,
+          "betRef": "9860181763",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181758",
+          "name": "Mais de 6.5",
+          "price": 1.14,
+          "handicap": 6.5,
+          "betRef": "9860181758",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181759",
+          "name": "Menos de 6.5",
+          "price": 5.2,
+          "handicap": 6.5,
+          "betRef": "9860181759",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181754",
+          "name": "Mais de 7.5",
+          "price": 1.27,
+          "handicap": 7.5,
+          "betRef": "9860181754",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181755",
+          "name": "Menos de 7.5",
+          "price": 3.55,
+          "handicap": 7.5,
+          "betRef": "9860181755",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181746",
+          "name": "Mais de 11.5",
+          "price": 3.1,
+          "handicap": 11.5,
+          "betRef": "9860181746",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181747",
+          "name": "Menos de 11.5",
+          "price": 1.34,
+          "handicap": 11.5,
+          "betRef": "9860181747",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181750",
+          "name": "Mais de 12.5",
+          "price": 4.2,
+          "handicap": 12.5,
+          "betRef": "9860181750",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181751",
+          "name": "Menos de 12.5",
+          "price": 1.2,
+          "handicap": 12.5,
+          "betRef": "9860181751",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181752",
+          "name": "Mais de 13.5",
+          "price": 5.8,
+          "handicap": 13.5,
+          "betRef": "9860181752",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181753",
+          "name": "Menos de 13.5",
+          "price": 1.11,
+          "handicap": 13.5,
+          "betRef": "9860181753",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181756",
+          "name": "Mais de 14.5",
+          "price": 7.8,
+          "handicap": 14.5,
+          "betRef": "9860181756",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181757",
+          "name": "Menos de 14.5",
+          "price": 1.06,
+          "handicap": 14.5,
+          "betRef": "9860181757",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860181760",
+          "name": "Mais de 15.5",
+          "price": 10.0,
+          "handicap": 15.5,
+          "betRef": "9860181760",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860181761",
+          "name": "Menos de 15.5",
+          "price": 1.03,
+          "handicap": 15.5,
+          "betRef": "9860181761",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107481",
+      "uniqueId": "2823107481",
+      "name": "Total de Impedimentos",
+      "type": "X013",
+      "typeId": 351,
+      "handicap": 0.5,
+      "displayOrder": 1095,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X0130",
+      "selections": [
+        {
+          "id": "9860172483",
+          "name": "Mais de 2.5",
+          "price": 1.85,
+          "handicap": 2.5,
+          "betRef": "9860172483",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172484",
+          "name": "Menos de 2.5",
+          "price": 1.9,
+          "handicap": 2.5,
+          "betRef": "9860172484",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172489",
+          "name": "Mais de 1.5",
+          "price": 1.29,
+          "handicap": 1.5,
+          "betRef": "9860172489",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172490",
+          "name": "Menos de 1.5",
+          "price": 3.4,
+          "handicap": 1.5,
+          "betRef": "9860172490",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172481",
+          "name": "Mais de 3.5",
+          "price": 3.05,
+          "handicap": 3.5,
+          "betRef": "9860172481",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172482",
+          "name": "Menos de 3.5",
+          "price": 1.35,
+          "handicap": 3.5,
+          "betRef": "9860172482",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172493",
+          "name": "Mais de 0.5",
+          "price": 1.06,
+          "handicap": 0.5,
+          "betRef": "9860172493",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172494",
+          "name": "Menos de 0.5",
+          "price": 8.0,
+          "handicap": 0.5,
+          "betRef": "9860172494",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172485",
+          "name": "Mais de 4.5",
+          "price": 5.3,
+          "handicap": 4.5,
+          "betRef": "9860172485",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172486",
+          "name": "Menos de 4.5",
+          "price": 1.13,
+          "handicap": 4.5,
+          "betRef": "9860172486",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172487",
+          "name": "Mais de 5.5",
+          "price": 8.75,
+          "handicap": 5.5,
+          "betRef": "9860172487",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172488",
+          "name": "Menos de 5.5",
+          "price": 1.05,
+          "handicap": 5.5,
+          "betRef": "9860172488",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172491",
+          "name": "Mais de 6.5",
+          "price": 12.0,
+          "handicap": 6.5,
+          "betRef": "9860172491",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172492",
+          "name": "Menos de 6.5",
+          "price": 1.015,
+          "handicap": 6.5,
+          "betRef": "9860172492",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107485",
+      "uniqueId": "2823107485",
+      "name": "Equador Total de Impedimentos",
+      "type": "X131",
+      "typeId": 436,
+      "handicap": 0.5,
+      "displayOrder": 1105,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1310",
+      "selections": [
+        {
+          "id": "9860172499",
+          "name": "Mais de 1.5",
+          "price": 2.35,
+          "handicap": 1.5,
+          "betRef": "9860172499",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172500",
+          "name": "Menos de 1.5",
+          "price": 1.55,
+          "handicap": 1.5,
+          "betRef": "9860172500",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172501",
+          "name": "Mais de 0.5",
+          "price": 1.31,
+          "handicap": 0.5,
+          "betRef": "9860172501",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172502",
+          "name": "Menos de 0.5",
+          "price": 3.25,
+          "handicap": 0.5,
+          "betRef": "9860172502",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172503",
+          "name": "Mais de 2.5",
+          "price": 5.0,
+          "handicap": 2.5,
+          "betRef": "9860172503",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172504",
+          "name": "Menos de 2.5",
+          "price": 1.15,
+          "handicap": 2.5,
+          "betRef": "9860172504",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172505",
+          "name": "Mais de 3.5",
+          "price": 9.5,
+          "handicap": 3.5,
+          "betRef": "9860172505",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172506",
+          "name": "Menos de 3.5",
+          "price": 1.04,
+          "handicap": 3.5,
+          "betRef": "9860172506",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172507",
+          "name": "Mais de 4.5",
+          "price": 13.5,
+          "handicap": 4.5,
+          "betRef": "9860172507",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172508",
+          "name": "Menos de 4.5",
+          "price": 1.007,
+          "handicap": 4.5,
+          "betRef": "9860172508",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107492",
+      "uniqueId": "2823107492",
+      "name": "Alemanha Total de Impedimentos",
+      "type": "X132",
+      "typeId": 437,
+      "handicap": 0.5,
+      "displayOrder": 1110,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1320",
+      "selections": [
+        {
+          "id": "9860172509",
+          "name": "Mais de 1.5",
+          "price": 2.3,
+          "handicap": 1.5,
+          "betRef": "9860172509",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172510",
+          "name": "Menos de 1.5",
+          "price": 1.57,
+          "handicap": 1.5,
+          "betRef": "9860172510",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172515",
+          "name": "Mais de 0.5",
+          "price": 1.3,
+          "handicap": 0.5,
+          "betRef": "9860172515",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172516",
+          "name": "Menos de 0.5",
+          "price": 3.35,
+          "handicap": 0.5,
+          "betRef": "9860172516",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172511",
+          "name": "Mais de 2.5",
+          "price": 4.85,
+          "handicap": 2.5,
+          "betRef": "9860172511",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172512",
+          "name": "Menos de 2.5",
+          "price": 1.16,
+          "handicap": 2.5,
+          "betRef": "9860172512",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172513",
+          "name": "Mais de 3.5",
+          "price": 9.25,
+          "handicap": 3.5,
+          "betRef": "9860172513",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172514",
+          "name": "Menos de 3.5",
+          "price": 1.04,
+          "handicap": 3.5,
+          "betRef": "9860172514",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172517",
+          "name": "Mais de 4.5",
+          "price": 13.0,
+          "handicap": 4.5,
+          "betRef": "9860172517",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172518",
+          "name": "Menos de 4.5",
+          "price": 1.008,
+          "handicap": 4.5,
+          "betRef": "9860172518",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426283",
+      "uniqueId": "2707426283",
+      "name": "Bola na Trave",
+      "type": "X088",
+      "typeId": 457,
+      "handicap": 0.5,
+      "displayOrder": 1045,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X0880",
+      "selections": [
+        {
+          "id": "9393615460",
+          "name": "Mais de 0.5",
+          "price": 1.9,
+          "handicap": 0.5,
+          "betRef": "9393615460",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615461",
+          "name": "Menos de 0.5",
+          "price": 1.85,
+          "handicap": 0.5,
+          "betRef": "9393615461",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9393615462",
+          "name": "Mais de 1.5",
+          "price": 4.0,
+          "handicap": 1.5,
+          "betRef": "9393615462",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615463",
+          "name": "Menos de 1.5",
+          "price": 1.15,
+          "handicap": 1.5,
+          "betRef": "9393615463",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2826304924",
+      "uniqueId": "2826304924",
+      "name": "Chutes no gol Handicap 2-Way",
+      "type": "4115",
+      "typeId": 4115,
+      "handicap": 1.5,
+      "displayOrder": 1057,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41150",
+      "selections": [
+        {
+          "id": "9873189258",
+          "name": "Equador +1.5",
+          "price": 1.85,
+          "handicap": 1.5,
+          "betRef": "9873189258",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9873189259",
+          "name": "Alemanha -1.5",
+          "price": 1.9,
+          "handicap": -1.5,
+          "betRef": "9873189259",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823106981",
+      "uniqueId": "2823106981",
+      "name": "Total de tiros de meta",
+      "type": "X328",
+      "typeId": 643,
+      "handicap": 10.5,
+      "displayOrder": 1120,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X3280",
+      "selections": [
+        {
+          "id": "9860171177",
+          "name": "Mais de 16.5",
+          "price": 1.95,
+          "handicap": 16.5,
+          "betRef": "9860171177",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171178",
+          "name": "Menos de 16.5",
+          "price": 1.78,
+          "handicap": 16.5,
+          "betRef": "9860171178",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171175",
+          "name": "Mais de 15.5",
+          "price": 1.65,
+          "handicap": 15.5,
+          "betRef": "9860171175",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171176",
+          "name": "Menos de 15.5",
+          "price": 2.15,
+          "handicap": 15.5,
+          "betRef": "9860171176",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171181",
+          "name": "Mais de 17.5",
+          "price": 2.4,
+          "handicap": 17.5,
+          "betRef": "9860171181",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171182",
+          "name": "Menos de 17.5",
+          "price": 1.53,
+          "handicap": 17.5,
+          "betRef": "9860171182",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171197",
+          "name": "Mais de 10.5",
+          "price": 1.05,
+          "handicap": 10.5,
+          "betRef": "9860171197",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171198",
+          "name": "Menos de 10.5",
+          "price": 8.25,
+          "handicap": 10.5,
+          "betRef": "9860171198",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171193",
+          "name": "Mais de 11.5",
+          "price": 1.1,
+          "handicap": 11.5,
+          "betRef": "9860171193",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171194",
+          "name": "Menos de 11.5",
+          "price": 6.2,
+          "handicap": 11.5,
+          "betRef": "9860171194",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171187",
+          "name": "Mais de 12.5",
+          "price": 1.17,
+          "handicap": 12.5,
+          "betRef": "9860171187",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171188",
+          "name": "Menos de 12.5",
+          "price": 4.65,
+          "handicap": 12.5,
+          "betRef": "9860171188",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171183",
+          "name": "Mais de 13.5",
+          "price": 1.28,
+          "handicap": 13.5,
+          "betRef": "9860171183",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171184",
+          "name": "Menos de 13.5",
+          "price": 3.5,
+          "handicap": 13.5,
+          "betRef": "9860171184",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171179",
+          "name": "Mais de 14.5",
+          "price": 1.44,
+          "handicap": 14.5,
+          "betRef": "9860171179",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171180",
+          "name": "Menos de 14.5",
+          "price": 2.67,
+          "handicap": 14.5,
+          "betRef": "9860171180",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171185",
+          "name": "Mais de 18.5",
+          "price": 3.0,
+          "handicap": 18.5,
+          "betRef": "9860171185",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171186",
+          "name": "Menos de 18.5",
+          "price": 1.36,
+          "handicap": 18.5,
+          "betRef": "9860171186",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171189",
+          "name": "Mais de 19.5",
+          "price": 3.8,
+          "handicap": 19.5,
+          "betRef": "9860171189",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171190",
+          "name": "Menos de 19.5",
+          "price": 1.24,
+          "handicap": 19.5,
+          "betRef": "9860171190",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171191",
+          "name": "Mais de 20.5",
+          "price": 4.9,
+          "handicap": 20.5,
+          "betRef": "9860171191",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171192",
+          "name": "Menos de 20.5",
+          "price": 1.15,
+          "handicap": 20.5,
+          "betRef": "9860171192",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171195",
+          "name": "Mais de 21.5",
+          "price": 6.3,
+          "handicap": 21.5,
+          "betRef": "9860171195",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171196",
+          "name": "Menos de 21.5",
+          "price": 1.1,
+          "handicap": 21.5,
+          "betRef": "9860171196",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171199",
+          "name": "Mais de 22.5",
+          "price": 7.9,
+          "handicap": 22.5,
+          "betRef": "9860171199",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171200",
+          "name": "Menos de 22.5",
+          "price": 1.06,
+          "handicap": 22.5,
+          "betRef": "9860171200",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2826019445",
+      "uniqueId": "2826019445",
+      "name": "Equador Total de tiros de meta",
+      "type": "4165",
+      "typeId": 4165,
+      "handicap": 4.5,
+      "displayOrder": 1122,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41650",
+      "selections": [
+        {
+          "id": "9860171207",
+          "name": "Mais de 8.5",
+          "price": 1.7,
+          "handicap": 8.5,
+          "betRef": "9860171207",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171208",
+          "name": "Menos de 8.5",
+          "price": 2.07,
+          "handicap": 8.5,
+          "betRef": "9860171208",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171211",
+          "name": "Mais de 7.5",
+          "price": 1.4,
+          "handicap": 7.5,
+          "betRef": "9860171211",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171212",
+          "name": "Menos de 7.5",
+          "price": 2.8,
+          "handicap": 7.5,
+          "betRef": "9860171212",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171203",
+          "name": "Mais de 9.5",
+          "price": 2.15,
+          "handicap": 9.5,
+          "betRef": "9860171203",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171204",
+          "name": "Menos de 9.5",
+          "price": 1.65,
+          "handicap": 9.5,
+          "betRef": "9860171204",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9872060295",
+          "name": "Mais de 4.5",
+          "price": 1.04,
+          "handicap": 4.5,
+          "betRef": "9872060295",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9872060296",
+          "name": "Menos de 4.5",
+          "price": 9.0,
+          "handicap": 4.5,
+          "betRef": "9872060296",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171221",
+          "name": "Mais de 5.5",
+          "price": 1.1,
+          "handicap": 5.5,
+          "betRef": "9860171221",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171222",
+          "name": "Menos de 5.5",
+          "price": 6.1,
+          "handicap": 5.5,
+          "betRef": "9860171222",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171217",
+          "name": "Mais de 6.5",
+          "price": 1.21,
+          "handicap": 6.5,
+          "betRef": "9860171217",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171218",
+          "name": "Menos de 6.5",
+          "price": 4.05,
+          "handicap": 6.5,
+          "betRef": "9860171218",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171205",
+          "name": "Mais de 10.5",
+          "price": 2.9,
+          "handicap": 10.5,
+          "betRef": "9860171205",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171206",
+          "name": "Menos de 10.5",
+          "price": 1.38,
+          "handicap": 10.5,
+          "betRef": "9860171206",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171209",
+          "name": "Mais de 11.5",
+          "price": 4.0,
+          "handicap": 11.5,
+          "betRef": "9860171209",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171210",
+          "name": "Menos de 11.5",
+          "price": 1.22,
+          "handicap": 11.5,
+          "betRef": "9860171210",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171213",
+          "name": "Mais de 12.5",
+          "price": 5.6,
+          "handicap": 12.5,
+          "betRef": "9860171213",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171214",
+          "name": "Menos de 12.5",
+          "price": 1.12,
+          "handicap": 12.5,
+          "betRef": "9860171214",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171215",
+          "name": "Mais de 13.5",
+          "price": 7.6,
+          "handicap": 13.5,
+          "betRef": "9860171215",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171216",
+          "name": "Menos de 13.5",
+          "price": 1.07,
+          "handicap": 13.5,
+          "betRef": "9860171216",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171219",
+          "name": "Mais de 14.5",
+          "price": 9.75,
+          "handicap": 14.5,
+          "betRef": "9860171219",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171220",
+          "name": "Menos de 14.5",
+          "price": 1.03,
+          "handicap": 14.5,
+          "betRef": "9860171220",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107002",
+      "uniqueId": "2823107002",
+      "name": "Alemanha Total de tiros de meta",
+      "type": "4166",
+      "typeId": 4166,
+      "handicap": 2.5,
+      "displayOrder": 1123,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41660",
+      "selections": [
+        {
+          "id": "9860171231",
+          "name": "Mais de 7.5",
+          "price": 2.05,
+          "handicap": 7.5,
+          "betRef": "9860171231",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171232",
+          "name": "Menos de 7.5",
+          "price": 1.72,
+          "handicap": 7.5,
+          "betRef": "9860171232",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171227",
+          "name": "Mais de 6.5",
+          "price": 1.6,
+          "handicap": 6.5,
+          "betRef": "9860171227",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171228",
+          "name": "Menos de 6.5",
+          "price": 2.27,
+          "handicap": 6.5,
+          "betRef": "9860171228",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171233",
+          "name": "Mais de 8.5",
+          "price": 2.82,
+          "handicap": 8.5,
+          "betRef": "9860171233",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171234",
+          "name": "Menos de 8.5",
+          "price": 1.4,
+          "handicap": 8.5,
+          "betRef": "9860171234",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171239",
+          "name": "Mais de 2.5",
+          "price": 1.015,
+          "handicap": 2.5,
+          "betRef": "9860171239",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171240",
+          "name": "Menos de 2.5",
+          "price": 11.75,
+          "handicap": 2.5,
+          "betRef": "9860171240",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171235",
+          "name": "Mais de 3.5",
+          "price": 1.05,
+          "handicap": 3.5,
+          "betRef": "9860171235",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171236",
+          "name": "Menos de 3.5",
+          "price": 8.25,
+          "handicap": 3.5,
+          "betRef": "9860171236",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171229",
+          "name": "Mais de 4.5",
+          "price": 1.14,
+          "handicap": 4.5,
+          "betRef": "9860171229",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171230",
+          "name": "Menos de 4.5",
+          "price": 5.1,
+          "handicap": 4.5,
+          "betRef": "9860171230",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171225",
+          "name": "Mais de 5.5",
+          "price": 1.31,
+          "handicap": 5.5,
+          "betRef": "9860171225",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171226",
+          "name": "Menos de 5.5",
+          "price": 3.3,
+          "handicap": 5.5,
+          "betRef": "9860171226",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171237",
+          "name": "Mais de 9.5",
+          "price": 4.0,
+          "handicap": 9.5,
+          "betRef": "9860171237",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171238",
+          "name": "Menos de 9.5",
+          "price": 1.22,
+          "handicap": 9.5,
+          "betRef": "9860171238",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171241",
+          "name": "Mais de 10.5",
+          "price": 5.7,
+          "handicap": 10.5,
+          "betRef": "9860171241",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171242",
+          "name": "Menos de 10.5",
+          "price": 1.12,
+          "handicap": 10.5,
+          "betRef": "9860171242",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860171243",
+          "name": "Mais de 11.5",
+          "price": 8.0,
+          "handicap": 11.5,
+          "betRef": "9860171243",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171244",
+          "name": "Menos de 11.5",
+          "price": 1.06,
+          "handicap": 11.5,
+          "betRef": "9860171244",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172266",
+          "name": "Mais de 12.5",
+          "price": 10.5,
+          "handicap": 12.5,
+          "betRef": "9860172266",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172267",
+          "name": "Menos de 12.5",
+          "price": 1.025,
+          "handicap": 12.5,
+          "betRef": "9860172267",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107398",
+      "uniqueId": "2823107398",
+      "name": "Total de laterais",
+      "type": "X128",
+      "typeId": 460,
+      "handicap": 23.5,
+      "displayOrder": 1125,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X1280",
+      "selections": [
+        {
+          "id": "9860172302",
+          "name": "Mais de 35.5",
+          "price": 1.91,
+          "handicap": 35.5,
+          "betRef": "9860172302",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172303",
+          "name": "Menos de 35.5",
+          "price": 1.83,
+          "handicap": 35.5,
+          "betRef": "9860172303",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172304",
+          "name": "Mais de 33.5",
+          "price": 1.53,
+          "handicap": 33.5,
+          "betRef": "9860172304",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172305",
+          "name": "Menos de 33.5",
+          "price": 2.4,
+          "handicap": 33.5,
+          "betRef": "9860172305",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172306",
+          "name": "Mais de 37.5",
+          "price": 2.5,
+          "handicap": 37.5,
+          "betRef": "9860172306",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172307",
+          "name": "Menos de 37.5",
+          "price": 1.5,
+          "handicap": 37.5,
+          "betRef": "9860172307",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172326",
+          "name": "Mais de 23.5",
+          "price": 1.01,
+          "handicap": 23.5,
+          "betRef": "9860172326",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172327",
+          "name": "Menos de 23.5",
+          "price": 12.5,
+          "handicap": 23.5,
+          "betRef": "9860172327",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172322",
+          "name": "Mais de 25.5",
+          "price": 1.03,
+          "handicap": 25.5,
+          "betRef": "9860172322",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172323",
+          "name": "Menos de 25.5",
+          "price": 10.0,
+          "handicap": 25.5,
+          "betRef": "9860172323",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172318",
+          "name": "Mais de 27.5",
+          "price": 1.07,
+          "handicap": 27.5,
+          "betRef": "9860172318",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172319",
+          "name": "Menos de 27.5",
+          "price": 7.2,
+          "handicap": 27.5,
+          "betRef": "9860172319",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172314",
+          "name": "Mais de 29.5",
+          "price": 1.16,
+          "handicap": 29.5,
+          "betRef": "9860172314",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172315",
+          "name": "Menos de 29.5",
+          "price": 4.85,
+          "handicap": 29.5,
+          "betRef": "9860172315",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172308",
+          "name": "Mais de 31.5",
+          "price": 1.3,
+          "handicap": 31.5,
+          "betRef": "9860172308",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172309",
+          "name": "Menos de 31.5",
+          "price": 3.35,
+          "handicap": 31.5,
+          "betRef": "9860172309",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172310",
+          "name": "Mais de 39.5",
+          "price": 3.45,
+          "handicap": 39.5,
+          "betRef": "9860172310",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172311",
+          "name": "Menos de 39.5",
+          "price": 1.28,
+          "handicap": 39.5,
+          "betRef": "9860172311",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172312",
+          "name": "Mais de 41.5",
+          "price": 4.85,
+          "handicap": 41.5,
+          "betRef": "9860172312",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172313",
+          "name": "Menos de 41.5",
+          "price": 1.16,
+          "handicap": 41.5,
+          "betRef": "9860172313",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172316",
+          "name": "Mais de 43.5",
+          "price": 6.9,
+          "handicap": 43.5,
+          "betRef": "9860172316",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172317",
+          "name": "Menos de 43.5",
+          "price": 1.08,
+          "handicap": 43.5,
+          "betRef": "9860172317",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172320",
+          "name": "Mais de 45.5",
+          "price": 9.25,
+          "handicap": 45.5,
+          "betRef": "9860172320",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172321",
+          "name": "Menos de 45.5",
+          "price": 1.04,
+          "handicap": 45.5,
+          "betRef": "9860172321",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172324",
+          "name": "Mais de 47.5",
+          "price": 11.5,
+          "handicap": 47.5,
+          "betRef": "9860172324",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172325",
+          "name": "Menos de 47.5",
+          "price": 1.02,
+          "handicap": 47.5,
+          "betRef": "9860172325",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172328",
+          "name": "Mais de 49.5",
+          "price": 13.0,
+          "handicap": 49.5,
+          "betRef": "9860172328",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172329",
+          "name": "Menos de 49.5",
+          "price": 1.007,
+          "handicap": 49.5,
+          "betRef": "9860172329",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107411",
+      "uniqueId": "2823107411",
+      "name": "Equador Total de laterais",
+      "type": "4167",
+      "typeId": 4167,
+      "handicap": 11.5,
+      "displayOrder": 1127,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41670",
+      "selections": [
+        {
+          "id": "9860172332",
+          "name": "Mais de 16.5",
+          "price": 1.85,
+          "handicap": 16.5,
+          "betRef": "9860172332",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172333",
+          "name": "Menos de 16.5",
+          "price": 1.9,
+          "handicap": 16.5,
+          "betRef": "9860172333",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172336",
+          "name": "Mais de 15.5",
+          "price": 1.57,
+          "handicap": 15.5,
+          "betRef": "9860172336",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172337",
+          "name": "Menos de 15.5",
+          "price": 2.3,
+          "handicap": 15.5,
+          "betRef": "9860172337",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172334",
+          "name": "Mais de 17.5",
+          "price": 2.22,
+          "handicap": 17.5,
+          "betRef": "9860172334",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172335",
+          "name": "Menos de 17.5",
+          "price": 1.62,
+          "handicap": 17.5,
+          "betRef": "9860172335",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172352",
+          "name": "Mais de 11.5",
+          "price": 1.08,
+          "handicap": 11.5,
+          "betRef": "9860172352",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172353",
+          "name": "Menos de 11.5",
+          "price": 6.8,
+          "handicap": 11.5,
+          "betRef": "9860172353",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172348",
+          "name": "Mais de 12.5",
+          "price": 1.15,
+          "handicap": 12.5,
+          "betRef": "9860172348",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172349",
+          "name": "Menos de 12.5",
+          "price": 5.1,
+          "handicap": 12.5,
+          "betRef": "9860172349",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172344",
+          "name": "Mais de 13.5",
+          "price": 1.24,
+          "handicap": 13.5,
+          "betRef": "9860172344",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172345",
+          "name": "Menos de 13.5",
+          "price": 3.8,
+          "handicap": 13.5,
+          "betRef": "9860172345",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172340",
+          "name": "Mais de 14.5",
+          "price": 1.38,
+          "handicap": 14.5,
+          "betRef": "9860172340",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172341",
+          "name": "Menos de 14.5",
+          "price": 2.92,
+          "handicap": 14.5,
+          "betRef": "9860172341",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172338",
+          "name": "Mais de 18.5",
+          "price": 2.75,
+          "handicap": 18.5,
+          "betRef": "9860172338",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172339",
+          "name": "Menos de 18.5",
+          "price": 1.42,
+          "handicap": 18.5,
+          "betRef": "9860172339",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172342",
+          "name": "Mais de 19.5",
+          "price": 3.45,
+          "handicap": 19.5,
+          "betRef": "9860172342",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172343",
+          "name": "Menos de 19.5",
+          "price": 1.28,
+          "handicap": 19.5,
+          "betRef": "9860172343",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172346",
+          "name": "Mais de 20.5",
+          "price": 4.45,
+          "handicap": 20.5,
+          "betRef": "9860172346",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172347",
+          "name": "Menos de 20.5",
+          "price": 1.18,
+          "handicap": 20.5,
+          "betRef": "9860172347",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172350",
+          "name": "Mais de 21.5",
+          "price": 5.7,
+          "handicap": 21.5,
+          "betRef": "9860172350",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172351",
+          "name": "Menos de 21.5",
+          "price": 1.12,
+          "handicap": 21.5,
+          "betRef": "9860172351",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107422",
+      "uniqueId": "2823107422",
+      "name": "Alemanha Total de laterais",
+      "type": "4168",
+      "typeId": 4168,
+      "handicap": 13.5,
+      "displayOrder": 1128,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41680",
+      "selections": [
+        {
+          "id": "9860172354",
+          "name": "Mais de 18.5",
+          "price": 1.85,
+          "handicap": 18.5,
+          "betRef": "9860172354",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172355",
+          "name": "Menos de 18.5",
+          "price": 1.9,
+          "handicap": 18.5,
+          "betRef": "9860172355",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172358",
+          "name": "Mais de 17.5",
+          "price": 1.57,
+          "handicap": 17.5,
+          "betRef": "9860172358",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172359",
+          "name": "Menos de 17.5",
+          "price": 2.3,
+          "handicap": 17.5,
+          "betRef": "9860172359",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172356",
+          "name": "Mais de 19.5",
+          "price": 2.2,
+          "handicap": 19.5,
+          "betRef": "9860172356",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172357",
+          "name": "Menos de 19.5",
+          "price": 1.62,
+          "handicap": 19.5,
+          "betRef": "9860172357",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172374",
+          "name": "Mais de 13.5",
+          "price": 1.1,
+          "handicap": 13.5,
+          "betRef": "9860172374",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172375",
+          "name": "Menos de 13.5",
+          "price": 6.2,
+          "handicap": 13.5,
+          "betRef": "9860172375",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172370",
+          "name": "Mais de 14.5",
+          "price": 1.16,
+          "handicap": 14.5,
+          "betRef": "9860172370",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172371",
+          "name": "Menos de 14.5",
+          "price": 4.75,
+          "handicap": 14.5,
+          "betRef": "9860172371",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172366",
+          "name": "Mais de 15.5",
+          "price": 1.26,
+          "handicap": 15.5,
+          "betRef": "9860172366",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172367",
+          "name": "Menos de 15.5",
+          "price": 3.6,
+          "handicap": 15.5,
+          "betRef": "9860172367",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172362",
+          "name": "Mais de 16.5",
+          "price": 1.4,
+          "handicap": 16.5,
+          "betRef": "9860172362",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172363",
+          "name": "Menos de 16.5",
+          "price": 2.82,
+          "handicap": 16.5,
+          "betRef": "9860172363",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172360",
+          "name": "Mais de 20.5",
+          "price": 2.67,
+          "handicap": 20.5,
+          "betRef": "9860172360",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172361",
+          "name": "Menos de 20.5",
+          "price": 1.44,
+          "handicap": 20.5,
+          "betRef": "9860172361",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172364",
+          "name": "Mais de 21.5",
+          "price": 3.35,
+          "handicap": 21.5,
+          "betRef": "9860172364",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172365",
+          "name": "Menos de 21.5",
+          "price": 1.3,
+          "handicap": 21.5,
+          "betRef": "9860172365",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172368",
+          "name": "Mais de 22.5",
+          "price": 4.2,
+          "handicap": 22.5,
+          "betRef": "9860172368",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172369",
+          "name": "Menos de 22.5",
+          "price": 1.2,
+          "handicap": 22.5,
+          "betRef": "9860172369",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860172372",
+          "name": "Mais de 23.5",
+          "price": 5.3,
+          "handicap": 23.5,
+          "betRef": "9860172372",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172373",
+          "name": "Menos de 23.5",
+          "price": 1.13,
+          "handicap": 23.5,
+          "betRef": "9860172373",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823436955",
+      "uniqueId": "2823436955",
+      "name": "Total de passes",
+      "type": "X139",
+      "typeId": 439,
+      "handicap": 985.5,
+      "displayOrder": 1130,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 3,
+      "pinKey": "p_X1390",
+      "selections": [
+        {
+          "id": "9871131498",
+          "name": "Mais de 995.5",
+          "price": 1.87,
+          "handicap": 995.5,
+          "betRef": "9871131498",
+          "renderingLayout": 1,
+          "columnIndex": 0
+        },
+        {
+          "id": "9861559899",
+          "name": "Mais de 985.5",
+          "price": 1.72,
+          "handicap": 985.5,
+          "betRef": "9861559899",
+          "renderingLayout": 1,
+          "columnIndex": 0
+        },
+        {
+          "id": "9871131500",
+          "name": "Mais de 1005.5",
+          "price": 2.02,
+          "handicap": 1005.5,
+          "betRef": "9871131500",
+          "renderingLayout": 1,
+          "columnIndex": 0
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2825781850",
+      "uniqueId": "2825781850",
+      "name": "Equador Total de passes",
+      "type": "1000113",
+      "typeId": 1000113,
+      "handicap": 367.5,
+      "displayOrder": 1131,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 1,
+      "pinKey": "p_10001130",
+      "selections": [
+        {
+          "id": "9871131548",
+          "name": "Mais de 367.5",
+          "price": 1.87,
+          "handicap": 367.5,
+          "betRef": "9871131548",
+          "renderingLayout": 1,
+          "columnIndex": 0
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2825781851",
+      "uniqueId": "2825781851",
+      "name": "Alemanha Total de passes",
+      "type": "1000114",
+      "typeId": 1000114,
+      "handicap": 617.5,
+      "displayOrder": 1132,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 1,
+      "pinKey": "p_10001140",
+      "selections": [
+        {
+          "id": "9871131550",
+          "name": "Mais de 617.5",
+          "price": 1.87,
+          "handicap": 617.5,
+          "betRef": "9871131550",
+          "renderingLayout": 1,
+          "columnIndex": 0
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823113440",
+      "uniqueId": "2823113440",
+      "name": "Total de Desarmes",
+      "type": "X350",
+      "typeId": 644,
+      "handicap": 27.5,
+      "displayOrder": 1136,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X3500",
+      "selections": [
+        {
+          "id": "9860186218",
+          "name": "Mais de 33.5",
+          "price": 1.91,
+          "handicap": 33.5,
+          "betRef": "9860186218",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186219",
+          "name": "Menos de 33.5",
+          "price": 1.83,
+          "handicap": 33.5,
+          "betRef": "9860186219",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186222",
+          "name": "Mais de 32.5",
+          "price": 1.7,
+          "handicap": 32.5,
+          "betRef": "9860186222",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186223",
+          "name": "Menos de 32.5",
+          "price": 2.07,
+          "handicap": 32.5,
+          "betRef": "9860186223",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186220",
+          "name": "Mais de 34.5",
+          "price": 2.2,
+          "handicap": 34.5,
+          "betRef": "9860186220",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186221",
+          "name": "Menos de 34.5",
+          "price": 1.62,
+          "handicap": 34.5,
+          "betRef": "9860186221",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860196553",
+          "name": "Mais de 27.5",
+          "price": 1.15,
+          "handicap": 27.5,
+          "betRef": "9860196553",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860196554",
+          "name": "Menos de 27.5",
+          "price": 5.0,
+          "handicap": 27.5,
+          "betRef": "9860196554",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186238",
+          "name": "Mais de 28.5",
+          "price": 1.21,
+          "handicap": 28.5,
+          "betRef": "9860186238",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186239",
+          "name": "Menos de 28.5",
+          "price": 4.15,
+          "handicap": 28.5,
+          "betRef": "9860186239",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186234",
+          "name": "Mais de 29.5",
+          "price": 1.29,
+          "handicap": 29.5,
+          "betRef": "9860186234",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186235",
+          "name": "Menos de 29.5",
+          "price": 3.4,
+          "handicap": 29.5,
+          "betRef": "9860186235",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186230",
+          "name": "Mais de 30.5",
+          "price": 1.39,
+          "handicap": 30.5,
+          "betRef": "9860186230",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186231",
+          "name": "Menos de 30.5",
+          "price": 2.85,
+          "handicap": 30.5,
+          "betRef": "9860186231",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186226",
+          "name": "Mais de 31.5",
+          "price": 1.52,
+          "handicap": 31.5,
+          "betRef": "9860186226",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186227",
+          "name": "Menos de 31.5",
+          "price": 2.42,
+          "handicap": 31.5,
+          "betRef": "9860186227",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186224",
+          "name": "Mais de 35.5",
+          "price": 2.55,
+          "handicap": 35.5,
+          "betRef": "9860186224",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186225",
+          "name": "Menos de 35.5",
+          "price": 1.47,
+          "handicap": 35.5,
+          "betRef": "9860186225",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186228",
+          "name": "Mais de 36.5",
+          "price": 2.95,
+          "handicap": 36.5,
+          "betRef": "9860186228",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186229",
+          "name": "Menos de 36.5",
+          "price": 1.36,
+          "handicap": 36.5,
+          "betRef": "9860186229",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186232",
+          "name": "Mais de 37.5",
+          "price": 3.5,
+          "handicap": 37.5,
+          "betRef": "9860186232",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186233",
+          "name": "Menos de 37.5",
+          "price": 1.27,
+          "handicap": 37.5,
+          "betRef": "9860186233",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186236",
+          "name": "Mais de 38.5",
+          "price": 4.2,
+          "handicap": 38.5,
+          "betRef": "9860186236",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186237",
+          "name": "Menos de 38.5",
+          "price": 1.2,
+          "handicap": 38.5,
+          "betRef": "9860186237",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186240",
+          "name": "Mais de 39.5",
+          "price": 5.0,
+          "handicap": 39.5,
+          "betRef": "9860186240",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186241",
+          "name": "Menos de 39.5",
+          "price": 1.15,
+          "handicap": 39.5,
+          "betRef": "9860186241",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823113740",
+      "uniqueId": "2823113740",
+      "name": "Equador Total de Desarmes",
+      "type": "1000111",
+      "typeId": 1000111,
+      "handicap": 12.5,
+      "displayOrder": 1137,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_10001110",
+      "selections": [
+        {
+          "id": "9860186258",
+          "name": "Mais de 16.5",
+          "price": 1.72,
+          "handicap": 16.5,
+          "betRef": "9860186258",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186259",
+          "name": "Menos de 16.5",
+          "price": 2.05,
+          "handicap": 16.5,
+          "betRef": "9860186259",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186262",
+          "name": "Mais de 15.5",
+          "price": 1.5,
+          "handicap": 15.5,
+          "betRef": "9860186262",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186263",
+          "name": "Menos de 15.5",
+          "price": 2.5,
+          "handicap": 15.5,
+          "betRef": "9860186263",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186252",
+          "name": "Mais de 17.5",
+          "price": 2.05,
+          "handicap": 17.5,
+          "betRef": "9860186252",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186253",
+          "name": "Menos de 17.5",
+          "price": 1.72,
+          "handicap": 17.5,
+          "betRef": "9860186253",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860198261",
+          "name": "Mais de 12.5",
+          "price": 1.12,
+          "handicap": 12.5,
+          "betRef": "9860198261",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860198262",
+          "name": "Menos de 12.5",
+          "price": 5.6,
+          "handicap": 12.5,
+          "betRef": "9860198262",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860198259",
+          "name": "Mais de 13.5",
+          "price": 1.2,
+          "handicap": 13.5,
+          "betRef": "9860198259",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860198260",
+          "name": "Menos de 13.5",
+          "price": 4.2,
+          "handicap": 13.5,
+          "betRef": "9860198260",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860196555",
+          "name": "Mais de 14.5",
+          "price": 1.32,
+          "handicap": 14.5,
+          "betRef": "9860196555",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860196556",
+          "name": "Menos de 14.5",
+          "price": 3.2,
+          "handicap": 14.5,
+          "betRef": "9860196556",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186248",
+          "name": "Mais de 18.5",
+          "price": 2.5,
+          "handicap": 18.5,
+          "betRef": "9860186248",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186249",
+          "name": "Menos de 18.5",
+          "price": 1.5,
+          "handicap": 18.5,
+          "betRef": "9860186249",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186244",
+          "name": "Mais de 19.5",
+          "price": 3.15,
+          "handicap": 19.5,
+          "betRef": "9860186244",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186245",
+          "name": "Menos de 19.5",
+          "price": 1.33,
+          "handicap": 19.5,
+          "betRef": "9860186245",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186246",
+          "name": "Mais de 20.5",
+          "price": 4.0,
+          "handicap": 20.5,
+          "betRef": "9860186246",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186247",
+          "name": "Menos de 20.5",
+          "price": 1.22,
+          "handicap": 20.5,
+          "betRef": "9860186247",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186250",
+          "name": "Mais de 21.5",
+          "price": 5.1,
+          "handicap": 21.5,
+          "betRef": "9860186250",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186251",
+          "name": "Menos de 21.5",
+          "price": 1.14,
+          "handicap": 21.5,
+          "betRef": "9860186251",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186254",
+          "name": "Mais de 22.5",
+          "price": 6.5,
+          "handicap": 22.5,
+          "betRef": "9860186254",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186255",
+          "name": "Menos de 22.5",
+          "price": 1.09,
+          "handicap": 22.5,
+          "betRef": "9860186255",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823111217",
+      "uniqueId": "2823111217",
+      "name": "Alemanha Total de Desarmes",
+      "type": "1000112",
+      "typeId": 1000112,
+      "handicap": 11.5,
+      "displayOrder": 1138,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_10001120",
+      "selections": [
+        {
+          "id": "9860186276",
+          "name": "Mais de 16.5",
+          "price": 1.98,
+          "handicap": 16.5,
+          "betRef": "9860186276",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186277",
+          "name": "Menos de 16.5",
+          "price": 1.78,
+          "handicap": 16.5,
+          "betRef": "9860186277",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186272",
+          "name": "Mais de 15.5",
+          "price": 1.67,
+          "handicap": 15.5,
+          "betRef": "9860186272",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186273",
+          "name": "Menos de 15.5",
+          "price": 2.12,
+          "handicap": 15.5,
+          "betRef": "9860186273",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186280",
+          "name": "Mais de 17.5",
+          "price": 2.42,
+          "handicap": 17.5,
+          "betRef": "9860186280",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186281",
+          "name": "Menos de 17.5",
+          "price": 1.52,
+          "handicap": 17.5,
+          "betRef": "9860186281",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186274",
+          "name": "Mais de 11.5",
+          "price": 1.1,
+          "handicap": 11.5,
+          "betRef": "9860186274",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186275",
+          "name": "Menos de 11.5",
+          "price": 6.2,
+          "handicap": 11.5,
+          "betRef": "9860186275",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186270",
+          "name": "Mais de 12.5",
+          "price": 1.18,
+          "handicap": 12.5,
+          "betRef": "9860186270",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186271",
+          "name": "Menos de 12.5",
+          "price": 4.55,
+          "handicap": 12.5,
+          "betRef": "9860186271",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186266",
+          "name": "Mais de 13.5",
+          "price": 1.28,
+          "handicap": 13.5,
+          "betRef": "9860186266",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186267",
+          "name": "Menos de 13.5",
+          "price": 3.45,
+          "handicap": 13.5,
+          "betRef": "9860186267",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186268",
+          "name": "Mais de 14.5",
+          "price": 1.44,
+          "handicap": 14.5,
+          "betRef": "9860186268",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186269",
+          "name": "Menos de 14.5",
+          "price": 2.65,
+          "handicap": 14.5,
+          "betRef": "9860186269",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186284",
+          "name": "Mais de 18.5",
+          "price": 3.05,
+          "handicap": 18.5,
+          "betRef": "9860186284",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186285",
+          "name": "Menos de 18.5",
+          "price": 1.35,
+          "handicap": 18.5,
+          "betRef": "9860186285",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860186286",
+          "name": "Mais de 19.5",
+          "price": 3.85,
+          "handicap": 19.5,
+          "betRef": "9860186286",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860186287",
+          "name": "Menos de 19.5",
+          "price": 1.23,
+          "handicap": 19.5,
+          "betRef": "9860186287",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9860198263",
+          "name": "Mais de 20.5",
+          "price": 5.0,
+          "handicap": 20.5,
+          "betRef": "9860198263",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860198264",
+          "name": "Menos de 20.5",
+          "price": 1.15,
+          "handicap": 20.5,
+          "betRef": "9860198264",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        },
+        {
+          "id": "9873250540",
+          "name": "Mais de 21.5",
+          "price": 6.4,
+          "handicap": 21.5,
+          "betRef": "9873250540",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9873250541",
+          "name": "Menos de 21.5",
+          "price": 1.1,
+          "handicap": 21.5,
+          "betRef": "9873250541",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823107494",
+      "uniqueId": "2823107494",
+      "name": "Impedimentos Handicap 2-Way",
+      "type": "4114",
+      "typeId": 4114,
+      "handicap": 0.5,
+      "displayOrder": 1100,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41140",
+      "selections": [
+        {
+          "id": "9860172519",
+          "name": "Equador +0.5",
+          "price": 1.53,
+          "handicap": 0.5,
+          "betRef": "9860172519",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860172520",
+          "name": "Alemanha -0.5",
+          "price": 2.4,
+          "handicap": -0.5,
+          "betRef": "9860172520",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2826019444",
+      "uniqueId": "2826019444",
+      "name": "Tiros de meta Handicap 2-Way",
+      "type": "4111",
+      "typeId": 4111,
+      "handicap": -1.5,
+      "displayOrder": 1121,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41110",
+      "selections": [
+        {
+          "id": "9872060293",
+          "name": "Equador -1.5",
+          "price": 1.8,
+          "handicap": -1.5,
+          "betRef": "9872060293",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9872060294",
+          "name": "Alemanha +1.5",
+          "price": 1.95,
+          "handicap": 1.5,
+          "betRef": "9872060294",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2823106968",
+      "uniqueId": "2823106968",
+      "name": "Primeiro Tempo Total de tiros de meta",
+      "type": "4104",
+      "typeId": 4104,
+      "handicap": 7.5,
+      "displayOrder": 1124,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_41040",
+      "selections": [
+        {
+          "id": "9860171171",
+          "name": "Mais de 7.5",
+          "price": 1.91,
+          "handicap": 7.5,
+          "betRef": "9860171171",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9860171172",
+          "name": "Menos de 7.5",
+          "price": 1.82,
+          "handicap": 7.5,
+          "betRef": "9860171172",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426292",
+      "uniqueId": "2707426292",
+      "name": "Primeiro Chute no gol",
+      "type": "X333",
+      "typeId": 583,
+      "handicap": 0.0,
+      "displayOrder": 1144,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X3330",
+      "selections": [
+        {
+          "id": "9393615555",
+          "name": "Equador",
+          "price": 2.2,
+          "handicap": 0.0,
+          "betRef": "9393615555",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615556",
+          "name": "Alemanha",
+          "price": 1.62,
+          "handicap": 0.0,
+          "betRef": "9393615556",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426300",
+      "uniqueId": "2707426300",
+      "name": "Primeiro impedimento",
+      "type": "X334",
+      "typeId": 627,
+      "handicap": 0.0,
+      "displayOrder": 1146,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X3340",
+      "selections": [
+        {
+          "id": "9393615584",
+          "name": "Equador",
+          "price": 1.88,
+          "handicap": 0.0,
+          "betRef": "9393615584",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615585",
+          "name": "Alemanha",
+          "price": 1.85,
+          "handicap": 0.0,
+          "betRef": "9393615585",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426299",
+      "uniqueId": "2707426299",
+      "name": "Primeiro tiro de meta",
+      "type": "X331",
+      "typeId": 625,
+      "handicap": 0.0,
+      "displayOrder": 1147,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X3310",
+      "selections": [
+        {
+          "id": "9393615583",
+          "name": "Equador",
+          "price": 1.7,
+          "handicap": 0.0,
+          "betRef": "9393615583",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615582",
+          "name": "Alemanha",
+          "price": 2.07,
+          "handicap": 0.0,
+          "betRef": "9393615582",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    },
+    {
+      "id": "2707426277",
+      "uniqueId": "2707426277",
+      "name": "Primeiro lateral",
+      "type": "X017",
+      "typeId": 355,
+      "handicap": 0.0,
+      "displayOrder": 1148,
+      "marketCloseTimeMillis": 1782417600000,
+      "renderingLayout": 2,
+      "pinKey": "p_X0170",
+      "selections": [
+        {
+          "id": "9393615448",
+          "name": "Equador",
+          "price": 1.98,
+          "handicap": 0.0,
+          "betRef": "9393615448",
+          "renderingLayout": 2,
+          "columnIndex": 0
+        },
+        {
+          "id": "9393615447",
+          "name": "Alemanha",
+          "price": 1.78,
+          "handicap": 0.0,
+          "betRef": "9393615447",
+          "renderingLayout": 2,
+          "columnIndex": 1
+        }
+      ],
+      "scorerSelections": [],
+      "exactScoreSelections": []
+    }
+  ],
+  "participants": [
+    {
+      "name": "Equador",
+      "url": "/sport/futebol/competicoes/copa-do-mundo/493g/equador/107152-t/",
+      "color": "",
+      "id": "107152"
+    },
+    {
+      "name": "Alemanha",
+      "url": "/sport/futebol/competicoes/copa-do-mundo/493g/alemanha/108301-t/",
+      "color": "",
+      "id": "108301"
+    }
+  ]
+}

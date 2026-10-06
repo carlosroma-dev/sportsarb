@@ -1,0 +1,16 @@
+# Normaliza fins de linha: texto sempre LF no working tree e no repo.
+# O pyproject exige `line-ending = "lf"` no ruff format; sem isto, o autocrlf
+# do Windows checa out CRLF e o `ruff format --check` falha em massa.
+* text=auto eol=lf
+
+# Binarios: nunca normalizar.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.db   binary
+*.sqlite binary
+*.xlsx binary
+*.zip  binary

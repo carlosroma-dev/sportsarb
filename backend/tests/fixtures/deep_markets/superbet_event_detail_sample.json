@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "eventId": 11499832,
+      "matchName": "África do Sul·Coreia do Sul",
+      "tournamentName": "Copa do Mundo da FIFA",
+      "tournamentId": 9001,
+      "utcDate": "2026-06-27T21:00:00Z",
+      "odds": [
+        {"marketId": 700, "marketName": "Total de Escanteios", "name": "Mais de 9.5", "price": 1.70, "status": "active", "uuid": "sb-700-o95"},
+        {"marketId": 700, "marketName": "Total de Escanteios", "name": "Menos de 9.5", "price": 2.10, "status": "active", "uuid": "sb-700-u95"},
+        {"marketId": 733, "marketName": "Coreia do Sul - Total de Escanteios", "name": "Mais de 4.5", "price": 1.65, "status": "active", "uuid": "sb-733-o45"},
+        {"marketId": 733, "marketName": "Coreia do Sul - Total de Escanteios", "name": "Menos de 4.5", "price": 2.20, "status": "active", "uuid": "sb-733-u45"},
+        {"marketId": 704, "marketName": "Coreia do Sul - Chutes no Gol", "name": "Mais de 4.5", "price": 1.95, "status": "active", "uuid": "sb-704-o45"},
+        {"marketId": 233943, "marketName": "Coreia do Sul - Total de Cartões Vermelhos", "name": "Mais de 0.5", "price": 8.30, "status": "active", "uuid": "sb-noise-red"},
+        {"marketId": 999, "marketName": "Total de Escanteios", "name": "Menos de 9.5", "price": 1.99, "status": "suspended", "uuid": "sb-suspended"}
+      ]
+    }
+  ]
+}

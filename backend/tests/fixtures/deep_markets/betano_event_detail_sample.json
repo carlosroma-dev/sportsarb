@@ -1,0 +1,58 @@
+{
+  "id": "83963736",
+  "name": "África do Sul - Coréia do Sul",
+  "startTime": 1782594000000,
+  "regionName": "Copa Do Mundo",
+  "leagueName": "Copa do Mundo da FIFA 2026",
+  "homeName": "África do Sul",
+  "awayName": "Coréia do Sul",
+  "markets": [
+    {
+      "id": "2707417300",
+      "name": "Escanteios",
+      "type": "CNOU",
+      "typeId": 34,
+      "selections": [
+        {"id": "betano-cnou-o95", "name": "Mais de 9.5", "price": 2.10, "handicap": 9.5},
+        {"id": "betano-cnou-u95", "name": "Menos de 9.5", "price": 1.70, "handicap": 9.5}
+      ]
+    },
+    {
+      "id": "2707417400",
+      "name": "Coréia do Sul Escanteios",
+      "type": "OUTC",
+      "typeId": 86,
+      "selections": [
+        {"id": "betano-team-o45", "name": "Mais de 4.5", "price": 1.55, "handicap": 4.5},
+        {"id": "betano-team-u45", "name": "Menos de 4.5", "price": 2.30, "handicap": 4.5}
+      ]
+    },
+    {
+      "id": "2707417500",
+      "name": "Total de Cartões Mais/Menos",
+      "type": "TCOU",
+      "typeId": 65,
+      "selections": [
+        {"id": "betano-card-o45", "name": "Mais de 4.5", "price": 1.90, "handicap": 4.5},
+        {"id": "betano-card-u45", "name": "Menos de 4.5", "price": 1.85, "handicap": 4.5}
+      ]
+    },
+    {
+      "id": "2707417600",
+      "name": "Chutes no gol",
+      "type": "PLST",
+      "typeId": 596,
+      "tableLayout": {
+        "title": "Chutes no gol",
+        "groups": [
+          {"id": "108558", "title": "África do Sul"},
+          {"id": "109242", "title": "Coréia do Sul"}
+        ],
+        "rows": [
+          {"groupId": "109242", "line": 4.5, "over": {"id": "betano-tl-o45", "name": "Mais de 4.5", "price": 1.70}, "under": {"id": "betano-tl-u45", "name": "Menos de 4.5", "price": 2.05}}
+        ]
+      },
+      "selections": []
+    }
+  ]
+}

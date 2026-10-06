@@ -1,0 +1,750 @@
+{
+  "data": [
+    {
+      "venue": {
+        "countryCode": "BR",
+        "subdivisionCode": ""
+      },
+      "hasVideoStream": false,
+      "lastModifiedTime": "2026-06-17T19:47:18.137Z",
+      "matchState": "PREMATCH",
+      "hasUnreliableEventPoints": false,
+      "eventTags": [
+        "sgp-pre",
+        "blockedOutright",
+        "homeParticipantStateLocation:BR",
+        "blockedFi",
+        "sgp-live",
+        "blockedGbLeovegas",
+        "tradedLive",
+        "blockedFiExpekt",
+        "venueStateLocation:BR",
+        "blockedGb",
+        "awayParticipantStateLocation:BR-Espirito Santo"
+      ],
+      "eventMetadata": {
+        "event-widget": {
+          "metadata": {
+            "providerId": "90"
+          }
+        },
+        "earlyPayout": {
+          "metadata": {
+            "earlyPayout": "false"
+          }
+        }
+      },
+      "eventReferences": [
+        {
+          "eventId": "29590487183048704",
+          "providerId": "81"
+        },
+        {
+          "eventId": "72003560",
+          "providerId": "92"
+        },
+        {
+          "eventId": "29590487183048704",
+          "providerId": "133"
+        },
+        {
+          "eventId": "29590487183048704",
+          "providerId": "134"
+        },
+        {
+          "eventId": "29590487183048704",
+          "providerId": "141"
+        },
+        {
+          "eventId": "29590487183048704",
+          "providerId": "142"
+        }
+      ],
+      "hasLiveTrading": false,
+      "eventName": null,
+      "startTime": "2026-06-17T21:45:00Z",
+      "id": 1517585,
+      "participants": [
+        {
+          "gender": "male",
+          "players": [
+            {
+              "name": "Veloso Santos, Jonilson",
+              "id": "83ac4862-9570-4141-bd48-aaefe0dbd13d"
+            },
+            {
+              "name": "Pacheco Ferreira, Lucas Jorge",
+              "id": "f021e1af-2ae1-4264-92a3-a020525ef752"
+            },
+            {
+              "name": "Aranha",
+              "id": "8ed21fde-2f31-4deb-8d03-1fc30ad72d86"
+            },
+            {
+              "name": "Santos de Souza, Uilson",
+              "id": "f814195f-908c-471e-87c1-3912f289c1ed"
+            },
+            {
+              "name": "Silva Lopes, Gabriel",
+              "id": "edd78850-6c79-4125-bf7e-b740d0b3edae"
+            },
+            {
+              "name": "De Novais Junior, Marcelo Ribeiro",
+              "id": "d5bb6bb4-0b77-4e19-b20d-00a49f69af67"
+            },
+            {
+              "name": "Amorim de Aguiar, Gabriel",
+              "id": "ffad2737-216a-42cc-a6e0-71289fde850d"
+            },
+            {
+              "name": "Guimaraes, Gustavo Cristo",
+              "id": "50a5a85c-ebc5-4e05-96f5-641b0592001c"
+            },
+            {
+              "name": "de Sena Santos, Cristian Fernando",
+              "id": "f120e380-9f6e-4fc7-ab1d-abcda11b82bb"
+            },
+            {
+              "name": "Andrade de Souza, Rodrigo",
+              "id": "fcc8587e-7500-4aed-aa2d-739b398a4608"
+            },
+            {
+              "name": "Carvalho de Castro, Marlon",
+              "id": "3d1edfa9-bf47-4663-9b9e-0905103d786c"
+            },
+            {
+              "name": "Nascimento, Thainler Mariano",
+              "id": "35762c3a-aabf-42b4-8cad-9e3ae9b5b0e5"
+            },
+            {
+              "name": "Lima dos Santos, Maycon Augusto",
+              "id": "1ee9ae74-77db-4ad0-87fb-fefbb2f4d6da"
+            },
+            {
+              "name": "Anelka",
+              "id": "e818ac1d-b7ef-46dd-8324-f58c7012b576"
+            },
+            {
+              "name": "Sousa Farias, Deivison",
+              "id": "aab2a813-1f3a-4c97-9e5f-327446bda61c"
+            },
+            {
+              "name": "Firmino Oliveira, Joao Pedro",
+              "id": "d1b43086-3c2e-4d7c-ae6e-5cdd02f1e11e"
+            },
+            {
+              "name": "Silva Azevedo, Julio Cezar",
+              "id": "f7fec532-d738-43fb-aa37-75c5e45cd9f8"
+            },
+            {
+              "name": "Almeida Franca, Peterson Lucas",
+              "id": "15c20302-9818-4d13-a07d-693d84dcabdc"
+            },
+            {
+              "name": "Montano Vasquez, Edwin Estiven",
+              "id": "34f37b71-1181-424d-801e-bd8b2aedbc05"
+            },
+            {
+              "name": "dos Santos Rocha, Lucas",
+              "id": "fb24c004-3fae-4d94-a79a-7288dfadbce6"
+            },
+            {
+              "name": "de Oliveira Junior, Edson Rodrigues",
+              "id": "41416951-f670-43e9-83df-27f65993c69b"
+            },
+            {
+              "name": "Campos Fonseca Junior, Antonio Marcos",
+              "id": "e2bb1862-7f66-4813-8767-bc26dd78f055"
+            },
+            {
+              "name": "Pereira Cipriano, Douglas",
+              "id": "08572ec2-9dc2-4d13-a1f5-adb47680dd83"
+            },
+            {
+              "name": "Sanchez Florentin, Alexis",
+              "id": "e56a2ed6-973d-4df9-b2ca-eb33ea78a0d0"
+            },
+            {
+              "name": "Negao, Junior",
+              "id": "ce97911e-60ca-43e4-bb2b-17370b7948a9"
+            },
+            {
+              "name": "Lorena, Ygor Suhett",
+              "id": "01bfa480-ec78-4bec-b071-bba24f7ca158"
+            },
+            {
+              "name": "Wender dos Santos, Patrick",
+              "id": "7d2fa96e-724e-477f-8f9e-acc7a122352b"
+            },
+            {
+              "name": "Marques Oliveira, Fellipi",
+              "id": "ad91783b-8497-498f-ae02-3fdf44d4375e"
+            },
+            {
+              "name": "do Nascimento, Madison Leppaus",
+              "id": "085d41e3-f881-48fa-bf3f-a9c1fb54c0df"
+            },
+            {
+              "name": "Oliveira Santos, Henrique Marcos",
+              "id": "676a37ac-2d5b-4079-b8c9-e5f391b2109b"
+            },
+            {
+              "name": "Ibrahima, Yaro",
+              "id": "1ec3f64a-ad5f-4ec5-8d9d-9a668d3fc1f8"
+            },
+            {
+              "name": "Favero Teixeira, Andrei",
+              "id": "adc43939-ae54-4208-beba-c772c4930197"
+            },
+            {
+              "name": "Gomes de Faria, Matheus Guilherme",
+              "id": "0a0c1791-60d9-4a64-b007-ba1b7cd65167"
+            },
+            {
+              "name": "Ruiz Alegria, Jose Leonardo",
+              "id": "9d747c16-976b-4e49-b3ba-20acaf0d1fc3"
+            },
+            {
+              "name": "Maicon",
+              "id": "078769d1-ca50-4484-b155-5e4652d16408"
+            },
+            {
+              "name": "Lopes da Silva, Emanuel",
+              "id": "a74df71c-2de4-44c6-b6ba-0d1013204159"
+            },
+            {
+              "name": "Ramalho da Silva, Marcos Vinicius",
+              "id": "4ba7763e-dd2c-49b0-9a4e-fd1d36da77aa"
+            },
+            {
+              "name": "Brito, Cleiton",
+              "id": "ec59f812-f02e-41d5-b024-a78293306515"
+            },
+            {
+              "name": "Henrique Angra da Silva, Matheus",
+              "id": "25c9bfa1-c212-4d30-b85d-a3bc8ffa2e88"
+            },
+            {
+              "name": "Roman Camasca, Luis Alberto",
+              "id": "9f4f0cb9-f0e6-46fb-9d8e-ec190d9c87ec"
+            },
+            {
+              "name": "Santos Silva, Kauan",
+              "id": "05850fb0-65aa-486e-b71f-4fc402055fef"
+            },
+            {
+              "name": "de Souza Ribeiro, Robert",
+              "id": "06111c7e-eb63-4b73-ad79-1c5154133262"
+            },
+            {
+              "name": "Gomes dos Santos Alves, Joao Victor",
+              "id": "07f6e7fd-2f95-4577-b21b-6f3823bd5a3c"
+            },
+            {
+              "name": "Chisco Valderrama, Juan Sebastian",
+              "id": "7fefb4e6-2859-40af-94ba-6d32b9247a46"
+            },
+            {
+              "name": "Figueiredo Braz, Keyvson",
+              "id": "02f63b69-08c9-48ba-829d-abebf7867c18"
+            }
+          ],
+          "homeLocation": {
+            "countryCode": "BR",
+            "subdivisionCode": ""
+          },
+          "name": "Vilavelhense-ES",
+          "participantType": "TEAM",
+          "id": 6103,
+          "position": "HOME",
+          "abbreviation": "VIL"
+        },
+        {
+          "gender": "male",
+          "players": [
+            {
+              "name": "Barbosa Wandermurem, Caique",
+              "id": "0f003c4c-0a92-48cc-92ce-a0dde7182ced"
+            },
+            {
+              "name": "Alexsandro",
+              "id": "d8f520ec-53f0-49e0-a9b5-9851ae7e5690"
+            },
+            {
+              "name": "Cabral, Matheus",
+              "id": "555ea740-ef7f-4d12-896c-218ff1c15bac"
+            },
+            {
+              "name": "Silva Damasceno, Marco Aurelio",
+              "id": "41d8d286-4793-4e79-8cd8-f8f7a4e26dfb"
+            },
+            {
+              "name": "Guerra Taixeirao, Diego",
+              "id": "e37700d4-668d-4aa0-a7c2-55c1baea8c71"
+            },
+            {
+              "name": "Barbosa de Araujo, Teodoro Junior",
+              "id": "6b0b6fb4-886b-47f7-8ef4-4cda0e2af9e5"
+            },
+            {
+              "name": "Goveia de Andrade, Matheus",
+              "id": "37fbe593-8751-494c-b81c-a15c1280d795"
+            },
+            {
+              "name": "Carvalho Vieira, Vinicius",
+              "id": "2629225c-e807-46ca-81d7-ebd2f2a1c70d"
+            },
+            {
+              "name": "Maranhao",
+              "id": "b332e2e1-1c52-430e-87e1-58219f80bb10"
+            },
+            {
+              "name": "Cruz de Moura Daniel, Patrick",
+              "id": "f0628e8c-24d9-4a37-822d-2fbaadcf1c27"
+            },
+            {
+              "name": "Santos da Vitoria Carvalho, Felipe Quieza",
+              "id": "d24c3cd2-43f3-405b-8312-82c81483dfe5"
+            },
+            {
+              "name": "de Almeida Borges, Kaiky",
+              "id": "63f02f88-8ed2-4391-ad1a-95e4d3d214a5"
+            },
+            {
+              "name": "Truyts, Guilherme",
+              "id": "80b43a39-6b38-4ade-9ddb-618f34031a7a"
+            },
+            {
+              "name": "Fonseca Filho, Carlos Augusto da Silva",
+              "id": "3fc9422e-03d6-43f7-bc96-da2d112f4447"
+            },
+            {
+              "name": "Pereira da Silva, Andre Junio",
+              "id": "89fffe4d-c16c-45cf-bdae-2d74fe66bdcd"
+            },
+            {
+              "name": "Souza da Silva, Joao Paulo",
+              "id": "a1298a81-ee6d-4c01-be8b-65ac3dd9e44f"
+            },
+            {
+              "name": "Dos Santos Souza, Carlos Henrique",
+              "id": "cc1978ff-737b-460d-8688-b959084e600d"
+            },
+            {
+              "name": "Teles, Marcel Queiroz",
+              "id": "e9e04b5b-800e-4bd7-956a-979368b314ad"
+            },
+            {
+              "name": "Ferraz, Caio Lago",
+              "id": "8ca533b0-ee99-48eb-a466-67800f46288a"
+            },
+            {
+              "name": "Dutra de Carvalho, Matheus Pereira",
+              "id": "b8365307-6585-4e82-83d7-4a7a2aacc0e2"
+            },
+            {
+              "name": "Martins de Assis, Alex Augusto",
+              "id": "d21b828b-f8f2-45d0-9978-9b2d4b07e693"
+            },
+            {
+              "name": "Araujo, Victor Gualberto",
+              "id": "98695f7e-a1b6-4d6a-83ce-3c682eb79047"
+            },
+            {
+              "name": "Jose Pereira, Geisandro",
+              "id": "a0edd35a-c576-47f0-93fb-09dd91a42b95"
+            },
+            {
+              "name": "Albergaria, Thiago Henrique",
+              "id": "a14ba108-ccc4-48e2-a5e2-63ae320eb8b4"
+            },
+            {
+              "name": "Rodrigues Tonoli, Gustavo",
+              "id": "86c45fb2-6df8-4bca-afb9-5485421708db"
+            },
+            {
+              "name": "Silva Alvarenga, Carlos Vitor",
+              "id": "dc91bf01-feaa-4a3f-b224-5a1df1b0b479"
+            },
+            {
+              "name": "Pacheco, Jonata Duarte",
+              "id": "a56d0613-a496-4868-b73a-fc789d6c7f41"
+            },
+            {
+              "name": "Magatao, Thiago",
+              "id": "ce5ca839-3170-4a1c-ab93-4f3c52392b8b"
+            },
+            {
+              "name": "Ramos da Silva, Thiago",
+              "id": "32cfc6a9-5420-4a15-bfd9-412e6e160bf2"
+            },
+            {
+              "name": "Cabral Costa, Wellington",
+              "id": "1c38b328-d43b-4141-b39f-c5d0b141d97f"
+            },
+            {
+              "name": "Ribeiro, Antonio Rosa",
+              "id": "01d4a16f-d22e-497a-a7a1-c0e262128fb1"
+            },
+            {
+              "name": "Edinho",
+              "id": "5bdff9eb-0e6a-49f7-a0cf-fa0f733b66bf"
+            },
+            {
+              "name": "dos Santos Junior, Arildo Marques",
+              "id": "671fd255-96db-4954-8974-31d7e61e3cd3"
+            },
+            {
+              "name": "Lima Pacheco, Jucimar",
+              "id": "ed4812a9-bae1-4389-90db-27eddf6abe18"
+            },
+            {
+              "name": "Dos Santos Lopes, Wendson",
+              "id": "8787ea7d-1c7c-4d5a-88fd-1996c45dfcdc"
+            },
+            {
+              "name": "Abreu, Enzo Scardua",
+              "id": "e2db42d5-cf3c-4784-aaba-beb7ac774f83"
+            },
+            {
+              "name": "Pires Pereira, Pedro",
+              "id": "10650929-fcd8-46ec-84ec-203bc5e8b8f0"
+            },
+            {
+              "name": "Cezini",
+              "id": "3731ac33-1e02-4754-83a0-c9e2b0d85071"
+            },
+            {
+              "name": "Artuzinho",
+              "id": "77a2ba82-cc7f-4fbe-9ab8-3382bae2f25e"
+            },
+            {
+              "name": "Marcao",
+              "id": "4d8a0449-8507-40cb-96c0-79abed4b3547"
+            }
+          ],
+          "homeLocation": {
+            "countryCode": "BR",
+            "subdivisionCode": "Espirito Santo"
+          },
+          "name": "Vitoria FC ES",
+          "participantType": "TEAM",
+          "id": 4842,
+          "position": "AWAY",
+          "abbreviation": "VIT"
+        }
+      ],
+      "group": {
+        "name": "Copa Espirito Santo",
+        "parentGroup": {
+          "name": "Brasil",
+          "parentGroup": {
+            "name": "Futebol",
+            "id": 11
+          },
+          "id": 307
+        },
+        "id": 2742
+      },
+      "gameClock": {
+        "eventState": "PREMATCH",
+        "clockType": "STOPWATCH",
+        "sectionDuration": 2700,
+        "regularSectionCount": 2
+      },
+      "sportCurrentGameState": {
+        "homeRedCards": 0,
+        "homeFullScore": 0,
+        "awayRedCards": 0,
+        "clockMatchTime": "",
+        "homeFouls": 0,
+        "type": "SOCCER",
+        "awayFullScore": 0,
+        "awayYellowCards": 0,
+        "homeYellowCards": 0,
+        "awayFouls": 0,
+        "awayCorners": 0,
+        "updatedAt": "2026-06-17T16:01:55.823Z",
+        "homeCorners": 0,
+        "homePenaltyShootoutScore": 0,
+        "awayPenaltyShootoutScore": 0
+      },
+      "hasUnreliableClock": false,
+      "sportType": "FOOTBALL",
+      "licenseExclusions": [
+        {
+          "brand": "betuk",
+          "location": "gb"
+        },
+        {
+          "brand": "betmgm",
+          "location": "gb"
+        },
+        {
+          "brand": "leovegas",
+          "location": "fi"
+        },
+        {
+          "brand": "expekt",
+          "location": "fi"
+        },
+        {
+          "brand": "leovegas",
+          "location": "gb"
+        }
+      ],
+      "eventType": "MATCH",
+      "groupMappings": {
+        "parent": {
+          "parent": {
+            "rawName": "Football",
+            "id": 11
+          },
+          "rawName": "Brazil",
+          "id": 307
+        },
+        "rawName": "Copa Espirito Santo",
+        "id": 2742
+      },
+      "licenseTags": [
+        "sgp-pre",
+        "blockedOutright",
+        "homeParticipantStateLocation:BR",
+        "blockedFi",
+        "sgp-live",
+        "blockedGbLeovegas",
+        "tradedLive",
+        "blockedFiExpekt",
+        "venueStateLocation:BR",
+        "blockedGb",
+        "awayParticipantStateLocation:BR-Espirito Santo"
+      ],
+      "eventDetails": {
+        "subgroupNameKey": "Copa Espirito Santo, Playoffs",
+        "block_cashout": "false",
+        "subgroupIdKey": "168201"
+      },
+      "displayInfo": {},
+      "hasVideoStreamCoverage": {
+        "default": false,
+        "br-betmgm": false
+      },
+      "leagueName": "Copa Espirito Santo",
+      "markets": [
+        {
+          "betMarketStatus": "OPEN",
+          "outcomes": [
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 5.4,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "17/4",
+              "formatAmerican": "440",
+              "odds": "5.4",
+              "name": "Vilavelhense-ES",
+              "isTraded": true,
+              "id": "532d6456-a109-3b2e-9216-402d2bcf85a4",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 3.65,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "13/5",
+              "formatAmerican": "265",
+              "odds": "3.65",
+              "name": "Empate",
+              "isTraded": true,
+              "id": "d725dd02-2af8-33db-b534-f5f4b634d148",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.55,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "8/15",
+              "formatAmerican": "-182",
+              "odds": "1.55",
+              "name": "Vitoria FC ES",
+              "isTraded": true,
+              "id": "009440e9-d629-3380-990d-b2b1377de1b1",
+              "status": "ONGOING"
+            }
+          ],
+          "oddsSource": "OPTIMIZER",
+          "stateLocation": "",
+          "freeTextMarketName": "",
+          "mostBalancedLine": true,
+          "id": "080ad03f-e8b7-387e-9437-618499c631ac",
+          "type": "standard-3-way",
+          "tradedLive": false,
+          "marketSubtype": "",
+          "isBetBuilderEligible": true,
+          "uuid": "080ad03f-e8b7-387e-9437-618499c631ac",
+          "name": "Resultado Final"
+        },
+        {
+          "betMarketStatus": "OPEN",
+          "outcomes": [
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 2.2,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "6/5",
+              "formatAmerican": "120",
+              "odds": "2.2",
+              "name": "Vilavelhense-ES ou Empate",
+              "isTraded": true,
+              "id": "d4c87ff2-a74f-3707-b15c-58f1c432314a",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.24,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "2/9",
+              "formatAmerican": "-417",
+              "odds": "1.24",
+              "name": "Vilavelhense-ES ou Vitoria FC ES",
+              "isTraded": true,
+              "id": "7c90fd9e-7936-33fd-8599-daaea70f2fc0",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.14,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "2/15",
+              "formatAmerican": "-715",
+              "odds": "1.14",
+              "name": "Empate ou Vitoria FC ES",
+              "isTraded": true,
+              "id": "e0da9ec1-7726-3fd3-bb0a-f9ddfa10ad57",
+              "status": "ONGOING"
+            }
+          ],
+          "oddsSource": "PROVIDER",
+          "stateLocation": "",
+          "freeTextMarketName": "",
+          "mostBalancedLine": false,
+          "id": "84b1d894-c728-3982-9922-81dfed7d5e7b",
+          "type": "double-chance",
+          "tradedLive": false,
+          "marketSubtype": "",
+          "isBetBuilderEligible": true,
+          "uuid": "84b1d894-c728-3982-9922-81dfed7d5e7b",
+          "name": "Chance Dupla"
+        },
+        {
+          "betMarketStatus": "OPEN",
+          "freeTextMarketName": "",
+          "type": "total-points",
+          "tradedLive": false,
+          "marketSubtype": "",
+          "isBetBuilderEligible": true,
+          "outcomes": [
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.95,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "10/11",
+              "formatAmerican": "-106",
+              "odds": "1.95",
+              "name": "Mais 2.5",
+              "isTraded": true,
+              "id": "eccc53f3-b32d-3faf-9c07-7b88bca4d1e8",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.75,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "3/4",
+              "formatAmerican": "-134",
+              "odds": "1.75",
+              "name": "Menos 2.5",
+              "isTraded": true,
+              "id": "e9ba8cc5-b58c-3b6f-9899-9e775d008300",
+              "status": "ONGOING"
+            }
+          ],
+          "oddsSource": "OPTIMIZER",
+          "stateLocation": "",
+          "mostBalancedLine": true,
+          "id": "93b99287-ccbb-3e62-9e8b-76cc7ae3add5",
+          "specifiers": [
+            {
+              "type": "OVER_UNDER",
+              "value": "2.5",
+              "dataType": "DOUBLE"
+            }
+          ],
+          "uuid": "93b99287-ccbb-3e62-9e8b-76cc7ae3add5",
+          "name": "Total de Gols"
+        },
+        {
+          "betMarketStatus": "OPEN",
+          "outcomes": [
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.98,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "20/21",
+              "formatAmerican": "-103",
+              "odds": "1.98",
+              "name": "Sim",
+              "isTraded": true,
+              "id": "28e49cdb-32b4-3735-8a34-ce0e3ec39a8b",
+              "status": "ONGOING"
+            },
+            {
+              "metadata": {},
+              "offerState": "TRADED",
+              "formatDecimal": 1.67,
+              "freeTextOutcomeName": "",
+              "lastChangedTime": 1781712115823,
+              "formatFractional": "4/6",
+              "formatAmerican": "-150",
+              "odds": "1.67",
+              "name": "Não",
+              "isTraded": true,
+              "id": "8762121f-54f3-3d4f-8408-a63c2f72f155",
+              "status": "ONGOING"
+            }
+          ],
+          "oddsSource": "OPTIMIZER",
+          "stateLocation": "",
+          "freeTextMarketName": "",
+          "mostBalancedLine": false,
+          "id": "0e1a7352-e0e3-3c5c-8fd8-3dc5ab482601",
+          "type": "both-competitors-to-score",
+          "tradedLive": false,
+          "marketSubtype": "",
+          "isBetBuilderEligible": true,
+          "uuid": "0e1a7352-e0e3-3c5c-8fd8-3dc5ab482601",
+          "name": "Ambos os Times Marcam"
+        }
+      ]
+    }
+  ],
+  "limit": 1,
+  "nextCursor": null
+}

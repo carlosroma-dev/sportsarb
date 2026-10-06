@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "uuid": "22626d7b-377b-58f6-a8ab-e77994bed7e3",
+      "eventId": 13571503,
+      "matchDate": "2026-06-16 18:00:00",
+      "matchName": "Peñarol (URU) (R)·La Luz FC (R)",
+      "utcDate": "2026-06-16T18:00:00Z",
+      "tournamentName": null,
+      "odds": [
+        {
+          "uuid": "4df2ced4-cc9c-53e9-887d-3def3705de9d",
+          "marketUuid": "fac645b0-0500-5fd9-9ebb-6149a8bf6115",
+          "marketId": 547,
+          "outcomeId": 1470,
+          "price": 1.82,
+          "status": "active",
+          "code": "1",
+          "name": "1",
+          "marketName": "Resultado Final",
+          "info": "Peñarol (URU) (R) vence a partida",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "48aa5938-c2e5-5a22-a15b-558f06f69eb4",
+          "marketUuid": "fac645b0-0500-5fd9-9ebb-6149a8bf6115",
+          "marketId": 547,
+          "outcomeId": 1471,
+          "price": 3.85,
+          "status": "active",
+          "code": "0",
+          "name": "X",
+          "marketName": "Resultado Final",
+          "info": "Resulta em empate",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "1f06457a-e41d-50a3-a0ae-aec30dd28224",
+          "marketUuid": "fac645b0-0500-5fd9-9ebb-6149a8bf6115",
+          "marketId": 547,
+          "outcomeId": 1472,
+          "price": 3.35,
+          "status": "active",
+          "code": "2",
+          "name": "2",
+          "marketName": "Resultado Final",
+          "info": "La Luz FC (R) vence a partida",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "8654f915-92c6-5691-88e7-22d582dc4892",
+          "marketUuid": "e9de99ed-7a6b-56c3-bda0-6316eaa8229f",
+          "marketId": 200734,
+          "outcomeId": 151889,
+          "price": 1.74,
+          "status": "active",
+          "code": null,
+          "name": "Mais de 2.5",
+          "marketName": "Total de Gols",
+          "info": "Mais de 2.5 gols na partida",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "18f59a94-9d7d-5b7b-86a1-2c40c26e4efe",
+          "marketUuid": "e9de99ed-7a6b-56c3-bda0-6316eaa8229f",
+          "marketId": 200734,
+          "outcomeId": 151888,
+          "price": 1.97,
+          "status": "active",
+          "code": null,
+          "name": "Menos de 2.5",
+          "marketName": "Total de Gols",
+          "info": "Menos de 2.5 gols na partida",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "c2c16dbc-cd56-5cc4-bb4c-7a239832e004",
+          "marketUuid": "752cb8b9-04f2-5e03-b936-a303deb87f37",
+          "marketId": 531,
+          "outcomeId": 1363,
+          "price": 1.24,
+          "status": "active",
+          "code": "10",
+          "name": "1 ou Empate",
+          "marketName": "Dupla Chance",
+          "info": "Peñarol (URU) (R) ganha ou empata",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "70ad33d6-3941-5b7f-a5ca-d26981de90e4",
+          "marketUuid": "752cb8b9-04f2-5e03-b936-a303deb87f37",
+          "marketId": 531,
+          "outcomeId": 1365,
+          "price": 1.78,
+          "status": "active",
+          "code": "02",
+          "name": "Empate ou 2",
+          "marketName": "Dupla Chance",
+          "info": "Empate ou La Luz FC (R) vence",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "86df938f-35b4-5dec-bed1-0bbfa7acaf78",
+          "marketUuid": "752cb8b9-04f2-5e03-b936-a303deb87f37",
+          "marketId": 531,
+          "outcomeId": 1364,
+          "price": 1.18,
+          "status": "active",
+          "code": "12",
+          "name": "1 ou 2",
+          "marketName": "Dupla Chance",
+          "info": "Peñarol (URU) (R) vence ou La Luz FC (R) vence",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "2deb5b41-bf8f-518f-95de-6848fbc90a9b",
+          "marketUuid": "ee2ccc24-e910-5d53-9211-6665449e34cf",
+          "marketId": 539,
+          "outcomeId": 1440,
+          "price": 1.73,
+          "status": "active",
+          "code": "1",
+          "name": "Sim",
+          "marketName": "Ambas as Equipes Marcam",
+          "info": "Ambas as equipes marcam gols na partida",
+          "showSpecialBetValue": "0"
+        },
+        {
+          "uuid": "941e128f-359c-505d-94bd-99cf754f8ddb",
+          "marketUuid": "ee2ccc24-e910-5d53-9211-6665449e34cf",
+          "marketId": 539,
+          "outcomeId": 1441,
+          "price": 2,
+          "status": "active",
+          "code": "2",
+          "name": "Não",
+          "marketName": "Ambas as Equipes Marcam",
+          "info": "Uma ou ambas as equipes não marcam gols na partida",
+          "showSpecialBetValue": "0"
+        }
+      ]
+    }
+  ]
+}

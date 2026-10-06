@@ -1,0 +1,234 @@
+{
+  "data": [
+    [
+      "827837123226034176",
+      null,
+      "Copa do Mundo 2026",
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        ["2484", {"BR-PT": "Tunísia"}, "Home"],
+        ["2139", {"BR-PT": "Japão"}, "Away"]
+      ],
+      null,
+      "Tunísia vs Japão",
+      "2026-06-21T04:00:00.000Z",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        [
+          "0ML827837131413344256",
+          "Resultado Final",
+          null,
+          ["ML0", "Resultado Final", 1, 1],
+          null,
+          null,
+          null,
+          [
+            [
+              "0ML827837131413344256D",
+              {"BR-PT": "Empate"},
+              {"BR-PT": "Empate"},
+              false,
+              3.85,
+              false,
+              null,
+              2,
+              1,
+              {"BR-PT": "Empate"}
+            ],
+            [
+              "0ML827837131413344256H",
+              {"BR-PT": "Tunísia"},
+              {"BR-PT": "Tunísia"},
+              false,
+              6,
+              false,
+              null,
+              1,
+              1,
+              {"BR-PT": "Casa"}
+            ],
+            [
+              "0ML827837131413344256A",
+              {"BR-PT": "Japão"},
+              {"BR-PT": "Japão"},
+              false,
+              1.48,
+              false,
+              null,
+              3,
+              1,
+              {"BR-PT": "Fora"}
+            ]
+          ]
+        ],
+        [
+          "0OU827837131413344258",
+          "Total de Gols Mais/Menos",
+          null,
+          ["OU0", "Total de Gols Mais/Menos", 3, 1],
+          null,
+          null,
+          null,
+          [
+            [
+              "0OU827837131413344258OM100",
+              {"BR-PT": "Mais de 1.25"},
+              {"BR-PT": "Mais de"},
+              false,
+              1.19,
+              true,
+              null,
+              1,
+              3,
+              {"BR-PT": "Acima"},
+              "0OU827837131413344258",
+              true,
+              "827837123226034176",
+              1.25
+            ],
+            [
+              "0OU827837131413344258UM100",
+              {"BR-PT": "Menos de 1.25"},
+              {"BR-PT": "Menos de"},
+              false,
+              4,
+              true,
+              null,
+              3,
+              3,
+              {"BR-PT": "Abaixo"},
+              "0OU827837131413344258",
+              true,
+              "827837123226034176",
+              1.25
+            ],
+            [
+              "0OU827837131413344258OMM",
+              {"BR-PT": "Mais de 2.5"},
+              {"BR-PT": "Mais de"},
+              false,
+              1.86,
+              false,
+              null,
+              1,
+              3,
+              {"BR-PT": "Acima"},
+              "0OU827837131413344258",
+              false,
+              "827837123226034176",
+              2.5
+            ],
+            [
+              "0OU827837131413344258UMM",
+              {"BR-PT": "Menos de 2.5"},
+              {"BR-PT": "Menos de"},
+              false,
+              1.79,
+              false,
+              null,
+              3,
+              3,
+              {"BR-PT": "Abaixo"},
+              "0OU827837131413344258",
+              false,
+              "827837123226034176",
+              2.5
+            ]
+          ]
+        ],
+        [
+          "0QA827837131413344295",
+          "Ambas equipes Marcam",
+          null,
+          ["QA158", "Ambas equipes Marcam", 0, 1],
+          null,
+          null,
+          null,
+          [
+            [
+              "0QA827837131413344295Q1714Q0",
+              {"BR-PT": "Sim"},
+              {"BR-PT": "Sim"},
+              false,
+              2.06,
+              false,
+              null,
+              1,
+              0,
+              {"BR-PT": "Casa"}
+            ],
+            [
+              "0QA827837131413344295Q1715Q0",
+              {"BR-PT": "Não"},
+              {"BR-PT": "Não"},
+              false,
+              1.63,
+              false,
+              null,
+              3,
+              0,
+              {"BR-PT": "Fora"}
+            ]
+          ]
+        ],
+        [
+          "0QA827837131413344280",
+          "Chance Dupla",
+          null,
+          ["QA61", "Chance Dupla", 0, 1],
+          null,
+          null,
+          null,
+          [
+            [
+              "0QA827837131413344280Q6Q0",
+              {"BR-PT": "Tunísia ou Empate"},
+              {"BR-PT": "Tunísia ou Empate"},
+              false,
+              2.35,
+              false,
+              null,
+              1,
+              0,
+              {"BR-PT": "Casa"}
+            ],
+            [
+              "0QA827837131413344280Q7Q0",
+              {"BR-PT": "Empate ou Japão"},
+              {"BR-PT": "Empate ou Japão"},
+              false,
+              1.06,
+              false,
+              null,
+              3,
+              0,
+              {"BR-PT": "Empate"}
+            ],
+            [
+              "0QA827837131413344280Q8Q0",
+              {"BR-PT": "Tunísia ou Japão"},
+              {"BR-PT": "Tunísia ou Japão"},
+              false,
+              1.19,
+              false,
+              null,
+              2,
+              0,
+              {"BR-PT": "Fora"}
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}

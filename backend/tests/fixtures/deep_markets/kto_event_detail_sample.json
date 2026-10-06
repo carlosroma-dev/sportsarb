@@ -1,0 +1,80 @@
+{
+  "events": [
+    {
+      "id": 1028174897,
+      "name": "Inglaterra - Congo",
+      "homeName": "Inglaterra",
+      "awayName": "Congo",
+      "start": "2026-07-01T16:00:00Z",
+      "group": "Copa do Mundo 2026",
+      "state": "NOT_STARTED",
+      "path": [
+        {"id": 1000093190, "name": "Futebol", "englishName": "Football"},
+        {"id": 2010133908, "name": "Copa do Mundo 2026", "englishName": "World Cup 2026"}
+      ]
+    }
+  ],
+  "betOffers": [
+    {
+      "id": 2662573000,
+      "criterion": {"label": "Total de escanteios"},
+      "betOfferType": {"name": "Mais de/Menos de", "englishName": "Over/Under"},
+      "outcomes": [
+        {"id": 4238649001, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 10500, "odds": 2200, "status": "OPEN"},
+        {"id": 4238649002, "label": "Menos", "englishLabel": "Under", "type": "OT_UNDER", "line": 10500, "odds": 1650, "status": "OPEN"}
+      ]
+    },
+    {
+      "id": 2662573001,
+      "criterion": {"label": "Total de Escanteio por Inglaterra"},
+      "betOfferType": {"name": "Mais de/Menos de", "englishName": "Over/Under"},
+      "outcomes": [
+        {"id": 4238649003, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 6500, "odds": 1900, "status": "OPEN"},
+        {"id": 4238649004, "label": "Menos", "englishLabel": "Under", "type": "OT_UNDER", "line": 6500, "odds": 1850, "status": "OPEN"}
+      ]
+    },
+    {
+      "id": 2662573002,
+      "criterion": {"label": "Total de chutes (Decidido usando Dados da Opta)"},
+      "betOfferType": {"name": "Mais de/Menos de", "englishName": "Over/Under"},
+      "outcomes": [
+        {"id": 4238649005, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 21500, "odds": 1480, "status": "OPEN"},
+        {"id": 4238649006, "label": "Menos", "englishLabel": "Under", "type": "OT_UNDER", "line": 21500, "odds": 2500, "status": "OPEN"}
+      ]
+    },
+    {
+      "id": 2662573003,
+      "criterion": {"label": "Total de chutes a gol por Congo (Decidido usando Dados da Opta)"},
+      "betOfferType": {"name": "Mais de/Menos de", "englishName": "Over/Under"},
+      "outcomes": [
+        {"id": 4238649007, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 2500, "odds": 2880, "status": "OPEN"},
+        {"id": 4238649008, "label": "Menos", "englishLabel": "Under", "type": "OT_UNDER", "line": 2500, "odds": 1350, "status": "OPEN"}
+      ]
+    },
+    {
+      "id": 2662573004,
+      "criterion": {"label": "Total de cartões - Congo"},
+      "betOfferType": {"name": "Mais de/Menos de", "englishName": "Over/Under"},
+      "outcomes": [
+        {"id": 4238649009, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 1500, "odds": 2100, "status": "OPEN"},
+        {"id": 4238649010, "label": "Menos", "englishLabel": "Under", "type": "OT_UNDER", "line": 1500, "odds": 1720, "status": "OPEN"}
+      ]
+    },
+    {
+      "id": 2662573005,
+      "criterion": {"label": "Chutes pelo jogador (Fechado usando dados Opta)"},
+      "betOfferType": {"name": "Player Occurrence Line", "englishName": "Player Occurrence Line"},
+      "outcomes": [
+        {"id": 4238649011, "label": "Mais", "englishLabel": "Over", "type": "OT_OVER", "line": 2500, "odds": 2320, "status": "OPEN", "participant": "Harry Kane"}
+      ]
+    },
+    {
+      "id": 2662573006,
+      "criterion": {"label": "Recebe Um Cartão Vermelho"},
+      "betOfferType": {"name": "Sim/Não", "englishName": "Yes/No"},
+      "outcomes": [
+        {"id": 4238649012, "label": "Sim", "englishLabel": "Yes", "type": "OT_YES", "odds": 9500, "status": "OPEN"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,826 @@
+{
+  "totalCount": 1,
+  "totalSports": 1,
+  "totalRegions": 1,
+  "totalCompetitions": 1,
+  "fixtures": [
+    {
+      "optionMarkets": [
+        {
+          "id": 200034186,
+          "name": {
+            "value": "Resultado da Partida - VP (+2)"
+          },
+          "status": "Visible",
+          "options": [
+            {
+              "id": 756859592,
+              "status": "Visible",
+              "name": {
+                "value": "Fluminense"
+              },
+              "price": {
+                "id": 2576359754,
+                "numerator": 58,
+                "denominator": 100,
+                "odds": 1.58,
+                "americanOdds": -175
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max"
+                ],
+                "fixtureParticipant": 37792241
+              }
+            },
+            {
+              "id": 756859593,
+              "status": "Visible",
+              "name": {
+                "value": "X"
+              },
+              "price": {
+                "id": 2576359765,
+                "numerator": 16,
+                "denominator": 5,
+                "odds": 4.2,
+                "americanOdds": 320
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Draw"
+                ]
+              }
+            },
+            {
+              "id": 756859594,
+              "status": "Visible",
+              "name": {
+                "value": "Independiente Rivadavia"
+              },
+              "price": {
+                "id": 2576359776,
+                "numerator": 5,
+                "denominator": 1,
+                "odds": 6.0,
+                "americanOdds": 500
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max"
+                ],
+                "fixtureParticipant": 37792242
+              }
+            }
+          ],
+          "parameters": [
+            {
+              "key": "Happening",
+              "type": "String",
+              "value": "Goal"
+            },
+            {
+              "key": "MarketSubType",
+              "type": "String",
+              "value": "2Up"
+            },
+            {
+              "key": "MarketType",
+              "type": "String",
+              "value": "3way"
+            },
+            {
+              "key": "Period",
+              "type": "String",
+              "value": "RegularTime"
+            }
+          ],
+          "grouping": {
+            "gridGroups": [
+              "ls8o6ll2v",
+              "r8evumgiw",
+              "lddicsmt2"
+            ],
+            "detailed": [
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Match Result (Regular Time)",
+                "displayType": "Regular",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "ca6c08a7-ac26-4223-bc5e-90f9a5183c51",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "displayType": "Regular",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "88ab6bf4-fdbe-4410-abd1-e0de7f0aacee",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Match Result (Regular Time)",
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "d9b540b5-eb43-44cc-ba85-77bffc266fce",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Match Result (Regular Time)",
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "4deb5b14-cb63-4700-84ec-e273e929fc4e",
+                "orderType": "None"
+              }
+            ]
+          },
+          "isMain": true,
+          "templateCategory": {
+            "id": 0,
+            "category": "Gridable",
+            "dynamicCategories": [
+              "bbplus",
+              "game"
+            ]
+          },
+          "comboPrevention": "NoFixtureCombo",
+          "minCombo": 1,
+          "isEachWay": false,
+          "source": "V2",
+          "isBetBuilder": true
+        },
+        {
+          "id": 200033909,
+          "name": {
+            "value": "Chance Dupla"
+          },
+          "status": "Visible",
+          "options": [
+            {
+              "id": 756857248,
+              "status": "Visible",
+              "name": {
+                "value": "Fluminense ou Empate"
+              },
+              "price": {
+                "id": 2576346251,
+                "numerator": 2,
+                "denominator": 15,
+                "odds": 1.13,
+                "americanOdds": -750
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max",
+                  "Draw"
+                ],
+                "fixtureParticipant": 37792241
+              }
+            },
+            {
+              "id": 756857249,
+              "status": "Visible",
+              "name": {
+                "value": "Empate ou Independiente Rivadavia"
+              },
+              "price": {
+                "id": 2576346252,
+                "numerator": 27,
+                "denominator": 20,
+                "odds": 2.35,
+                "americanOdds": 135
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max",
+                  "Draw"
+                ],
+                "fixtureParticipant": 37792242
+              }
+            },
+            {
+              "id": 756857250,
+              "status": "Visible",
+              "name": {
+                "value": "Fluminense ou Independiente Rivadavia"
+              },
+              "price": {
+                "id": 2576346253,
+                "numerator": 24,
+                "denominator": 100,
+                "odds": 1.24,
+                "americanOdds": -425
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max",
+                  "Max"
+                ],
+                "fixtureParticipant": 37792242
+              }
+            }
+          ],
+          "parameters": [
+            {
+              "key": "Happening",
+              "type": "String",
+              "value": "Goal"
+            },
+            {
+              "key": "MarketType",
+              "type": "String",
+              "value": "DoubleChance"
+            },
+            {
+              "key": "Period",
+              "type": "String",
+              "value": "RegularTime"
+            }
+          ],
+          "grouping": {
+            "gridGroups": [
+              "e8vi2hdwz"
+            ],
+            "detailed": [
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Double Chance",
+                "displayType": "Regular",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "36936154-8878-4ce0-89bb-b3a5048472eb",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Double Chance",
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "3a6317f0-578d-4c29-ab56-36261d279a42",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "marketHelpPath": "Football/Double Chance",
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "aee62bfc-2aaa-477a-83bd-90496e6f7578",
+                "orderType": "None"
+              }
+            ]
+          },
+          "isMain": false,
+          "templateCategory": {
+            "id": 0,
+            "category": "Gridable",
+            "dynamicCategories": [
+              "bbplus",
+              "game",
+              "bbplusdach",
+              "gamedach",
+              "bbplusmgm",
+              "doublechance",
+              "gameprops",
+              "bbplusoddset",
+              "gameoddset"
+            ]
+          },
+          "comboPrevention": "NoFixtureCombo",
+          "minCombo": 1,
+          "isEachWay": false,
+          "source": "V2",
+          "isBetBuilder": true
+        },
+        {
+          "id": 200033956,
+          "name": {
+            "value": "Ambas equipes marcam gol"
+          },
+          "status": "Visible",
+          "options": [
+            {
+              "id": 756857698,
+              "status": "Visible",
+              "name": {
+                "value": "Sim"
+              },
+              "price": {
+                "id": 2576347906,
+                "numerator": 21,
+                "denominator": 20,
+                "odds": 2.05,
+                "americanOdds": 105
+              },
+              "parameters": {
+                "optionTypes": [
+                  "ToHappen",
+                  "ToHappen"
+                ],
+                "fixtureParticipant": 37792242
+              }
+            },
+            {
+              "id": 756857699,
+              "status": "Visible",
+              "name": {
+                "value": "Não"
+              },
+              "price": {
+                "id": 2576347907,
+                "numerator": 4,
+                "denominator": 6,
+                "odds": 1.66,
+                "americanOdds": -150
+              },
+              "parameters": {
+                "optionTypes": [
+                  "NotToHappen",
+                  "NotToHappen"
+                ],
+                "fixtureParticipant": 37792242
+              }
+            }
+          ],
+          "parameters": [
+            {
+              "key": "Happening",
+              "type": "String",
+              "value": "Goal"
+            },
+            {
+              "key": "MarketType",
+              "type": "String",
+              "value": "BTTS"
+            },
+            {
+              "key": "Period",
+              "type": "String",
+              "value": "RegularTime"
+            }
+          ],
+          "grouping": {
+            "gridGroups": [
+              "6xg0qprzl"
+            ],
+            "detailed": [
+              {
+                "marketTabId": 1,
+                "displayType": "Regular",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "8f0f96fd-feea-446a-9b31-4f934a52bbfb",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "5f7d27a0-ba30-40da-923b-dc9c6b8f1270",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "displayType": "Regular",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "3d440d4c-0e9a-49dd-af85-81b72f7e8314",
+                "orderType": "None"
+              },
+              {
+                "marketTabId": 1,
+                "displayType": "Regular",
+                "marketGroupId": "3d675e9b-394c-4684-91ee-264959914136",
+                "marketGroupItemId": "70686956-af81-4b51-a13c-e7c58f6e74e6",
+                "orderType": "None"
+              }
+            ]
+          },
+          "isMain": false,
+          "templateCategory": {
+            "id": 0,
+            "category": "Gridable",
+            "dynamicCategories": [
+              "bbplus",
+              "game",
+              "bbplusdach",
+              "gamedach",
+              "bbplusmgm",
+              "bothteamstoscore",
+              "gameprops",
+              "bbplusoddset",
+              "gameoddset"
+            ]
+          },
+          "comboPrevention": "NoFixtureCombo",
+          "minCombo": 1,
+          "isEachWay": false,
+          "source": "V2",
+          "isBetBuilder": true
+        },
+        {
+          "id": 200037424,
+          "name": {
+            "value": "Total de Gols"
+          },
+          "status": "Visible",
+          "options": [
+            {
+              "id": 756870284,
+              "status": "Visible",
+              "name": {
+                "value": "Mais de 2.5"
+              },
+              "price": {
+                "id": 2576422816,
+                "numerator": 98,
+                "denominator": 100,
+                "odds": 1.98,
+                "americanOdds": -102
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Over"
+                ]
+              }
+            },
+            {
+              "id": 756870285,
+              "status": "Visible",
+              "name": {
+                "value": "Menos de 2.5"
+              },
+              "price": {
+                "id": 2576422827,
+                "numerator": 73,
+                "denominator": 100,
+                "odds": 1.73,
+                "americanOdds": -135
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Under"
+                ]
+              }
+            }
+          ],
+          "parameters": [
+            {
+              "key": "DecimalValue",
+              "type": "Decimal",
+              "value": "2.5000"
+            },
+            {
+              "key": "Happening",
+              "type": "String",
+              "value": "Goal"
+            },
+            {
+              "key": "MarketType",
+              "type": "String",
+              "value": "Over/Under"
+            },
+            {
+              "key": "Period",
+              "type": "String",
+              "value": "RegularTime"
+            }
+          ],
+          "grouping": {
+            "gridGroups": [
+              "tabpo1c9n",
+              "1gq9sx84q"
+            ],
+            "detailed": [
+              {
+                "subIndex": 3,
+                "marketTabId": 1,
+                "displayType": "OverUnder",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "ae5e7a46-fc6b-4aa2-a943-7ab5a162933a",
+                "orderType": "None"
+              },
+              {
+                "subIndex": 3,
+                "marketTabId": 1,
+                "displayType": "OverUnder",
+                "marketGroupId": "e51b4b83-d87c-4592-8296-9d6b75cfca27",
+                "marketGroupItemId": "98536d75-e92e-4306-ac96-d8901ee00a7d",
+                "orderType": "None"
+              },
+              {
+                "subIndex": 3,
+                "marketTabId": 1,
+                "displayType": "OverUnder",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "a89b1bb9-438e-4b68-ad21-521ec99dc263",
+                "orderType": "None"
+              },
+              {
+                "subIndex": 3,
+                "marketTabId": 1,
+                "displayType": "OverUnder",
+                "marketGroupId": "fbb41fa9-997a-4eaa-8a8a-1d5fd008fb3d",
+                "marketGroupItemId": "2e933da4-a9f0-4e8a-b28e-954c1b61331d",
+                "orderType": "None"
+              },
+              {
+                "subIndex": 3,
+                "marketTabId": 1,
+                "displayType": "OverUnder",
+                "marketGroupId": "1a3b6a64-b1c5-49bb-8fc9-629c6b7d9bf0",
+                "marketGroupItemId": "b017a23f-5c89-4b72-9ea9-90ee3498632b",
+                "orderType": "None"
+              }
+            ]
+          },
+          "attr": "2,5",
+          "spread": 0.25,
+          "balanced": 1,
+          "isMain": false,
+          "templateCategory": {
+            "id": 0,
+            "category": "Gridable",
+            "dynamicCategories": [
+              "bbplus",
+              "goals",
+              "bbplustest",
+              "bbplusdach",
+              "goalsdach",
+              "bbplusmgm",
+              "teamtotals",
+              "gametotals",
+              "bbplusoddset",
+              "goalsoddset"
+            ]
+          },
+          "comboPrevention": "NoFixtureCombo",
+          "minCombo": 1,
+          "isEachWay": false,
+          "source": "V2",
+          "isBetBuilder": true,
+          "oddsKey": 108.31
+        }
+      ],
+      "games": [],
+      "participants": [
+        {
+          "id": 37792241,
+          "participantId": 206081,
+          "name": {
+            "value": "Fluminense"
+          },
+          "status": "NotDefined",
+          "image": {
+            "jersey": "2_206081_1",
+            "rotateJersey": true,
+            "isParticipantProfile": false
+          },
+          "properties": {
+            "type": "HomeTeam"
+          },
+          "options": [],
+          "source": "V2"
+        },
+        {
+          "id": 37792242,
+          "participantId": 197023,
+          "name": {
+            "value": "Independiente Rivadavia"
+          },
+          "status": "NotDefined",
+          "image": {
+            "jersey": "2_197023_1",
+            "rotateJersey": true,
+            "isParticipantProfile": false
+          },
+          "properties": {
+            "type": "AwayTeam"
+          },
+          "options": [],
+          "source": "V2"
+        }
+      ],
+      "id": "2:7816245",
+      "name": {
+        "value": "Fluminense - Independiente Rivadavia",
+        "sign": "CdQ9pQ=="
+      },
+      "sourceId": 7816245,
+      "source": "V2",
+      "fixtureType": "PairGame",
+      "context": "v2|pt-br|2:7816245_93_any",
+      "addons": {
+        "rule4Expected": false,
+        "isResulted": false,
+        "pricingState": "None",
+        "participantDividend": {},
+        "betBuilderProvider": "BybFootball",
+        "betBuilderId": "2:7816245",
+        "betBuilderTradingV2FixtureId": "2:7816245"
+      },
+      "stage": "PreMatch",
+      "liveAlert": true,
+      "scoreboard": {
+        "$type": "Bwin.Sports.CDS.Api.Contracts.Scoreboards.V1.Sports.SoccerSlim, Bwin.Sports.CDS.Api.Contracts",
+        "corners": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "redCards": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "yellowCards": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "offsides": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "throwIns": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "penalties": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "substitutions": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "goalKicks": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "freeKicks": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "scoreDetailed": {
+          "player1": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          },
+          "player2": {
+            "253": 0,
+            "254": 0,
+            "255": 0
+          }
+        },
+        "sportId": 4,
+        "id": "2:7816245",
+        "period": "Não foi iniciado",
+        "periodId": 0,
+        "points": [],
+        "score": "0:0",
+        "timer": {
+          "running": false,
+          "base": "0001-01-01T00:01:00Z",
+          "visible": true,
+          "seconds": 0
+        },
+        "started": false
+      },
+      "startDate": "2026-08-11T22:00:00Z",
+      "cutOffDate": "2026-08-12T00:00:00Z",
+      "sport": {
+        "type": "Sport",
+        "isEsport": false,
+        "id": 4,
+        "name": {
+          "value": "Futebol"
+        }
+      },
+      "competition": {
+        "statistics": false,
+        "sportId": 4,
+        "compoundId": "2:102827",
+        "virtualCompetitionId": 15,
+        "displayMode": "Cards",
+        "type": "Competition",
+        "id": 102827,
+        "parentId": 42,
+        "name": {
+          "value": "CONMEBOL Libertadores"
+        }
+      },
+      "region": {
+        "code": "S-A",
+        "sportId": 4,
+        "type": "Region",
+        "id": 42,
+        "parentId": 4,
+        "name": {
+          "value": "América do Sul"
+        }
+      },
+      "virtualCompetition": {
+        "displayMode": "Cards",
+        "imageType": "Default",
+        "competitionIds": [
+          102827
+        ],
+        "sportId": 4,
+        "statistics": false,
+        "type": "VirtualCompetition",
+        "id": 15,
+        "parentId": 42,
+        "name": {
+          "value": "CONMEBOL Libertadores"
+        }
+      },
+      "viewType": "NotSet",
+      "isOpenForBetting": true,
+      "isVirtual": false,
+      "taggedLocations": [],
+      "totalMarketsCount": 167,
+      "conferences": [],
+      "marketGroups": {
+        "outrightMarketGroupIds": [],
+        "specialMarketGroupIds": [],
+        "type": "MarketGroups",
+        "id": 0
+      },
+      "priceBoostCount": 0,
+      "linkedTv1EventIds": [],
+      "contexts": [
+        "v2|pt-br|2:7816245_93_any"
+      ],
+      "playerStats": [],
+      "isPlannedInPlay": true
+    }
+  ]
+}

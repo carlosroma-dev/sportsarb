@@ -1,0 +1,361 @@
+{
+  "dates": [],
+  "availableChamps": [],
+  "availableCategories": [],
+  "topSports": [],
+  "headers": [
+    {
+      "typeId": 1,
+      "name": "Vencedor do encontro",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 2,
+          "name": "X"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    },
+    {
+      "typeId": 18,
+      "name": "Total de gols",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 12,
+          "name": "mais de"
+        },
+        {
+          "id": 13,
+          "name": "menos de"
+        }
+      ],
+      "specialOdd": {
+        "typeId": 1,
+        "name": "Gols"
+      }
+    },
+    {
+      "typeId": 29,
+      "name": "Ambas equipes marcam",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 74,
+          "name": "sim"
+        },
+        {
+          "id": 76,
+          "name": "não"
+        }
+      ]
+    },
+    {
+      "typeId": 10,
+      "name": "Chance dupla",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 9,
+          "name": "1X"
+        },
+        {
+          "id": 10,
+          "name": "12"
+        },
+        {
+          "id": 11,
+          "name": "X2"
+        }
+      ]
+    },
+    {
+      "typeId": 11,
+      "name": "Empate devolve aposta",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    },
+    {
+      "typeId": 8,
+      "name": "Gol",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 7,
+          "name": "Nenhum"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    }
+  ],
+  "pageCount": 1,
+  "page": 1,
+  "markets": [
+    {
+      "oddIds": [
+        4049567144,
+        4049567145,
+        4049567146
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588969938,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049566960,
+        4049566958,
+        4049566959
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588969898,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049566824,
+        4049566825
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588969856,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049566890,
+        4049566891
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588969889,
+      "name": "Ambas equipes marcam"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47392,
+      "id": 4049567144,
+      "name": "Atlético MG"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049567145,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47601,
+      "id": 4049567146,
+      "name": "Bahia"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47392,
+      "id": 4049566960,
+      "name": "Atlético MG ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566958,
+      "name": "Atlético MG ou Bahia"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47601,
+      "id": 4049566959,
+      "name": "Empate ou Bahia"
+    },
+    {
+      "typeId": 12,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049566824,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049566825,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566890,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566891,
+      "name": "Não"
+    }
+  ],
+  "events": [
+    {
+      "marketIds": [
+        1588969938,
+        1588969898,
+        1588969856,
+        1588969889
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554350",
+      "sc": 2120,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        47392,
+        47601
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027579,
+      "name": "Atlético MG vs. Bahia"
+    }
+  ],
+  "sports": [
+    {
+      "catIds": [
+        593
+      ],
+      "typeId": 1,
+      "iconName": "soccer",
+      "hasLiveEvents": false,
+      "id": 66,
+      "name": "Futebol"
+    }
+  ],
+  "categories": [
+    {
+      "champIds": [
+        11318,
+        11005
+      ],
+      "iso": "BRA",
+      "hasLiveEvents": false,
+      "id": 593,
+      "name": "Brasil"
+    }
+  ],
+  "champs": [
+    {
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "shortName": "Brasileirão A",
+      "hasLiveEvents": false,
+      "id": 11318,
+      "name": "Brasileirão A"
+    }
+  ],
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CAM",
+      "id": 47392,
+      "name": "Atlético MG"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "BAH",
+      "id": 47601,
+      "name": "Bahia"
+    }
+  ]
+}

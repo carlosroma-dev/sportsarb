@@ -1,0 +1,118 @@
+{
+  "betViews": [
+    {
+      "items": [
+        {
+          "eventBetContextId": 43748819,
+          "additionalCaptions": {
+            "competitor1": "França",
+            "competitor2": "Senegal"
+          },
+          "competitionCaption": "Copa do Mundo 2026",
+          "startDateTime": "2026-06-16T19:00:00+00:00",
+          "isLive": false,
+          "markets": [
+            {
+              "marketId": 1664126269,
+              "betTypeSysname": "SOCCER_MATCH_RESULT",
+              "marketCaption": null,
+              "betItems": [
+                {
+                  "id": "6930008128",
+                  "code": "1",
+                  "caption": "1",
+                  "price": 1.48,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6930008129",
+                  "code": "X",
+                  "caption": "X",
+                  "price": 4.65,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6930008130",
+                  "code": "2",
+                  "caption": "2",
+                  "price": 7.5,
+                  "isAvailable": true
+                }
+              ]
+            },
+            {
+              "marketId": 1527014974,
+              "betTypeSysname": "SOCCER_UNDER_OVER",
+              "marketCaption": null,
+              "betItems": [
+                {
+                  "id": "6322844465",
+                  "code": "O",
+                  "caption": "Mais de 2,5",
+                  "price": 1.76,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6322844466",
+                  "code": "U",
+                  "caption": "Menos de 2,5",
+                  "price": 2.07,
+                  "isAvailable": true
+                }
+              ]
+            },
+            {
+              "marketId": 1527014683,
+              "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+              "marketCaption": null,
+              "betItems": [
+                {
+                  "id": "6322843402",
+                  "code": "1X",
+                  "caption": "1X",
+                  "price": 1.1,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6322843403",
+                  "code": "X2",
+                  "caption": "X2",
+                  "price": 2.6,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6322843404",
+                  "code": "12",
+                  "caption": "12",
+                  "price": 1.17,
+                  "isAvailable": true
+                }
+              ]
+            },
+            {
+              "marketId": 1527014706,
+              "betTypeSysname": "SOCCER_BOTH_TEAMS_TO_SCORE",
+              "marketCaption": null,
+              "betItems": [
+                {
+                  "id": "6322843450",
+                  "code": "Y",
+                  "caption": "GG",
+                  "price": 1.93,
+                  "isAvailable": true
+                },
+                {
+                  "id": "6322843451",
+                  "code": "N",
+                  "caption": "NG",
+                  "price": 1.83,
+                  "isAvailable": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

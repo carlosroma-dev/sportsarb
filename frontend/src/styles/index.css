@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body {
+    @apply bg-bg text-white font-sans antialiased;
+    margin: 0;
+  }
+
+  /* Chrome/Safari preenchem autofill com um fundo claro fixo via UA
+     stylesheet, que "@apply bg-transparent" nao consegue sobrescrever.
+     O box-shadow inset falsifica o background e mantem o tema escuro. */
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus,
+  input:-webkit-autofill:active {
+    -webkit-text-fill-color: #FFFFFF;
+    -webkit-box-shadow: 0 0 0 1000px #161D2E inset;
+    box-shadow: 0 0 0 1000px #161D2E inset;
+    caret-color: #FFFFFF;
+    transition: background-color 9999s ease-in-out 0s;
+  }
+}

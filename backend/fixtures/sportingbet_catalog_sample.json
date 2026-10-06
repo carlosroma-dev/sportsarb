@@ -1,0 +1,111 @@
+{
+  "fixtures": [
+    {
+      "id": "2:7820779",
+      "name": {
+        "value": "Vilavelhense FC - Vitória ES"
+      },
+      "startDate": "2026-06-17T21:45:00Z",
+      "stage": "PreMatch",
+      "isOpenForBetting": true,
+      "competition": {
+        "id": 102998,
+        "name": "Campeonato Capixaba"
+      },
+      "region": {
+        "name": "Brasil"
+      },
+      "participants": [
+        {
+          "id": 37843435,
+          "name": {
+            "value": "Vilavelhense FC"
+          },
+          "properties": {
+            "type": "HomeTeam"
+          }
+        },
+        {
+          "id": 37843436,
+          "name": {
+            "value": "Vitória ES"
+          },
+          "properties": {
+            "type": "AwayTeam"
+          }
+        }
+      ],
+      "optionMarkets": [
+        {
+          "id": 200490589,
+          "name": {
+            "value": "Resultado da partida"
+          },
+          "parameters": [
+            {
+              "key": "MarketType",
+              "value": "3way"
+            },
+            {
+              "key": "Period",
+              "value": "RegularTime"
+            }
+          ],
+          "options": [
+            {
+              "id": 1,
+              "name": {
+                "value": "Vilavelhense FC"
+              },
+              "sourceName": {
+                "value": "1"
+              },
+              "price": {
+                "odds": 6.5
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max"
+                ],
+                "fixtureParticipant": 37843435
+              }
+            },
+            {
+              "id": 2,
+              "name": {
+                "value": "X"
+              },
+              "price": {
+                "odds": 2.65
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Draw"
+                ]
+              }
+            },
+            {
+              "id": 3,
+              "name": {
+                "value": "Vitória ES"
+              },
+              "sourceName": {
+                "value": "2"
+              },
+              "price": {
+                "odds": 1.65
+              },
+              "parameters": {
+                "optionTypes": [
+                  "Max"
+                ],
+                "fixtureParticipant": 37843436
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalCount": 1
+}

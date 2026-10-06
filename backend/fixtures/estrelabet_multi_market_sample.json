@@ -1,0 +1,336 @@
+{
+  "dates": [],
+  "availableChamps": [],
+  "availableCategories": [],
+  "topSports": [],
+  "headers": [
+    {
+      "typeId": 1,
+      "name": "Vencedor do encontro",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 2,
+          "name": "X"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    },
+    {
+      "typeId": 18,
+      "name": "Total de Gols (incluindo linhas Asiáticas)",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 12,
+          "name": "mais de"
+        },
+        {
+          "id": 13,
+          "name": "menos de"
+        }
+      ],
+      "specialOdd": {
+        "typeId": 1,
+        "name": "Gols"
+      }
+    },
+    {
+      "typeId": 29,
+      "name": "Ambas equipes marcam",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 74,
+          "name": "sim"
+        },
+        {
+          "id": 76,
+          "name": "não"
+        }
+      ]
+    },
+    {
+      "typeId": 10,
+      "name": "Chance dupla",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 9,
+          "name": "1X"
+        },
+        {
+          "id": 10,
+          "name": "12"
+        },
+        {
+          "id": 11,
+          "name": "X2"
+        }
+      ]
+    },
+    {
+      "typeId": 11,
+      "name": "Empate devolve aposta",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    }
+  ],
+  "pageCount": 1,
+  "page": 1,
+  "markets": [
+    {
+      "oddIds": [
+        3212935261,
+        3212935262,
+        3212935263
+      ],
+      "typeId": 1,
+      "sportMarketId": 73990,
+      "id": 1301638085,
+      "name": "Vencedor do encontro - Super Odds"
+    },
+    {
+      "oddIds": [
+        3210066772,
+        3210066770,
+        3210066771
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1300566592,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        3210066636,
+        3210066637
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1300566514,
+      "name": "Total de Gols (incluindo linhas Asiáticas)"
+    },
+    {
+      "oddIds": [
+        3210066702,
+        3210066703
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1300566576,
+      "name": "Ambas equipes marcam"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.38,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47719,
+      "id": 3212935261,
+      "name": "Gana"
+    },
+    {
+      "typeId": 2,
+      "price": 3.24,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3212935262,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.38,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47729,
+      "id": 3212935263,
+      "name": "Panamá"
+    },
+    {
+      "typeId": 9,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47719,
+      "isDBB": true,
+      "id": 3210066772,
+      "name": "Gana ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210066770,
+      "name": "Gana ou Panamá"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47729,
+      "isDBB": true,
+      "id": 3210066771,
+      "name": "Empate ou Panamá"
+    },
+    {
+      "typeId": 12,
+      "price": 2.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210066636,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5715,
+      "isMB": true,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210066637,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210066702,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210066703,
+      "name": "Não"
+    }
+  ],
+  "events": [
+    {
+      "marketIds": [
+        1301638085,
+        1300566592,
+        1300566514,
+        1300566576
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 4
+        },
+        {
+          "type": 5
+        },
+        {
+          "type": 6
+        }
+      ],
+      "code": 3944,
+      "hasStream": false,
+      "extId": "fp32_ar:match:396199",
+      "sc": 19035,
+      "mc": 480,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        47719,
+        47729
+      ],
+      "sportId": 66,
+      "catId": 1134,
+      "champId": 3146,
+      "status": 0,
+      "startDate": "2026-06-17T23:00:00Z",
+      "id": 14879471,
+      "name": "Gana vs. Panamá"
+    }
+  ],
+  "sports": [
+    {
+      "catIds": [
+        1134,
+        593
+      ],
+      "typeId": 1,
+      "iconName": "soccer",
+      "hasLiveEvents": false,
+      "id": 66,
+      "name": "Futebol"
+    }
+  ],
+  "categories": [
+    {
+      "champIds": [
+        3146
+      ],
+      "hasLiveEvents": false,
+      "id": 1134,
+      "name": "Mundo"
+    }
+  ],
+  "champs": [
+    {
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasLiveEvents": false,
+      "id": 3146,
+      "name": "Copa do Mundo 2026"
+    }
+  ],
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "GHA",
+      "id": 47719,
+      "name": "Gana"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "PAN",
+      "id": 47729,
+      "name": "Panamá"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "events": [
+    {
+      "event": {
+        "id": 123,
+        "name": "Flamengo - Vasco",
+        "start": "2026-06-15T21:00:00Z",
+        "group": "Brasil"
+      },
+      "betOffers": [
+        {
+          "id": 10,
+          "criterion": {
+            "label": "Resultado da Partida"
+          },
+          "outcomes": [
+            {
+              "id": 1,
+              "label": "Flamengo",
+              "odds": 2200
+            },
+            {
+              "id": 2,
+              "label": "Empate",
+              "odds": 3600
+            },
+            {
+              "id": 3,
+              "label": "Vasco",
+              "odds": 4200
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "criterion": {
+            "label": "Total de Gols"
+          },
+          "outcomes": [
+            {
+              "id": 4,
+              "label": "Mais de 2.5",
+              "odds": 2100
+            },
+            {
+              "id": 5,
+              "label": "Menos de 2.5",
+              "odds": 2050
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

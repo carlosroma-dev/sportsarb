@@ -1,0 +1,85 @@
+{
+  "id": "88351976",
+  "name": "Andrej Nedic - Keegan Smith",
+  "url": "/odds/andrej-nedic-keegan-smith/88351976/",
+  "startTime": 1783029600000,
+  "sportId": "TENN",
+  "leagueName": "Brasov",
+  "regionName": "Challenger",
+  "liveNow": null,
+  "participants": [
+    {"name": "Andrej Nedic", "color": "", "id": "18977740"},
+    {"name": "Keegan Smith", "color": "", "id": "18924900"}
+  ],
+  "markets": [
+    {
+      "id": "2836639637",
+      "type": "HTOH",
+      "name": "Vencedor",
+      "selections": [
+        {"id": "9915551040", "name": "Andrej Nedic", "price": 1.32, "handicap": 0.0},
+        {"id": "9915551041", "name": "Keegan Smith", "price": 3.3, "handicap": 0.0}
+      ]
+    },
+    {
+      "id": "2836901106",
+      "type": "FTGO",
+      "name": "Games",
+      "selections": [
+        {"id": "9916569119", "name": "Mais de 21.5", "price": 1.85, "handicap": 21.5},
+        {"id": "9916569120", "name": "Menos de 21.5", "price": 1.85, "handicap": 21.5}
+      ]
+    },
+    {
+      "id": "2836901222",
+      "type": "FTGO",
+      "name": "Games (alternativas)",
+      "selections": [
+        {"id": "9916569200", "name": "Mais de 20.5", "price": 1.52, "handicap": 20.5},
+        {"id": "9916569201", "name": "Menos de 20.5", "price": 2.45, "handicap": 20.5}
+      ]
+    },
+    {
+      "id": "2836901300",
+      "type": "FSTO",
+      "name": "Total de Games no Set (Set 1)",
+      "selections": [
+        {"id": "9916570001", "name": "Mais de 9.5", "price": 1.9, "handicap": 9.5},
+        {"id": "9916570002", "name": "Menos de 9.5", "price": 1.8, "handicap": 9.5}
+      ]
+    },
+    {
+      "id": "2836901400",
+      "type": "OUG1",
+      "name": "Andrej Nedic Total de Games Ganhos",
+      "selections": [
+        {"id": "9916570003", "name": "Mais de 12.5", "price": 1.8, "handicap": 12.5},
+        {"id": "9916570004", "name": "Menos de 12.5", "price": 1.9, "handicap": 12.5}
+      ]
+    },
+    {
+      "id": "2836901099",
+      "type": "MWOU",
+      "name": "Vencedor e Total de Games",
+      "selections": [
+        {"id": "9916569101", "name": "Andrej Nedic e Mais de 19.5", "price": 2.15, "handicap": 19.5},
+        {"id": "9916569100", "name": "Andrej Nedic e Menos de 19.5", "price": 2.87, "handicap": 19.5}
+      ]
+    },
+    {
+      "id": "2836901085",
+      "type": "TGHC",
+      "name": "Handicap de games",
+      "selections": [
+        {"id": "9916569067", "name": "Andrej Nedic -4.5", "price": 2.07, "handicap": -4.5},
+        {"id": "9916569068", "name": "Keegan Smith +4.5", "price": 1.67, "handicap": 4.5}
+      ]
+    },
+    {
+      "id": "2836644246",
+      "type": "STWN",
+      "name": "Vencedor do Set (Set 1)",
+      "selections": []
+    }
+  ]
+}

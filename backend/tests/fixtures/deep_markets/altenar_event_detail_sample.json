@@ -1,0 +1,89 @@
+{
+  "id": 16934703,
+  "name": "Inglaterra vs. RD Congo",
+  "startDate": "2026-07-01T16:00:00Z",
+  "et": 0,
+  "rc": false,
+  "champ": {"id": 3146, "name": "Copa do Mundo 2026"},
+  "category": {"id": 1134, "name": "Mundo"},
+  "sport": {"id": 66, "name": "Futebol", "iconName": "soccer"},
+  "competitors": [
+    {"id": 46196, "name": "Inglaterra"},
+    {"id": 71640, "name": "RD Congo"}
+  ],
+  "markets": [
+    {
+      "id": 1624835148,
+      "name": "Total de Escanteios",
+      "typeId": 166,
+      "sv": "8.5",
+      "desktopOddIds": [[4164174906], [4164174907]]
+    },
+    {
+      "id": 1625143863,
+      "name": "Inglaterra total de escanteios",
+      "typeId": 167,
+      "sv": "6.5",
+      "desktopOddIds": [[4165213542], [4165213543]]
+    },
+    {
+      "id": 1624955966,
+      "name": "Total de chutes Inglaterra",
+      "typeId": 15728,
+      "sv": "15.5|5087",
+      "desktopOddIds": [[4164572028], [4164572029]]
+    },
+    {
+      "id": 1624965700,
+      "name": "Total de chutes a Gol RD Congo",
+      "typeId": 15727,
+      "sv": "2.5|299307",
+      "desktopOddIds": [[4164582249], [4164582250]]
+    },
+    {
+      "id": 1625100001,
+      "name": "Total cartões",
+      "typeId": 400,
+      "sv": "3.5",
+      "desktopOddIds": [[4165100001], [4165100002]]
+    },
+    {
+      "id": 1624835155,
+      "name": "1º tempo - total de escanteios",
+      "typeId": 177,
+      "sv": "5.5",
+      "desktopOddIds": [[4164835155], [4164835156]]
+    },
+    {
+      "id": 15735,
+      "name": "Jogador total de chutes",
+      "typeId": 15735,
+      "sv": "1|0.5|ENG|dst:player:171153",
+      "desktopOddIds": [[4169990001]]
+    },
+    {
+      "id": 1629990002,
+      "name": "Escanteios handicap",
+      "typeId": 181,
+      "sv": "-1.5",
+      "desktopOddIds": [[4169990002], [4169990003]]
+    }
+  ],
+  "odds": [
+    {"id": 4164174906, "name": "Mais de 9.5", "typeId": 12, "price": 1.8667, "oddStatus": 0, "sv": "9.5"},
+    {"id": 4164174907, "name": "Menos de 9.5", "typeId": 13, "price": 1.9524, "oddStatus": 0, "sv": "9.5"},
+    {"id": 4165213542, "name": "Mais de 6.5", "typeId": 12, "price": 1.6471, "oddStatus": 0, "sv": "6.5"},
+    {"id": 4165213543, "name": "Menos de 6.5", "typeId": 13, "price": 2.2, "oddStatus": 0, "sv": "6.5"},
+    {"id": 4164572028, "name": "Mais de 15.5", "typeId": 12, "price": 1.6471, "oddStatus": 0, "sv": "15.5|5087"},
+    {"id": 4164572029, "name": "Menos de 15.5", "typeId": 13, "price": 2.1667, "oddStatus": 0, "sv": "15.5|5087"},
+    {"id": 4164582249, "name": "Mais de 2.5", "typeId": 12, "price": 2.6667, "oddStatus": 0, "sv": "2.5|299307"},
+    {"id": 4164582250, "name": "Menos de 2.5", "typeId": 13, "price": 1.4445, "oddStatus": 0, "sv": "2.5|299307"},
+    {"id": 4165100001, "name": "Mais de 3.5", "typeId": 12, "price": 2.1, "oddStatus": 0, "sv": "3.5"},
+    {"id": 4165100002, "name": "Menos de 3.5", "typeId": 13, "price": 1.72, "oddStatus": 0, "sv": "3.5"},
+    {"id": 4164835155, "name": "Mais de 5.5", "typeId": 12, "price": 2.0, "oddStatus": 0, "sv": "5.5"},
+    {"id": 4164835156, "name": "Menos de 5.5", "typeId": 13, "price": 1.8, "oddStatus": 0, "sv": "5.5"},
+    {"id": 4169990001, "name": "Mais de 0.5", "typeId": 12, "price": 1.7, "oddStatus": 0, "sv": "0.5"},
+    {"id": 4169990002, "name": "Inglaterra -1.5", "typeId": 1, "price": 1.9, "oddStatus": 0, "sv": "-1.5"},
+    {"id": 4169990003, "name": "RD Congo +1.5", "typeId": 3, "price": 1.9, "oddStatus": 0, "sv": "-1.5"}
+  ]
+}

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Caches de ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Segredos e credenciais (NUNCA versionar)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+*credential*
+*secret*
+*token*
+
+# Bancos de dados locais (dados + estado, NUNCA versionar)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Fixtures privadas
+fixtures/private/
+
+# Artefatos temporarios de investigacao
+tmp_*
+
+# Auditoria de runtime do scanner deep
+*_audit.jsonl
+
+# backend runtime
+backend/database/*.db
+backend/.env
+backend/**/__pycache__/

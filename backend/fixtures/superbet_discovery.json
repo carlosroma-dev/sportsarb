@@ -1,0 +1,6 @@
+{
+  "status": "pending",
+  "reason": "Superbet app shell exposed config hosts, but no concrete public offer route/schema was confirmed.",
+  "offer_host": "https://production-superbet-offer-br.freetls.fastly.net",
+  "sports_offer_host": "https://sports-offer.s3.eu-central-1.amazonaws.com"
+}

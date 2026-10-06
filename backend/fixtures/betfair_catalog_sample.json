@@ -1,0 +1,93 @@
+{
+  "data": {
+    "Cards": [
+      {
+        "__typename": "FilteredCouponCardGroup",
+        "urn": "ppb:tbd:cardgroup:coupon:sample/c/141",
+        "full": {
+          "edges": [
+            {
+              "node": {
+                "__typename": "CouponHeaderCard",
+                "competition": {
+                  "name": "EUA - United Soccer League"
+                }
+              }
+            },
+            {
+              "node": {
+                "__typename": "EventMarketCard",
+                "urn": "ppb:tbd:card:eventPrimaryMarket:35718616",
+                "sportevent": {
+                  "eventId": 35718616,
+                  "name": "Indy Eleven x Brooklyn FC",
+                  "openDate": "2026-06-17T23:00:00.000Z",
+                  "competition": {
+                    "name": "EUA - United Soccer League",
+                    "sport": {
+                      "name": "Futebol",
+                      "sportId": 1
+                    }
+                  }
+                },
+                "fixture": {
+                  "home": {
+                    "name": "Indy Eleven"
+                  },
+                  "away": {
+                    "name": "Brooklyn FC"
+                  },
+                  "runnerNames": {
+                    "home": "Indy Eleven",
+                    "away": "Brooklyn FC"
+                  },
+                  "scheduledAt": "2026-06-17T23:00:00Z",
+                  "duration": {
+                    "period": "REGULAR",
+                    "status": "PRE_MATCH"
+                  }
+                },
+                "displayRunners": {
+                  "sportsbook": {
+                    "market": {
+                      "__typename": "SportsbookMarket",
+                      "urn": "ppb:sbkMarket:924.523930755",
+                      "marketType": "FULL_TIME_RESULT_-_2_UP",
+                      "name": "Resultado da partida",
+                      "liveData": {
+                        "runners": [
+                          {
+                            "selectionId": "home",
+                            "odds": {
+                              "decimal": 1.93
+                            }
+                          },
+                          {
+                            "selectionId": "draw",
+                            "odds": {
+                              "decimal": 3.4
+                            }
+                          },
+                          {
+                            "selectionId": "away",
+                            "odds": {
+                              "decimal": 4.1
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": null
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "source": "betfair",
+  "coupon_urn": "ppb:tbd:cardgroup:coupon:ah1vXRIAACoAPoxo/s/1",
+  "events": [
+    {
+      "eventId": "35035303",
+      "name": "Gana x Panamá",
+      "openDate": "2026-06-17T23:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Gana",
+      "away": "Panamá",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.493993678",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "75108",
+              "name": null,
+              "role": "home",
+              "price": 2.25
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 3.0
+            },
+            {
+              "selectionId": "520320",
+              "name": null,
+              "role": "away",
+              "price": 3.0
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.493993661",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.3
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.56
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

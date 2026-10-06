@@ -1,0 +1,58 @@
+{
+  "data": {
+    "topEventsV2": {
+      "events": {
+        "event-1": {
+          "id": "event-1",
+          "marketIdList": ["market-1x2", "market-total", "market-dc", "market-btts", "market-btts-half"],
+          "participants": [
+            {"name": "Flamengo"},
+            {"name": "Vasco"}
+          ],
+          "startTime": "2026-06-15T21:00:00Z"
+        }
+      },
+      "markets": {
+        "market-1x2": {
+          "id": "market-1x2",
+          "name": "Resultado Final",
+          "selectionIdList": ["sel-home", "sel-draw", "sel-away"]
+        },
+        "market-total": {
+          "id": "market-total",
+          "name": "Total de Gols Mais/Menos",
+          "selectionIdList": ["sel-over", "sel-under"]
+        },
+        "market-dc": {
+          "id": "market-dc",
+          "name": "Chance Dupla",
+          "selectionIdList": ["sel-1x", "sel-12", "sel-x2"]
+        },
+        "market-btts": {
+          "id": "market-btts",
+          "name": "Ambas equipes Marcam",
+          "selectionIdList": ["sel-btts-yes", "sel-btts-no"]
+        },
+        "market-btts-half": {
+          "id": "market-btts-half",
+          "name": "Ambas marcam - 1o tempo",
+          "selectionIdList": ["sel-half-yes", "sel-half-no"]
+        }
+      },
+      "selections": {
+        "sel-home": {"id": "sel-home", "name": "Flamengo", "price": 2.20},
+        "sel-draw": {"id": "sel-draw", "name": "Empate", "price": 3.60},
+        "sel-away": {"id": "sel-away", "name": "Vasco", "price": 4.20},
+        "sel-over": {"id": "sel-over", "name": "Mais de 2.5", "price": 2.10},
+        "sel-under": {"id": "sel-under", "name": "Menos de 2.5", "price": 2.05},
+        "sel-1x": {"id": "sel-1x", "name": "1X", "price": 1.35},
+        "sel-12": {"id": "sel-12", "name": "12", "price": 1.22},
+        "sel-x2": {"id": "sel-x2", "name": "X2", "price": 1.55},
+        "sel-btts-yes": {"id": "sel-btts-yes", "name": "Sim", "price": 1.95},
+        "sel-btts-no": {"id": "sel-btts-no", "name": "Nao", "price": 1.85},
+        "sel-half-yes": {"id": "sel-half-yes", "name": "Sim", "price": 3.10},
+        "sel-half-no": {"id": "sel-half-no", "name": "Nao", "price": 1.30}
+      }
+    }
+  }
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "betViews": [
+      {
+        "items": [
+          {
+            "eventBetContextId": 46343680,
+            "competitionId": 857,
+            "homeTeamId": 4915,
+            "awayTeamId": 4934,
+            "competitionMarketViewId": 4867052,
+            "competitionLocationId": 4382247,
+            "competitionRootLocationId": 4372606,
+            "competitionOrdering": 32767,
+            "additionalCaptions": {
+              "type": 1,
+              "competitor1": "CD Magallanes",
+              "competitor1ImageId": 166454,
+              "competitor2": "CD Palestino",
+              "competitor2ImageId": 175624,
+              "discriminator": "TwoCompetitorCaptionModel"
+            },
+            "supportsActions": true,
+            "liveStreamingCountries": null,
+            "providers": {
+              "streams": [],
+              "flashbets": [],
+              "fields": [
+                {
+                  "matchId": "sr:match:71372484",
+                  "discriminator": "Sportradar"
+                }
+              ]
+            },
+            "sportradarMatchId": 71372484,
+            "competitionHistoryCaption": "Copa Chile",
+            "competitionCaption": "Copa",
+            "regionId": 87,
+            "regionCaption": "Chile",
+            "regionImageId": 80764,
+            "startTime": "sáb. 13:30",
+            "startDateTime": "2026-06-20T16:30:00+00:00",
+            "startDateTimeUnix": 1781973000,
+            "path": "matches/cd-magallanes-cd-palestino",
+            "numMarkets": 12,
+            "isLive": false,
+            "marketTags": [
+              {
+                "marketId": 1670794077,
+                "tag": "SOCCER_BORE_DRAW"
+              },
+              {
+                "marketId": 1670794078,
+                "tag": "SOCCER_BORE_DRAW"
+              }
+            ],
+            "markets": [
+              {
+                "marketId": 1670794071,
+                "betTypeSysname": "SOCCER_MATCH_RESULT",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6958874917",
+                    "code": "1",
+                    "codeCaption": null,
+                    "caption": "1",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 4.9,
+                    "oddsText": "4.90",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958874918",
+                    "code": "X",
+                    "codeCaption": null,
+                    "caption": "X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 3.65,
+                    "oddsText": "3.65",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958874919",
+                    "code": "2",
+                    "codeCaption": null,
+                    "caption": "2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.6,
+                    "oddsText": "1.60",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1670794080,
+                "betTypeSysname": "SOCCER_UNDER_OVER",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6958874992",
+                    "code": "O",
+                    "codeCaption": "+",
+                    "caption": "Mais de 2,5",
+                    "instanceCaption": "2,5",
+                    "betDisplayCaption": null,
+                    "price": 1.56,
+                    "oddsText": "1.56",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958874993",
+                    "code": "U",
+                    "codeCaption": "-",
+                    "caption": "Menos de 2,5",
+                    "instanceCaption": "2,5",
+                    "betDisplayCaption": null,
+                    "price": 2.25,
+                    "oddsText": "2.25",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1670794084,
+                "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6958875001",
+                    "code": "1",
+                    "codeCaption": null,
+                    "caption": "1",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 5.1,
+                    "oddsText": "5.10",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958875002",
+                    "code": "X",
+                    "codeCaption": null,
+                    "caption": "X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 2.35,
+                    "oddsText": "2.35",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958875003",
+                    "code": "2",
+                    "codeCaption": null,
+                    "caption": "2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 2.02,
+                    "oddsText": "2.02",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1670794082,
+                "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6958874996",
+                    "code": "1X",
+                    "codeCaption": null,
+                    "caption": "1X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 2.1,
+                    "oddsText": "2.10",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958874997",
+                    "code": "X2",
+                    "codeCaption": null,
+                    "caption": "X2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.17,
+                    "oddsText": "1.17",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958874998",
+                    "code": "12",
+                    "codeCaption": null,
+                    "caption": "12",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.25,
+                    "oddsText": "1.25",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1670794091,
+                "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6958875018",
+                    "code": "O",
+                    "codeCaption": "+",
+                    "caption": "Mais de 1,5",
+                    "instanceCaption": "1,5",
+                    "betDisplayCaption": null,
+                    "price": 2.25,
+                    "oddsText": "2.25",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6958875019",
+                    "code": "U",
+                    "codeCaption": "-",
+                    "caption": "Menos de 1,5",
+                    "instanceCaption": "1,5",
+                    "betDisplayCaption": null,
+                    "price": 1.54,
+                    "oddsText": "1.54",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              }
+            ],
+            "hasBetContextInfo": false,
+            "isAwayAtHome": false,
+            "metadata": {
+              "tournamentRound": "Rodada 3",
+              "discriminator": "EventMetadataModel"
+            }
+          },
+          {
+            "eventBetContextId": 46737443,
+            "competitionId": 857,
+            "homeTeamId": 4934,
+            "awayTeamId": 4915,
+            "competitionMarketViewId": 4867052,
+            "competitionLocationId": 4382247,
+            "competitionRootLocationId": 4372606,
+            "competitionOrdering": 32767,
+            "additionalCaptions": {
+              "type": 1,
+              "competitor1": "CD Palestino",
+              "competitor1ImageId": 175624,
+              "competitor2": "CD Magallanes",
+              "competitor2ImageId": 166454,
+              "discriminator": "TwoCompetitorCaptionModel"
+            },
+            "supportsActions": true,
+            "liveStreamingCountries": null,
+            "providers": {
+              "streams": [],
+              "flashbets": [],
+              "fields": [
+                {
+                  "performFixtureId": "fwdoxmmah3yw6iaae9hrxhjo",
+                  "discriminator": "Perform"
+                }
+              ]
+            },
+            "sportradarMatchId": 71372744,
+            "competitionHistoryCaption": "Copa Chile",
+            "competitionCaption": "Copa",
+            "regionId": 87,
+            "regionCaption": "Chile",
+            "regionImageId": 80764,
+            "startTime": "sáb. 13:30",
+            "startDateTime": "2026-06-20T16:30:00+00:00",
+            "startDateTimeUnix": 1781973000,
+            "path": "matches/cd-palestino-cd-magallanes",
+            "numMarkets": 11,
+            "isLive": false,
+            "marketTags": [
+              {
+                "marketId": 1671089613,
+                "tag": "SOCCER_BORE_DRAW"
+              },
+              {
+                "marketId": 1671089614,
+                "tag": "SOCCER_BORE_DRAW"
+              }
+            ],
+            "markets": [
+              {
+                "marketId": 1671089607,
+                "betTypeSysname": "SOCCER_MATCH_RESULT",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6960251973",
+                    "code": "1",
+                    "codeCaption": null,
+                    "caption": "1",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.53,
+                    "oddsText": "1.53",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960251974",
+                    "code": "X",
+                    "codeCaption": null,
+                    "caption": "X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 3.7,
+                    "oddsText": "3.70",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960251975",
+                    "code": "2",
+                    "codeCaption": null,
+                    "caption": "2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 5.6,
+                    "oddsText": "5.60",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1671089616,
+                "betTypeSysname": "SOCCER_UNDER_OVER",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6960252048",
+                    "code": "O",
+                    "codeCaption": "+",
+                    "caption": "Mais de 2,5",
+                    "instanceCaption": "2,5",
+                    "betDisplayCaption": null,
+                    "price": 1.67,
+                    "oddsText": "1.67",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252049",
+                    "code": "U",
+                    "codeCaption": "-",
+                    "caption": "Menos de 2,5",
+                    "instanceCaption": "2,5",
+                    "betDisplayCaption": null,
+                    "price": 2.06,
+                    "oddsText": "2.06",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1671089620,
+                "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6960252057",
+                    "code": "1",
+                    "codeCaption": null,
+                    "caption": "1",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.96,
+                    "oddsText": "1.96",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252058",
+                    "code": "X",
+                    "codeCaption": null,
+                    "caption": "X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 2.25,
+                    "oddsText": "2.25",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252059",
+                    "code": "2",
+                    "codeCaption": null,
+                    "caption": "2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 5.8,
+                    "oddsText": "5.80",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1671089618,
+                "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6960252052",
+                    "code": "1X",
+                    "codeCaption": null,
+                    "caption": "1X",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.13,
+                    "oddsText": "1.13",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252053",
+                    "code": "X2",
+                    "codeCaption": null,
+                    "caption": "X2",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 2.25,
+                    "oddsText": "2.25",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252054",
+                    "code": "12",
+                    "codeCaption": null,
+                    "caption": "12",
+                    "instanceCaption": null,
+                    "betDisplayCaption": null,
+                    "price": 1.22,
+                    "oddsText": "1.22",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              },
+              {
+                "marketId": 1671089627,
+                "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                "useInstanceCaption": false,
+                "betItems": [
+                  {
+                    "id": "6960252074",
+                    "code": "O",
+                    "codeCaption": "+",
+                    "caption": "Mais de 1,5",
+                    "instanceCaption": "1,5",
+                    "betDisplayCaption": null,
+                    "price": 2.4,
+                    "oddsText": "2.40",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  },
+                  {
+                    "id": "6960252075",
+                    "code": "U",
+                    "codeCaption": "-",
+                    "caption": "Menos de 1,5",
+                    "instanceCaption": "1,5",
+                    "betDisplayCaption": null,
+                    "price": 1.47,
+                    "oddsText": "1.47",
+                    "isAvailable": true,
+                    "marketStatistic": null
+                  }
+                ]
+              }
+            ],
+            "hasBetContextInfo": false,
+            "isAwayAtHome": false,
+            "metadata": {
+              "tournamentRound": "Rodada 3",
+              "discriminator": "EventMetadataModel"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "fixtures": [
+    {
+      "id": "2:7826108",
+      "name": { "value": "Inglaterra - RD Congo" },
+      "startDate": "2026-07-01T16:00:00Z",
+      "stage": "Prematch",
+      "isOpenForBetting": true,
+      "competition": { "name": { "value": "Copa do Mundo 2026" } },
+      "region": { "name": { "value": "Internacional" } },
+      "participants": [
+        {
+          "id": "37893198",
+          "name": { "value": "Inglaterra" },
+          "properties": { "type": "HomeTeam" }
+        },
+        {
+          "id": "37893199",
+          "name": { "value": "RD Congo" },
+          "properties": { "type": "AwayTeam" }
+        }
+      ],
+      "optionMarkets": [
+        {
+          "id": "201049354",
+          "name": { "value": "Total de Escanteios" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "9.5000" },
+            { "key": "Happening", "value": "Corner" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Period", "value": "RegularTime" }
+          ],
+          "options": [
+            {
+              "id": "762124717",
+              "status": "Visible",
+              "name": { "value": "Mais de 9.5" },
+              "price": { "odds": 1.85 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            },
+            {
+              "id": "762124718",
+              "status": "Visible",
+              "name": { "value": "Menos de 9.5" },
+              "price": { "odds": 1.83 },
+              "parameters": [{ "key": "optionTypes", "value": ["Under"] }]
+            }
+          ]
+        },
+        {
+          "id": "201049364",
+          "name": { "value": "Inglaterra - Total de Escanteios" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "6.5000" },
+            { "key": "FixtureParticipant", "value": "37893198" },
+            { "key": "Happening", "value": "Corner" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Period", "value": "RegularTime" }
+          ],
+          "options": [
+            {
+              "id": "762124737",
+              "status": "Visible",
+              "name": { "value": "Mais de 6.5" },
+              "price": { "odds": 1.75 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            },
+            {
+              "id": "762124738",
+              "status": "Visible",
+              "name": { "value": "Menos de 6.5" },
+              "price": { "odds": 1.93 },
+              "parameters": [{ "key": "optionTypes", "value": ["Under"] }]
+            }
+          ]
+        },
+        {
+          "id": "201082088",
+          "name": { "value": "Total de chutes no gol" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "8.5000" },
+            { "key": "Happening", "value": "Shot" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Outcome", "value": "OnTarget" },
+            { "key": "Period", "value": "RegularTime" }
+          ],
+          "options": [
+            {
+              "id": "762314585",
+              "status": "Visible",
+              "name": { "value": "Mais de 8.5" },
+              "price": { "odds": 1.77 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            },
+            {
+              "id": "762314586",
+              "status": "Visible",
+              "name": { "value": "Menos de 8.5" },
+              "price": { "odds": 1.88 },
+              "parameters": [{ "key": "optionTypes", "value": ["Under"] }]
+            }
+          ]
+        },
+        {
+          "id": "201082086",
+          "name": { "value": "Total de chutes" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "23.5000" },
+            { "key": "Happening", "value": "Shot" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Period", "value": "RegularTime" }
+          ],
+          "options": [
+            {
+              "id": "762314581",
+              "status": "Visible",
+              "name": { "value": "Mais de 23.5" },
+              "price": { "odds": 1.93 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            },
+            {
+              "id": "762314582",
+              "status": "Visible",
+              "name": { "value": "Menos de 23.5" },
+              "price": { "odds": 1.73 },
+              "parameters": [{ "key": "optionTypes", "value": ["Under"] }]
+            }
+          ]
+        },
+        {
+          "id": "201098947",
+          "name": { "value": "Inglaterra - Total de Cartoes" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "1.5000" },
+            { "key": "FixtureParticipant", "value": "37893198" },
+            { "key": "Happening", "value": "CombinedCards" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Period", "value": "RegularTime" }
+          ],
+          "options": [
+            {
+              "id": "762395285",
+              "status": "Visible",
+              "name": { "value": "Mais de 1.5" },
+              "price": { "odds": 2.8 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            },
+            {
+              "id": "762395286",
+              "status": "Visible",
+              "name": { "value": "Menos de 1.5" },
+              "price": { "odds": 1.38 },
+              "parameters": [{ "key": "optionTypes", "value": ["Under"] }]
+            }
+          ]
+        },
+        {
+          "id": "201048325",
+          "name": { "value": "Chutes no Gol" },
+          "parameters": [
+            { "key": "MarketSubType", "value": "Shots on target" },
+            { "key": "MarketType", "value": "FreeFormed" }
+          ],
+          "options": [
+            {
+              "id": "762121406",
+              "status": "Visible",
+              "name": { "value": "Harry Kane e Yoane Wissa tem cada um +1.5 chutes no gol" },
+              "price": { "odds": 9.25 },
+              "parameters": [{ "key": "optionTypes", "value": [] }]
+            }
+          ]
+        },
+        {
+          "id": "201098945",
+          "name": { "value": "Total de Cartoes Mais/Menos - 00:00-15:00" },
+          "parameters": [
+            { "key": "DecimalValue", "value": "0.5000" },
+            { "key": "Happening", "value": "CombinedCards" },
+            { "key": "MarketType", "value": "Over/Under" },
+            { "key": "Period", "value": "FirstHalf" },
+            { "key": "RangeValue", "value": "0-900" }
+          ],
+          "options": [
+            {
+              "id": "762395281",
+              "status": "Visible",
+              "name": { "value": "Mais de 0.5" },
+              "price": { "odds": 6.25 },
+              "parameters": [{ "key": "optionTypes", "value": ["Over"] }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

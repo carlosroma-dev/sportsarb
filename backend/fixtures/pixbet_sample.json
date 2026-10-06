@@ -1,0 +1,1427 @@
+{
+  "data": [
+    [
+      "784926069194293248",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "3649",
+          {
+            "BR-PT": "Gana"
+          },
+          "Home"
+        ],
+        [
+          "2467",
+          {
+            "BR-PT": "Panamá"
+          },
+          "Away"
+        ]
+      ],
+      2130,
+      "Gana vs Panamá",
+      "2026-06-17T23:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171805209301647",
+      [
+        [
+          "0ML784926071190781952",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "784926069194293248",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML784926071190781952D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              3.21,
+              false,
+              [
+                "221",
+                "3.21",
+                "22/10",
+                "2.21",
+                "2.21",
+                "-0.452"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML784926071190781952",
+              false,
+              "784926069194293248",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                5625,
+                0.06,
+                1350,
+                1350,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML784926071190781952H",
+              {
+                "BR-PT": "Gana"
+              },
+              {
+                "BR-PT": "Gana"
+              },
+              false,
+              2.13,
+              false,
+              [
+                "113",
+                "2.13",
+                "17/15",
+                "1.13",
+                "1.13",
+                "-0.885"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML784926071190781952",
+              false,
+              "784926069194293248",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                5625,
+                0.06,
+                1350,
+                1350,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML784926071190781952A",
+              {
+                "BR-PT": "Panamá"
+              },
+              {
+                "BR-PT": "Panamá"
+              },
+              false,
+              3.22,
+              false,
+              [
+                "222",
+                "3.22",
+                "22/10",
+                "2.22",
+                "2.22",
+                "-0.45"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML784926071190781952",
+              false,
+              "784926069194293248",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                5625,
+                0.06,
+                1350,
+                1350,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171803572989047",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Gana-vs-Panamá",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      366,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsExposureEnabled": false,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "HomeShirtColorPrimary": "#FFFFFF",
+        "AwayShirtColorPrimary": "#0000FF",
+        "HasVARCoverage": "true",
+        "HasIncidentCoverage": "true",
+        "HasPlayerIncidentCoverage": "true"
+      },
+      null,
+      null
+    ],
+    [
+      "827837123595161600",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "2467",
+          {
+            "BR-PT": "Panamá"
+          },
+          "Home"
+        ],
+        [
+          "2135",
+          {
+            "BR-PT": "Croácia"
+          },
+          "Away"
+        ]
+      ],
+      590,
+      "Panamá vs Croácia",
+      "2026-06-23T23:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171805209226338",
+      [
+        [
+          "0ML827837125247729664",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "827837123595161600",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML827837125247729664D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              3.52,
+              false,
+              [
+                "252",
+                "3.52",
+                "25/10",
+                "2.52",
+                "2.52",
+                "-0.397"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML827837125247729664",
+              false,
+              "827837123595161600",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                2500,
+                0.06,
+                600,
+                600,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837125247729664H",
+              {
+                "BR-PT": "Panamá"
+              },
+              {
+                "BR-PT": "Panamá"
+              },
+              false,
+              5.6,
+              false,
+              [
+                "460",
+                "5.60",
+                "23/5",
+                "4.60",
+                "4.60",
+                "-0.217"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML827837125247729664",
+              false,
+              "827837123595161600",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                2500,
+                0.06,
+                600,
+                600,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837125247729664A",
+              {
+                "BR-PT": "Croácia"
+              },
+              {
+                "BR-PT": "Croácia"
+              },
+              false,
+              1.5,
+              false,
+              [
+                "-200",
+                "1.50",
+                "1/2",
+                "0.50",
+                "-2.00",
+                "0.50"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML827837125247729664",
+              false,
+              "827837123595161600",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                2500,
+                0.06,
+                600,
+                600,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171802751866937",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Panamá-vs-Croácia",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      299,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsExposureEnabled": false,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "HomeShirtColorPrimary": "#FFFFFF",
+        "AwayShirtColorPrimary": "#FF0000",
+        "HasPlayerIncidentCoverage": "true",
+        "HasVARCoverage": "false",
+        "HasIncidentCoverage": "false"
+      },
+      null,
+      null
+    ],
+    [
+      "827837123574161408",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "2225",
+          {
+            "BR-PT": "Jordânia"
+          },
+          "Home"
+        ],
+        [
+          "3643",
+          {
+            "BR-PT": "Argélia"
+          },
+          "Away"
+        ]
+      ],
+      607,
+      "Jordânia vs Argélia",
+      "2026-06-23T03:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171805209240598",
+      [
+        [
+          "0ML827837126233391104",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "827837123574161408",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML827837126233391104D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              3.92,
+              false,
+              [
+                "292",
+                "3.92",
+                "29/10",
+                "2.92",
+                "2.92",
+                "-0.342"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML827837126233391104",
+              false,
+              "827837123574161408",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837126233391104H",
+              {
+                "BR-PT": "Jordânia"
+              },
+              {
+                "BR-PT": "Jordânia"
+              },
+              false,
+              6.1,
+              false,
+              [
+                "510",
+                "6.10",
+                "51/10",
+                "5.10",
+                "5.10",
+                "-0.196"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML827837126233391104",
+              false,
+              "827837123574161408",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837126233391104A",
+              {
+                "BR-PT": "Argélia"
+              },
+              {
+                "BR-PT": "Argélia"
+              },
+              false,
+              1.44,
+              false,
+              [
+                "-227",
+                "1.44",
+                "11/25",
+                "0.44",
+                "-2.27",
+                "0.44"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML827837126233391104",
+              false,
+              "827837123574161408",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171804349828571",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Jordânia-vs-Argélia",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      297,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsExposureEnabled": false,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "AwayShirtColorPrimary": "#00FF00",
+        "HasPlayerIncidentCoverage": "true",
+        "HasVARCoverage": "true",
+        "HasIncidentCoverage": "true"
+      },
+      null,
+      null
+    ],
+    [
+      "827837124186529792",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "3687",
+          {
+            "BR-PT": "Espanha"
+          },
+          "Home"
+        ],
+        [
+          "2331",
+          {
+            "BR-PT": "Arábia Saudita"
+          },
+          "Away"
+        ]
+      ],
+      551,
+      "Espanha vs Arábia Saudita",
+      "2026-06-21T16:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171802273220496",
+      [
+        [
+          "0ML827837130243063808",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "827837124186529792",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML827837130243063808D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              8.3,
+              false,
+              [
+                "730",
+                "8.30",
+                "73/10",
+                "7.30",
+                "7.30",
+                "-0.137"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML827837130243063808",
+              false,
+              "827837124186529792",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837130243063808H",
+              {
+                "BR-PT": "Espanha"
+              },
+              {
+                "BR-PT": "Espanha"
+              },
+              false,
+              1.07,
+              false,
+              [
+                "-1429",
+                "1.07",
+                "7/100",
+                "0.07",
+                "-14.29",
+                "0.07"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML827837130243063808",
+              false,
+              "827837124186529792",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837130243063808A",
+              {
+                "BR-PT": "Arábia Saudita"
+              },
+              {
+                "BR-PT": "Arábia Saudita"
+              },
+              false,
+              17,
+              false,
+              [
+                "1600",
+                "17.00",
+                "16/1",
+                "16.00",
+                "16.00",
+                "-0.062"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML827837130243063808",
+              false,
+              "827837124186529792",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171804341744215",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Espanha-vs-Arábia-Saudita",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      286,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "HomeShirtColorPrimary": "#FF0000",
+        "AwayShirtColorPrimary": "#FFFFFF",
+        "HasPlayerIncidentCoverage": "true",
+        "HasVARCoverage": "true",
+        "HasIncidentCoverage": "true"
+      },
+      null,
+      null
+    ],
+    [
+      "803107802066452480",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "2480",
+          {
+            "BR-PT": "Bélgica"
+          },
+          "Home"
+        ],
+        [
+          "2332",
+          {
+            "BR-PT": "Irã"
+          },
+          "Away"
+        ]
+      ],
+      602,
+      "Bélgica vs Irã",
+      "2026-06-21T19:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171802105423645",
+      [
+        [
+          "0ML803107804872441856",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "803107802066452480",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML803107804872441856D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              4.33,
+              false,
+              [
+                "333",
+                "4.33",
+                "10/3",
+                "3.33",
+                "3.33",
+                "-0.30"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML803107804872441856",
+              false,
+              "803107802066452480",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML803107804872441856H",
+              {
+                "BR-PT": "Bélgica"
+              },
+              {
+                "BR-PT": "Bélgica"
+              },
+              false,
+              1.34,
+              false,
+              [
+                "-294",
+                "1.34",
+                "17/50",
+                "0.34",
+                "-2.94",
+                "0.34"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML803107804872441856",
+              false,
+              "803107802066452480",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML803107804872441856A",
+              {
+                "BR-PT": "Irã"
+              },
+              {
+                "BR-PT": "Irã"
+              },
+              false,
+              7.1,
+              false,
+              [
+                "610",
+                "7.10",
+                "61/10",
+                "6.10",
+                "6.10",
+                "-0.164"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML803107804872441856",
+              false,
+              "803107802066452480",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                3125,
+                0.06,
+                750,
+                750,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171803164403706",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Bélgica-vs-Irã",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      298,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "HomeShirtColorPrimary": "#FF0000",
+        "HasPlayerIncidentCoverage": "true",
+        "HasVARCoverage": "true",
+        "HasIncidentCoverage": "true"
+      },
+      null,
+      null
+    ],
+    [
+      "827837122206818304",
+      "453456204518473728",
+      "Copa do Mundo 2026",
+      "1",
+      "Futebol",
+      "245",
+      "ZZ",
+      "Internacional",
+      [
+        [
+          "1606",
+          {
+            "BR-PT": "Equador"
+          },
+          "Home"
+        ],
+        [
+          "95292",
+          {
+            "BR-PT": "Curaçao"
+          },
+          "Away"
+        ]
+      ],
+      1527,
+      "Equador vs Curaçao",
+      "2026-06-21T00:00:00.000Z",
+      [
+        "",
+        "",
+        null,
+        {}
+      ],
+      false,
+      false,
+      {
+        "ClockRunning": false,
+        "ClockDirection": 0,
+        "UpdateDate": "0001-01-01T00:00:00.000Z",
+        "GameTimeBFFGotAt": 1781583760567
+      },
+      false,
+      [],
+      "639171805209233829",
+      [
+        [
+          "0ML827837124836659200",
+          "Resultado Final",
+          "Resultado Final",
+          [
+            "ML0",
+            "Resultado Final",
+            1,
+            1
+          ],
+          "827837122206818304",
+          "453456204518473728",
+          "1",
+          [
+            [
+              "0ML827837124836659200D",
+              {
+                "BR-PT": "Empate"
+              },
+              {
+                "BR-PT": "Empate"
+              },
+              false,
+              8.9,
+              false,
+              [
+                "790",
+                "8.90",
+                "79/10",
+                "7.90",
+                "7.90",
+                "-0.127"
+              ],
+              2,
+              1,
+              {
+                "BR-PT": "Empate"
+              },
+              "0ML827837124836659200",
+              false,
+              "827837122206818304",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                4375,
+                0.06,
+                1050,
+                1050,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837124836659200H",
+              {
+                "BR-PT": "Equador"
+              },
+              {
+                "BR-PT": "Equador"
+              },
+              false,
+              1.07,
+              false,
+              [
+                "-1429",
+                "1.07",
+                "7/100",
+                "0.07",
+                "-14.29",
+                "0.07"
+              ],
+              1,
+              1,
+              {
+                "BR-PT": "Casa"
+              },
+              "0ML827837124836659200",
+              false,
+              "827837122206818304",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                4375,
+                0.06,
+                1050,
+                1050,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ],
+            [
+              "0ML827837124836659200A",
+              {
+                "BR-PT": "Curaçao"
+              },
+              {
+                "BR-PT": "Curaçao"
+              },
+              false,
+              19,
+              false,
+              [
+                "1800",
+                "19.00",
+                "18/1",
+                "18.00",
+                "18.00",
+                "-0.056"
+              ],
+              3,
+              1,
+              {
+                "BR-PT": "Fora"
+              },
+              "0ML827837124836659200",
+              false,
+              "827837122206818304",
+              null,
+              [],
+              [
+                null,
+                0.06,
+                4375,
+                0.06,
+                1050,
+                1050,
+                true,
+                true,
+                true,
+                false,
+                0,
+                0
+              ],
+              "1"
+            ]
+          ],
+          false,
+          false,
+          null,
+          false,
+          "639171804333255810",
+          null,
+          true,
+          [
+            "808075353867419648"
+          ]
+        ]
+      ],
+      "Equador-vs-Curaçao",
+      "Copa-do-Mundo-2026",
+      "Internacional",
+      "Futebol",
+      1,
+      1000001,
+      "Fixture",
+      317,
+      false,
+      null,
+      {
+        "IsBetBuilderEnabled": true,
+        "IsVIPExcludeEnabled": false,
+        "IsWBComboEnabled": false,
+        "IsWBSingleEnabled": false,
+        "EarlyPayout": 2
+      },
+      "453456007969169408",
+      "804381968463822848",
+      {
+        "HomeShirtColorPrimary": "#FFFF00",
+        "AwayShirtColorPrimary": "#8000FF",
+        "HasPlayerIncidentCoverage": "true",
+        "HasVARCoverage": "true",
+        "HasIncidentCoverage": "true"
+      },
+      null,
+      null
+    ]
+  ]
+}

@@ -1,0 +1,1110 @@
+[
+  {
+    "marketViewType": "IN_PLAY",
+    "betViews": [
+      {
+        "competitionContextCaption": "Futebol",
+        "competitions": [
+          {
+            "competitionId": 22850,
+            "caption": "NPL Queensland",
+            "events": [
+              {
+                "eventBetContextId": 46642602,
+                "competitionId": 22850,
+                "homeTeamId": 540,
+                "awayTeamId": 335058,
+                "competitionMarketViewId": 5305674,
+                "competitionLocationId": 4816025,
+                "competitionRootLocationId": 4372606,
+                "competitionOrdering": 32767,
+                "additionalCaptions": {
+                  "type": 1,
+                  "competitor1": "Rochedale Rovers",
+                  "competitor1ImageId": 78274,
+                  "competitor2": "Moreton City Excelsior FC",
+                  "competitor2ImageId": 142984,
+                  "discriminator": "TwoCompetitorCaptionModel"
+                },
+                "supportsActions": true,
+                "liveStreamingCountries": "GR,CY,FI,IE,MX,BR,CL,EC,CA",
+                "providers": {
+                  "streams": [
+                    {
+                      "eventId": "527408",
+                      "discriminator": "IMG"
+                    }
+                  ],
+                  "flashbets": [],
+                  "fields": [
+                    {
+                      "matchId": "sr:match:71880158",
+                      "discriminator": "Sportradar"
+                    }
+                  ]
+                },
+                "sportradarMatchId": 71880158,
+                "competitionHistoryCaption": "NPL Queensland",
+                "competitionCaption": "NPL Queensland",
+                "regionId": 12,
+                "regionCaption": "Austrália",
+                "regionImageId": 80530,
+                "startTime": "06:15",
+                "startDateTime": "2026-06-16T09:15:00+00:00",
+                "startDateTimeUnix": 1781601300,
+                "path": "matches/rochedale-rovers-moreton-city-excelsior-fc",
+                "numMarkets": 11,
+                "isLive": false,
+                "marketTags": [
+                  {
+                    "marketId": 1667277674,
+                    "tag": "SOCCER_BORE_DRAW"
+                  },
+                  {
+                    "marketId": 1667277675,
+                    "tag": "SOCCER_BORE_DRAW"
+                  }
+                ],
+                "markets": [
+                  {
+                    "marketId": 1667277669,
+                    "betTypeSysname": "SOCCER_MATCH_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561921",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 5.0,
+                        "oddsText": "5.00",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561922",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 4.7,
+                        "oddsText": "4.70",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561923",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.45,
+                        "oddsText": "1.45",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277677,
+                    "betTypeSysname": "SOCCER_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561990",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.84,
+                        "oddsText": "1.84",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561991",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.86,
+                        "oddsText": "1.86",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277680,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561997",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 5.0,
+                        "oddsText": "5.00",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561998",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.65,
+                        "oddsText": "2.65",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561999",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.83,
+                        "oddsText": "1.83",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277679,
+                    "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561994",
+                        "code": "1X",
+                        "codeCaption": null,
+                        "caption": "1X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.4,
+                        "oddsText": "2.40",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561995",
+                        "code": "X2",
+                        "codeCaption": null,
+                        "caption": "X2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.15,
+                        "oddsText": "1.15",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561996",
+                        "code": "12",
+                        "codeCaption": null,
+                        "caption": "12",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.17,
+                        "oddsText": "1.17",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277687,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943562014",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.91,
+                        "oddsText": "1.91",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943562015",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.75,
+                        "oddsText": "1.75",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  }
+                ],
+                "hasBetContextInfo": false,
+                "isAwayAtHome": false,
+                "metadata": {
+                  "tournamentRound": "Rodada 13",
+                  "discriminator": "EventMetadataModel"
+                }
+              },
+              {
+                "eventBetContextId": 46642603,
+                "competitionId": 22850,
+                "homeTeamId": 34689,
+                "awayTeamId": 10044,
+                "competitionMarketViewId": 5305674,
+                "competitionLocationId": 4816025,
+                "competitionRootLocationId": 4372606,
+                "competitionOrdering": 32767,
+                "additionalCaptions": {
+                  "type": 1,
+                  "competitor1": "Gold Coast Knights SC",
+                  "competitor1ImageId": 88465,
+                  "competitor2": "Queensland Lions",
+                  "competitor2ImageId": 28222,
+                  "discriminator": "TwoCompetitorCaptionModel"
+                },
+                "supportsActions": true,
+                "liveStreamingCountries": "GR,CY,FI,IE,MX,BR,CL,EC,CA",
+                "providers": {
+                  "streams": [
+                    {
+                      "eventId": "527407",
+                      "discriminator": "IMG"
+                    }
+                  ],
+                  "flashbets": [],
+                  "fields": [
+                    {
+                      "matchId": "sr:match:71880156",
+                      "discriminator": "Sportradar"
+                    }
+                  ]
+                },
+                "sportradarMatchId": 71880156,
+                "competitionHistoryCaption": "NPL Queensland",
+                "competitionCaption": "NPL Queensland",
+                "regionId": 12,
+                "regionCaption": "Austrália",
+                "regionImageId": 80530,
+                "startTime": "06:30",
+                "startDateTime": "2026-06-16T09:30:00+00:00",
+                "startDateTimeUnix": 1781602200,
+                "path": "matches/gold-coast-knights-sc-queensland-lions",
+                "numMarkets": 11,
+                "isLive": false,
+                "marketTags": [
+                  {
+                    "marketId": 1667277375,
+                    "tag": "SOCCER_BORE_DRAW"
+                  },
+                  {
+                    "marketId": 1667277376,
+                    "tag": "SOCCER_BORE_DRAW"
+                  }
+                ],
+                "markets": [
+                  {
+                    "marketId": 1667277370,
+                    "betTypeSysname": "SOCCER_MATCH_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561056",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 3.55,
+                        "oddsText": "3.55",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561057",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 4.05,
+                        "oddsText": "4.05",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561058",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.74,
+                        "oddsText": "1.74",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277378,
+                    "betTypeSysname": "SOCCER_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561125",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.84,
+                        "oddsText": "1.84",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561126",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.85,
+                        "oddsText": "1.85",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277381,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561132",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 3.8,
+                        "oddsText": "3.80",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561133",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.55,
+                        "oddsText": "2.55",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561134",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.15,
+                        "oddsText": "2.15",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277380,
+                    "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561129",
+                        "code": "1X",
+                        "codeCaption": null,
+                        "caption": "1X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.91,
+                        "oddsText": "1.91",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561130",
+                        "code": "X2",
+                        "codeCaption": null,
+                        "caption": "X2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.25,
+                        "oddsText": "1.25",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561131",
+                        "code": "12",
+                        "codeCaption": null,
+                        "caption": "12",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.22,
+                        "oddsText": "1.22",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1667277388,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6943561149",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.91,
+                        "oddsText": "1.91",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6943561150",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.75,
+                        "oddsText": "1.75",
+                        "isAvailable": false,
+                        "marketStatistic": null
+                      }
+                    ]
+                  }
+                ],
+                "hasBetContextInfo": false,
+                "isAwayAtHome": false,
+                "metadata": {
+                  "tournamentRound": "Rodada 12",
+                  "discriminator": "EventMetadataModel"
+                }
+              },
+              {
+                "eventBetContextId": 46611976,
+                "competitionId": 22850,
+                "homeTeamId": 6429,
+                "awayTeamId": 7168,
+                "competitionMarketViewId": 5305674,
+                "competitionLocationId": 4816025,
+                "competitionRootLocationId": 4372606,
+                "competitionOrdering": 32767,
+                "additionalCaptions": {
+                  "type": 1,
+                  "competitor1": "Gold Coast United",
+                  "competitor1ImageId": 85279,
+                  "competitor2": "Brisbane City FC",
+                  "competitor2ImageId": 83855,
+                  "discriminator": "TwoCompetitorCaptionModel"
+                },
+                "supportsActions": true,
+                "liveStreamingCountries": null,
+                "providers": {
+                  "streams": [],
+                  "flashbets": [],
+                  "fields": [
+                    {
+                      "matchId": "sr:match:71778882",
+                      "discriminator": "Sportradar"
+                    }
+                  ]
+                },
+                "sportradarMatchId": 71778882,
+                "competitionHistoryCaption": "NPL Queensland",
+                "competitionCaption": "NPL Queensland",
+                "regionId": 12,
+                "regionCaption": "Austrália",
+                "regionImageId": 80530,
+                "startTime": "06:30",
+                "startDateTime": "2026-06-16T09:30:00+00:00",
+                "startDateTimeUnix": 1781602200,
+                "path": "matches/gold-coast-united-brisbane-city-fc",
+                "numMarkets": 11,
+                "isLive": false,
+                "marketTags": [
+                  {
+                    "marketId": 1666614227,
+                    "tag": "SOCCER_BORE_DRAW"
+                  },
+                  {
+                    "marketId": 1666614228,
+                    "tag": "SOCCER_BORE_DRAW"
+                  }
+                ],
+                "markets": [
+                  {
+                    "marketId": 1666614222,
+                    "betTypeSysname": "SOCCER_MATCH_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6940702232",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 3.35,
+                        "oddsText": "3.35",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702233",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 4.05,
+                        "oddsText": "4.05",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702234",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.8,
+                        "oddsText": "1.80",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1666614230,
+                    "betTypeSysname": "SOCCER_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6940702301",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 2.04,
+                        "oddsText": "2.04",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702302",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.69,
+                        "oddsText": "1.69",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1666614233,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6940702308",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 3.75,
+                        "oddsText": "3.75",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702309",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.45,
+                        "oddsText": "2.45",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702310",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.25,
+                        "oddsText": "2.25",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1666614232,
+                    "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6940702305",
+                        "code": "1X",
+                        "codeCaption": null,
+                        "caption": "1X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.91,
+                        "oddsText": "1.91",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702306",
+                        "code": "X2",
+                        "codeCaption": null,
+                        "caption": "X2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.29,
+                        "oddsText": "1.29",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702307",
+                        "code": "12",
+                        "codeCaption": null,
+                        "caption": "12",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.22,
+                        "oddsText": "1.22",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1666614240,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6940702325",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 2.05,
+                        "oddsText": "2.05",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6940702326",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.65,
+                        "oddsText": "1.65",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  }
+                ],
+                "hasBetContextInfo": false,
+                "isAwayAtHome": false,
+                "metadata": {
+                  "tournamentRound": "Rodada 11",
+                  "discriminator": "EventMetadataModel"
+                }
+              }
+            ]
+          },
+          {
+            "competitionId": 5145,
+            "caption": "NPL Queensland (F)",
+            "events": [
+              {
+                "eventBetContextId": 46690642,
+                "competitionId": 5145,
+                "homeTeamId": 61435,
+                "awayTeamId": 36230,
+                "competitionMarketViewId": 4870849,
+                "competitionLocationId": 4386215,
+                "competitionRootLocationId": 4372606,
+                "competitionOrdering": 32767,
+                "additionalCaptions": {
+                  "type": 1,
+                  "competitor1": "Eastern  Suburbs FC (F)",
+                  "competitor1ImageId": 113541,
+                  "competitor2": "Olympic FC Brisbane (F)",
+                  "competitor2ImageId": 26800,
+                  "discriminator": "TwoCompetitorCaptionModel"
+                },
+                "supportsActions": false,
+                "liveStreamingCountries": null,
+                "providers": {
+                  "streams": [],
+                  "flashbets": [],
+                  "fields": []
+                },
+                "sportradarMatchId": 72057208,
+                "competitionHistoryCaption": "NPL Queensland (F)",
+                "competitionCaption": "NPL Queensland (F)",
+                "regionId": 12,
+                "regionCaption": "Austrália",
+                "regionImageId": 80530,
+                "startTime": "06:30",
+                "startDateTime": "2026-06-16T09:30:00+00:00",
+                "startDateTimeUnix": 1781602200,
+                "path": "matches/eastern-suburbs-fc-w-olympic-fc-brisbane-w",
+                "numMarkets": 12,
+                "isLive": false,
+                "marketTags": [
+                  {
+                    "marketId": 1669089826,
+                    "tag": "SOCCER_BORE_DRAW"
+                  },
+                  {
+                    "marketId": 1669089827,
+                    "tag": "SOCCER_BORE_DRAW"
+                  }
+                ],
+                "markets": [
+                  {
+                    "marketId": 1669089821,
+                    "betTypeSysname": "SOCCER_MATCH_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6951533567",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.5,
+                        "oddsText": "1.50",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533568",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 4.05,
+                        "oddsText": "4.05",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533569",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 4.8,
+                        "oddsText": "4.80",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1669560001,
+                    "betTypeSysname": "SOCCER_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6953621746",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 2.2,
+                        "oddsText": "2.20",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6953621747",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 3,5",
+                        "instanceCaption": "3,5",
+                        "betDisplayCaption": null,
+                        "price": 1.58,
+                        "oddsText": "1.58",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1669089830,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6951533639",
+                        "code": "1",
+                        "codeCaption": null,
+                        "caption": "1",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.92,
+                        "oddsText": "1.92",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533640",
+                        "code": "X",
+                        "codeCaption": null,
+                        "caption": "X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.4,
+                        "oddsText": "2.40",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533641",
+                        "code": "2",
+                        "codeCaption": null,
+                        "caption": "2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 5.1,
+                        "oddsText": "5.10",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1669089829,
+                    "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6951533636",
+                        "code": "1X",
+                        "codeCaption": null,
+                        "caption": "1X",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.17,
+                        "oddsText": "1.17",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533637",
+                        "code": "X2",
+                        "codeCaption": null,
+                        "caption": "X2",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 2.25,
+                        "oddsText": "2.25",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533638",
+                        "code": "12",
+                        "codeCaption": null,
+                        "caption": "12",
+                        "instanceCaption": null,
+                        "betDisplayCaption": null,
+                        "price": 1.2,
+                        "oddsText": "1.20",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  },
+                  {
+                    "marketId": 1669089837,
+                    "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+                    "useInstanceCaption": false,
+                    "betItems": [
+                      {
+                        "id": "6951533657",
+                        "code": "O",
+                        "codeCaption": "+",
+                        "caption": "Mais de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 2.15,
+                        "oddsText": "2.15",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      },
+                      {
+                        "id": "6951533658",
+                        "code": "U",
+                        "codeCaption": "-",
+                        "caption": "Menos de 1,5",
+                        "instanceCaption": "1,5",
+                        "betDisplayCaption": null,
+                        "price": 1.58,
+                        "oddsText": "1.58",
+                        "isAvailable": true,
+                        "marketStatistic": null
+                      }
+                    ]
+                  }
+                ],
+                "hasBetContextInfo": false,
+                "isAwayAtHome": false,
+                "metadata": {
+                  "tournamentRound": "Rodada 18",
+                  "discriminator": "EventMetadataModel"
+                }
+              }
+            ]
+          }
+        ],
+        "marketCaptions": [
+          {
+            "betTypeSysname": "SOCCER_MATCH_RESULT",
+            "marketCaption": "Resultado Final ",
+            "betCaptions": [
+              "1",
+              "X",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_UNDER_OVER",
+            "marketCaption": "Total de Gols",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_FIRST_HALF_RESULT",
+            "marketCaption": "Resultado ao intervalo",
+            "betCaptions": [
+              "1",
+              "X",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_DOUBLE_CHANCE",
+            "marketCaption": "Chance dupla",
+            "betCaptions": [
+              "1",
+              "X",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_FIRST_HALF_UNDER_OVER",
+            "marketCaption": "1º Tempo - Total de Gols",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_CORNERS_UNDER_OVER",
+            "marketCaption": "Total de Escanteios",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_CORNERS_FIRST_HALF_UNDER_OVER",
+            "marketCaption": "1º Tempo - Total de Escanteios",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_BOTH_TEAMS_TO_SCORE",
+            "marketCaption": "Ambas equipes Marcam",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "betTypeSysname": "SOCCER_POINT_CARDS_UNDER_OVER",
+            "marketCaption": "Total de Cartões",
+            "betCaptions": [
+              "1",
+              "2"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

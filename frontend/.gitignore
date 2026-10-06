@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+*.local
+
+# Artefatos do tsc (o build usa --noEmit; nao versionar emitidos)
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+tailwind.config.js
+tailwind.config.d.ts

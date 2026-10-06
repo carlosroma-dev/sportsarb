@@ -1,0 +1,5312 @@
+{
+  "dates": [
+    {
+      "dateTime": "2026-06-19T00:00:00Z",
+      "eventIds": [
+        15679949
+      ]
+    },
+    {
+      "dateTime": "2026-06-20T00:00:00Z",
+      "eventIds": [
+        15679940,
+        15679946,
+        15679951
+      ]
+    },
+    {
+      "dateTime": "2026-06-21T00:00:00Z",
+      "eventIds": [
+        15679948,
+        15679944,
+        15679942,
+        16805373
+      ]
+    },
+    {
+      "dateTime": "2026-06-22T00:00:00Z",
+      "eventIds": [
+        15679941
+      ]
+    },
+    {
+      "dateTime": "2026-06-23T00:00:00Z",
+      "eventIds": [
+        15679943
+      ]
+    },
+    {
+      "dateTime": "2026-07-22T00:00:00Z",
+      "eventIds": [
+        16027579,
+        16027580,
+        16027582,
+        16027574,
+        16027584,
+        16027581,
+        16027577,
+        16027575,
+        16027578,
+        16027583
+      ]
+    }
+  ],
+  "availableChamps": [
+    {
+      "hasLiveEvents": false,
+      "id": 11318,
+      "name": "Brasileirão A"
+    },
+    {
+      "hasLiveEvents": false,
+      "id": 11005,
+      "name": "Brasileirão B"
+    }
+  ],
+  "availableCategories": [
+    {
+      "champIds": [
+        11318,
+        11005
+      ],
+      "iso": "BRA",
+      "hasLiveEvents": false,
+      "id": 593,
+      "name": "Brasil"
+    }
+  ],
+  "topSports": [],
+  "headers": [
+    {
+      "typeId": 1,
+      "name": "Vencedor do encontro",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 2,
+          "name": "X"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    },
+    {
+      "typeId": 18,
+      "name": "Total de gols",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 12,
+          "name": "mais de"
+        },
+        {
+          "id": 13,
+          "name": "menos de"
+        }
+      ],
+      "specialOdd": {
+        "typeId": 1,
+        "name": "Gols"
+      }
+    },
+    {
+      "typeId": 29,
+      "name": "Ambas equipes marcam",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 74,
+          "name": "sim"
+        },
+        {
+          "id": 76,
+          "name": "não"
+        }
+      ]
+    },
+    {
+      "typeId": 10,
+      "name": "Chance dupla",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 9,
+          "name": "1X"
+        },
+        {
+          "id": 10,
+          "name": "12"
+        },
+        {
+          "id": 11,
+          "name": "X2"
+        }
+      ]
+    },
+    {
+      "typeId": 11,
+      "name": "Empate devolve aposta",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    },
+    {
+      "typeId": 8,
+      "name": "Gol",
+      "mst": 0,
+      "odds": [
+        {
+          "id": 1,
+          "name": "1"
+        },
+        {
+          "id": 7,
+          "name": "Nenhum"
+        },
+        {
+          "id": 3,
+          "name": "2"
+        }
+      ]
+    }
+  ],
+  "pageCount": 0,
+  "page": 0,
+  "markets": [
+    {
+      "oddIds": [
+        4049567144,
+        4049567145,
+        4049567146
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588969938,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049567224,
+        4049567226,
+        4049567225
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588969966,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049566960,
+        4049566958,
+        4049566959
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588969898,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049567015,
+        4049567016
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588969909,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049566824,
+        4049566825
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588969856,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049566890,
+        4049566891
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588969889,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049572921,
+        4049572922,
+        4049572923
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588971991,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049572998,
+        4049573000,
+        4049572999
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588972018,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049572737,
+        4049572735,
+        4049572736
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588971951,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049572792,
+        4049572793
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588971962,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049572599,
+        4049572600
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588971908,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049572667,
+        4049572668
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588971942,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049564682,
+        4049564683,
+        4049564684
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588969022,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049564762,
+        4049564764,
+        4049564763
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588969050,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049564498,
+        4049564496,
+        4049564497
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588968982,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049564553,
+        4049564554
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588968993,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049564360,
+        4049564361
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588968939,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049564428,
+        4049564429
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588968973,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049554291,
+        4049554292,
+        4049554293
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588965387,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049554368,
+        4049554370,
+        4049554369
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588965414,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049554107,
+        4049554105,
+        4049554106
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588965347,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049554162,
+        4049554163
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588965358,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049553971,
+        4049553972
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588965305,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049554037,
+        4049554038
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588965338,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049557215,
+        4049557216,
+        4049557217
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588966841,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049557292,
+        4049557294,
+        4049557293
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588966868,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049557031,
+        4049557029,
+        4049557030
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588966801,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049557086,
+        4049557087
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588966812,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049556897,
+        4049556898
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588966760,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049556961,
+        4049556962
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588966792,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049562165,
+        4049562169,
+        4049562170
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588968581,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049562302,
+        4049562306,
+        4049562304
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588968609,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049561839,
+        4049561835,
+        4049561837
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588968541,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049561913,
+        4049561915
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588968552,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049561584,
+        4049561585
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588968500,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049561690,
+        4049561692
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588968532,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049558776,
+        4049558777,
+        4049558778
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588966534,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049558853,
+        4049558855,
+        4049558854
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588966561,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049558592,
+        4049558590,
+        4049558591
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588966494,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049558647,
+        4049558648
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588966505,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049558458,
+        4049558459
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588966453,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049558522,
+        4049558523
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588966485,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049562063,
+        4049562064,
+        4049562065
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588968141,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049562238,
+        4049562242,
+        4049562240
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588968168,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049561672,
+        4049561665,
+        4049561668
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588968101,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049561771,
+        4049561773
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588968112,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049561411,
+        4049561412
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588968060,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049561492,
+        4049561493
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588968092,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049314151,
+        4049314152,
+        4049314153
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588882416,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049314228,
+        4049314230,
+        4049314229
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588882443,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049313967,
+        4049313965,
+        4049313966
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588882376,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049314022,
+        4049314023
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588882387,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049313833,
+        4049313834
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588882335,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049313897,
+        4049313898
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588882367,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4049569713,
+        4049569714,
+        4049569715
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1588970911,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4049569790,
+        4049569792,
+        4049569791
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1588970939,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4049569529,
+        4049569527,
+        4049569528
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1588970871,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4049569584,
+        4049569585
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1588970882,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4049569395,
+        4049569396
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1588970830,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4049569459,
+        4049569460
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1588970862,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4113344107,
+        4113344108,
+        4113344109
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1608951421,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4113344178,
+        4113344180,
+        4113344179
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1608951446,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4113343959,
+        4113343957,
+        4113343958
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1608951387,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4113343996,
+        4113343997
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1608951395,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4113343855,
+        4113343856
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1608951361,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4113343889,
+        4113343890
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1608951378,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4117830901,
+        4117830902,
+        4117830903
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1610420529,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4117830974,
+        4117830976,
+        4117830975
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1610420555,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4117830751,
+        4117830749,
+        4117830750
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1610420494,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4117830788,
+        4117830789
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1610420502,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4117830647,
+        4117830648
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1610420468,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4117830681,
+        4117830682
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1610420485,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4117832264,
+        4117832265,
+        4117832266
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1610420929,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4117832334,
+        4117832336,
+        4117832335
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1610420954,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4117832114,
+        4117832112,
+        4117832113
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1610420894,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4117832151,
+        4117832152
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1610420902,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4117832010,
+        4117832011
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1610420868,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4117832044,
+        4117832045
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1610420885,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4114524005,
+        4114524008,
+        4114524010
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1609368816,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4114524183,
+        4114524189,
+        4114524186
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1609368841,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4114523685,
+        4114523681,
+        4114523683
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1609368782,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4114523754,
+        4114523756
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1609368790,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4114523508,
+        4114523510
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1609368756,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4114523565,
+        4114523566
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1609368773,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4117829544,
+        4117829545,
+        4117829546
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1610420132,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4117829617,
+        4117829619,
+        4117829618
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1610420158,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4117829394,
+        4117829392,
+        4117829393
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1610420097,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4117829431,
+        4117829432
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1610420105,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4117829288,
+        4117829289
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "sn": "1,5",
+      "id": 1610420070,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4117829324,
+        4117829325
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1610420088,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4121676447,
+        4121676448,
+        4121676449
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1611598438,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4121676520,
+        4121676522,
+        4121676521
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1611598464,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4121676297,
+        4121676295,
+        4121676296
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1611598403,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4121676334,
+        4121676335
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1611598411,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4121676163,
+        4121676164
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1611598362,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4121676227,
+        4121676228
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1611598394,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4114115515,
+        4114115516,
+        4114115517
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1609211145,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4114115586,
+        4114115588,
+        4114115587
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1609211170,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4114115367,
+        4114115365,
+        4114115366
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1609211111,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4114115404,
+        4114115405
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1609211119,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4114115263,
+        4114115264
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1609211085,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4114115297,
+        4114115298
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1609211102,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4116474057,
+        4116474058,
+        4116474059
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1609953251,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4116474128,
+        4116474130,
+        4116474129
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1609953276,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4116473909,
+        4116473907,
+        4116473908
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1609953217,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4116473946,
+        4116473947
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1609953225,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4116473805,
+        4116473806
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1609953191,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4116473839,
+        4116473840
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1609953208,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4117187433,
+        4117187434,
+        4117187435
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1610176837,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4117187506,
+        4117187508,
+        4117187507
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1610176863,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4117187283,
+        4117187281,
+        4117187282
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1610176802,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4117187320,
+        4117187321
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1610176810,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4117187179,
+        4117187180
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1610176776,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4117187213,
+        4117187214
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1610176793,
+      "name": "Ambas equipes marcam"
+    },
+    {
+      "oddIds": [
+        4121800055,
+        4121800056,
+        4121800057
+      ],
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1611638835,
+      "name": "Vencedor do encontro"
+    },
+    {
+      "oddIds": [
+        4121800128,
+        4121800130,
+        4121800129
+      ],
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "sn": "Primeiro",
+      "id": 1611638861,
+      "name": "Primeiro gol"
+    },
+    {
+      "oddIds": [
+        4121799905,
+        4121799903,
+        4121799904
+      ],
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1611638800,
+      "name": "Chance dupla"
+    },
+    {
+      "oddIds": [
+        4121799942,
+        4121799943
+      ],
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1611638808,
+      "name": "Empate devolve aposta"
+    },
+    {
+      "oddIds": [
+        4121799777,
+        4121799778
+      ],
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2,5",
+      "id": 1611638762,
+      "name": "Total de gols"
+    },
+    {
+      "oddIds": [
+        4121799835,
+        4121799836
+      ],
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1611638791,
+      "name": "Ambas equipes marcam"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47392,
+      "id": 4049567144,
+      "name": "Atlético MG"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049567145,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47601,
+      "id": 4049567146,
+      "name": "Bahia"
+    },
+    {
+      "typeId": 1,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47392,
+      "id": 4049567224,
+      "name": "Atlético MG"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049567226,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47601,
+      "id": 4049567225,
+      "name": "Bahia"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47392,
+      "id": 4049566960,
+      "name": "Atlético MG ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566958,
+      "name": "Atlético MG ou Bahia"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47601,
+      "id": 4049566959,
+      "name": "Empate ou Bahia"
+    },
+    {
+      "typeId": 1,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47392,
+      "id": 4049567015,
+      "name": "Atlético MG"
+    },
+    {
+      "typeId": 3,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47601,
+      "id": 4049567016,
+      "name": "Bahia"
+    },
+    {
+      "typeId": 12,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049566824,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049566825,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566890,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049566891,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 56845,
+      "id": 4049572921,
+      "name": "Botafogo"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049572922,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 54850,
+      "id": 4049572923,
+      "name": "Santos"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56845,
+      "id": 4049572998,
+      "name": "Botafogo"
+    },
+    {
+      "typeId": 7,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049573000,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54850,
+      "id": 4049572999,
+      "name": "Santos"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56845,
+      "id": 4049572737,
+      "name": "Botafogo ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049572735,
+      "name": "Botafogo ou Santos"
+    },
+    {
+      "typeId": 11,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54850,
+      "id": 4049572736,
+      "name": "Empate ou Santos"
+    },
+    {
+      "typeId": 1,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56845,
+      "id": 4049572792,
+      "name": "Botafogo"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54850,
+      "id": 4049572793,
+      "name": "Santos"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049572599,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049572600,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049572667,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049572668,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 60833,
+      "id": 4049564682,
+      "name": "Chapecoense"
+    },
+    {
+      "typeId": 2,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049564683,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 56014,
+      "id": 4049564684,
+      "name": "Flamengo"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60833,
+      "id": 4049564762,
+      "name": "Chapecoense"
+    },
+    {
+      "typeId": 7,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049564764,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56014,
+      "id": 4049564763,
+      "name": "Flamengo"
+    },
+    {
+      "typeId": 9,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60833,
+      "id": 4049564498,
+      "name": "Chapecoense ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049564496,
+      "name": "Chapecoense ou Flamengo"
+    },
+    {
+      "typeId": 11,
+      "price": 1.091,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56014,
+      "id": 4049564497,
+      "name": "Empate ou Flamengo"
+    },
+    {
+      "typeId": 1,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60833,
+      "id": 4049564553,
+      "name": "Chapecoense"
+    },
+    {
+      "typeId": 3,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 56014,
+      "id": 4049564554,
+      "name": "Flamengo"
+    },
+    {
+      "typeId": 12,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049564360,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049564361,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049564428,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049564429,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 52540,
+      "id": 4049554291,
+      "name": "Corinthians"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049554292,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 62258,
+      "id": 4049554293,
+      "name": "Remo"
+    },
+    {
+      "typeId": 1,
+      "price": 1.4706,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52540,
+      "id": 4049554368,
+      "name": "Corinthians"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049554370,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 62258,
+      "id": 4049554369,
+      "name": "Remo"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52540,
+      "id": 4049554107,
+      "name": "Corinthians ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049554105,
+      "name": "Corinthians ou Remo"
+    },
+    {
+      "typeId": 11,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 62258,
+      "id": 4049554106,
+      "name": "Empate ou Remo"
+    },
+    {
+      "typeId": 1,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52540,
+      "id": 4049554162,
+      "name": "Corinthians"
+    },
+    {
+      "typeId": 3,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 62258,
+      "id": 4049554163,
+      "name": "Remo"
+    },
+    {
+      "typeId": 12,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049553971,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049553972,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049554037,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049554038,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 54978,
+      "id": 4049557215,
+      "name": "Coritiba"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049557216,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 51574,
+      "id": 4049557217,
+      "name": "Palmeiras"
+    },
+    {
+      "typeId": 1,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54978,
+      "id": 4049557292,
+      "name": "Coritiba"
+    },
+    {
+      "typeId": 7,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049557294,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 1.68,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51574,
+      "id": 4049557293,
+      "name": "Palmeiras"
+    },
+    {
+      "typeId": 9,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54978,
+      "id": 4049557031,
+      "name": "Coritiba ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049557029,
+      "name": "Coritiba ou Palmeiras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51574,
+      "id": 4049557030,
+      "name": "Empate ou Palmeiras"
+    },
+    {
+      "typeId": 1,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54978,
+      "id": 4049557086,
+      "name": "Coritiba"
+    },
+    {
+      "typeId": 3,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51574,
+      "id": 4049557087,
+      "name": "Palmeiras"
+    },
+    {
+      "typeId": 12,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049556897,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049556898,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049556961,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049556962,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47398,
+      "id": 4049562165,
+      "name": "Fluminense"
+    },
+    {
+      "typeId": 2,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049562169,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 54851,
+      "id": 4049562170,
+      "name": "Bragantino"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47398,
+      "id": 4049562302,
+      "name": "Fluminense"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049562306,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54851,
+      "id": 4049562304,
+      "name": "Bragantino"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47398,
+      "id": 4049561839,
+      "name": "Fluminense ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561835,
+      "name": "Fluminense ou Bragantino"
+    },
+    {
+      "typeId": 11,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54851,
+      "id": 4049561837,
+      "name": "Empate ou Bragantino"
+    },
+    {
+      "typeId": 1,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47398,
+      "id": 4049561913,
+      "name": "Fluminense"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54851,
+      "id": 4049561915,
+      "name": "Bragantino"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049561584,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049561585,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561690,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561692,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 58985,
+      "id": 4049558776,
+      "name": "Internacional RS"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049558777,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 51666,
+      "id": 4049558778,
+      "name": "Cruzeiro MG"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58985,
+      "id": 4049558853,
+      "name": "Internacional RS"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049558855,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51666,
+      "id": 4049558854,
+      "name": "Cruzeiro MG"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58985,
+      "id": 4049558592,
+      "name": "Internacional RS ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049558590,
+      "name": "Internacional RS ou Cruzeiro MG"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51666,
+      "id": 4049558591,
+      "name": "Empate ou Cruzeiro MG"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58985,
+      "id": 4049558647,
+      "name": "Internacional RS"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51666,
+      "id": 4049558648,
+      "name": "Cruzeiro MG"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049558458,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049558459,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049558522,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049558523,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 52545,
+      "id": 4049562063,
+      "name": "Mirassol "
+    },
+    {
+      "typeId": 2,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049562064,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 55673,
+      "id": 4049562065,
+      "name": "Grêmio"
+    },
+    {
+      "typeId": 1,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52545,
+      "id": 4049562238,
+      "name": "Mirassol "
+    },
+    {
+      "typeId": 7,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049562242,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55673,
+      "id": 4049562240,
+      "name": "Grêmio"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52545,
+      "id": 4049561672,
+      "name": "Mirassol  ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561665,
+      "name": "Mirassol  ou Grêmio"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55673,
+      "id": 4049561668,
+      "name": "Empate ou Grêmio"
+    },
+    {
+      "typeId": 1,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52545,
+      "id": 4049561771,
+      "name": "Mirassol "
+    },
+    {
+      "typeId": 3,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55673,
+      "id": 4049561773,
+      "name": "Grêmio"
+    },
+    {
+      "typeId": 12,
+      "price": 2.125,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049561411,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049561412,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561492,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049561493,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 146472,
+      "id": 4049314151,
+      "name": "São Paulo"
+    },
+    {
+      "typeId": 2,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049314152,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 55676,
+      "id": 4049314153,
+      "name": "Athletico-PR"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 146472,
+      "id": 4049314228,
+      "name": "São Paulo"
+    },
+    {
+      "typeId": 7,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049314230,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55676,
+      "id": 4049314229,
+      "name": "Athletico-PR"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 146472,
+      "id": 4049313967,
+      "name": "São Paulo ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049313965,
+      "name": "São Paulo ou Athletico-PR"
+    },
+    {
+      "typeId": 11,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55676,
+      "id": 4049313966,
+      "name": "Empate ou Athletico-PR"
+    },
+    {
+      "typeId": 1,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 146472,
+      "id": 4049314022,
+      "name": "São Paulo"
+    },
+    {
+      "typeId": 3,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 55676,
+      "id": 4049314023,
+      "name": "Athletico-PR"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049313833,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049313834,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049313897,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049313898,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 47599,
+      "id": 4049569713,
+      "name": "Vitória BA"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049569714,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        }
+      ],
+      "competitorId": 52691,
+      "id": 4049569715,
+      "name": "Vasco da Gama"
+    },
+    {
+      "typeId": 1,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47599,
+      "id": 4049569790,
+      "name": "Vitória BA"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049569792,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52691,
+      "id": 4049569791,
+      "name": "Vasco da Gama"
+    },
+    {
+      "typeId": 9,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47599,
+      "id": 4049569529,
+      "name": "Vitória BA ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049569527,
+      "name": "Vitória BA ou Vasco da Gama"
+    },
+    {
+      "typeId": 11,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52691,
+      "id": 4049569528,
+      "name": "Empate ou Vasco da Gama"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47599,
+      "id": 4049569584,
+      "name": "Vitória BA"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52691,
+      "id": 4049569585,
+      "name": "Vasco da Gama"
+    },
+    {
+      "typeId": 12,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049569395,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4049569396,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049569459,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4049569460,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47637,
+      "id": 4113344107,
+      "name": "Sport Recife\t\t"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4113344108,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 53089,
+      "id": 4113344109,
+      "name": "Atlético GO"
+    },
+    {
+      "typeId": 1,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47637,
+      "id": 4113344178,
+      "name": "Sport Recife\t\t"
+    },
+    {
+      "typeId": 7,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4113344180,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 53089,
+      "id": 4113344179,
+      "name": "Atlético GO"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47637,
+      "id": 4113343959,
+      "name": "Sport Recife\t\t ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4113343957,
+      "name": "Sport Recife\t\t ou Atlético GO"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 53089,
+      "id": 4113343958,
+      "name": "Empate ou Atlético GO"
+    },
+    {
+      "typeId": 1,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47637,
+      "id": 4113343996,
+      "name": "Sport Recife\t\t"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 53089,
+      "id": 4113343997,
+      "name": "Atlético GO"
+    },
+    {
+      "typeId": 12,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4113343855,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4113343856,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4113343889,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4113343890,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58980,
+      "id": 4117830901,
+      "name": "Londrina PR"
+    },
+    {
+      "typeId": 2,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117830902,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74627,
+      "id": 4117830903,
+      "name": "Athletic Club SJDR MG"
+    },
+    {
+      "typeId": 1,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58980,
+      "id": 4117830974,
+      "name": "Londrina PR"
+    },
+    {
+      "typeId": 7,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117830976,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74627,
+      "id": 4117830975,
+      "name": "Athletic Club SJDR MG"
+    },
+    {
+      "typeId": 9,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58980,
+      "id": 4117830751,
+      "name": "Londrina PR ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117830749,
+      "name": "Londrina PR ou Athletic Club SJDR MG"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74627,
+      "id": 4117830750,
+      "name": "Empate ou Athletic Club SJDR MG"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58980,
+      "id": 4117830788,
+      "name": "Londrina PR"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74627,
+      "id": 4117830789,
+      "name": "Athletic Club SJDR MG"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117830647,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5455,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117830648,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117830681,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117830682,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 61883,
+      "id": 4117832264,
+      "name": "Ceará "
+    },
+    {
+      "typeId": 2,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117832265,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52541,
+      "id": 4117832266,
+      "name": "Botafogo SP"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 61883,
+      "id": 4117832334,
+      "name": "Ceará "
+    },
+    {
+      "typeId": 7,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117832336,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52541,
+      "id": 4117832335,
+      "name": "Botafogo SP"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 61883,
+      "id": 4117832114,
+      "name": "Ceará  ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117832112,
+      "name": "Ceará  ou Botafogo SP"
+    },
+    {
+      "typeId": 11,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52541,
+      "id": 4117832113,
+      "name": "Empate ou Botafogo SP"
+    },
+    {
+      "typeId": 1,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 61883,
+      "id": 4117832151,
+      "name": "Ceará "
+    },
+    {
+      "typeId": 3,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52541,
+      "id": 4117832152,
+      "name": "Botafogo SP"
+    },
+    {
+      "typeId": 12,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117832010,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117832011,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117832044,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117832045,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51716,
+      "id": 4114524005,
+      "name": "Vila Nova GO"
+    },
+    {
+      "typeId": 2,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114524008,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47636,
+      "id": 4114524010,
+      "name": "Náutico PE"
+    },
+    {
+      "typeId": 1,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51716,
+      "id": 4114524183,
+      "name": "Vila Nova GO"
+    },
+    {
+      "typeId": 7,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114524189,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47636,
+      "id": 4114524186,
+      "name": "Náutico PE"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51716,
+      "id": 4114523685,
+      "name": "Vila Nova GO ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114523681,
+      "name": "Vila Nova GO ou Náutico PE"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47636,
+      "id": 4114523683,
+      "name": "Empate ou Náutico PE"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51716,
+      "id": 4114523754,
+      "name": "Vila Nova GO"
+    },
+    {
+      "typeId": 3,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47636,
+      "id": 4114523756,
+      "name": "Náutico PE"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4114523508,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4114523510,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114523565,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114523566,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54948,
+      "id": 4117829544,
+      "name": "Avaí SC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117829545,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60696,
+      "id": 4117829546,
+      "name": "Cuiabá"
+    },
+    {
+      "typeId": 1,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54948,
+      "id": 4117829617,
+      "name": "Avaí SC"
+    },
+    {
+      "typeId": 7,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117829619,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60696,
+      "id": 4117829618,
+      "name": "Cuiabá"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54948,
+      "id": 4117829394,
+      "name": "Avaí SC ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117829392,
+      "name": "Avaí SC ou Cuiabá"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60696,
+      "id": 4117829393,
+      "name": "Empate ou Cuiabá"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54948,
+      "id": 4117829431,
+      "name": "Avaí SC"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 60696,
+      "id": 4117829432,
+      "name": "Cuiabá"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4706,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117829288,
+      "name": "Mais de 1,5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117829289,
+      "name": "Menos de 1,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117829324,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117829325,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59995,
+      "id": 4121676447,
+      "name": "CRB"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121676448,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52701,
+      "id": 4121676449,
+      "name": "Fortaleza"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59995,
+      "id": 4121676520,
+      "name": "CRB"
+    },
+    {
+      "typeId": 7,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121676522,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52701,
+      "id": 4121676521,
+      "name": "Fortaleza"
+    },
+    {
+      "typeId": 9,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59995,
+      "id": 4121676297,
+      "name": "CRB ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121676295,
+      "name": "CRB ou Fortaleza"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52701,
+      "id": 4121676296,
+      "name": "Empate ou Fortaleza"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59995,
+      "id": 4121676334,
+      "name": "CRB"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52701,
+      "id": 4121676335,
+      "name": "Fortaleza"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4121676163,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4121676164,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121676227,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121676228,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51587,
+      "id": 4114115515,
+      "name": "São Bernardo FC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114115516,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58763,
+      "id": 4114115517,
+      "name": "EC Juventude"
+    },
+    {
+      "typeId": 1,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51587,
+      "id": 4114115586,
+      "name": "São Bernardo FC"
+    },
+    {
+      "typeId": 7,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114115588,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58763,
+      "id": 4114115587,
+      "name": "EC Juventude"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51587,
+      "id": 4114115367,
+      "name": "São Bernardo FC ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114115365,
+      "name": "São Bernardo FC ou EC Juventude"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58763,
+      "id": 4114115366,
+      "name": "Empate ou EC Juventude"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51587,
+      "id": 4114115404,
+      "name": "São Bernardo FC"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58763,
+      "id": 4114115405,
+      "name": "EC Juventude"
+    },
+    {
+      "typeId": 12,
+      "price": 2.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4114115263,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4114115264,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114115297,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4114115298,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51090,
+      "id": 4116474057,
+      "name": "Goiás"
+    },
+    {
+      "typeId": 2,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4116474058,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58981,
+      "id": 4116474059,
+      "name": "Operário PR"
+    },
+    {
+      "typeId": 1,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51090,
+      "id": 4116474128,
+      "name": "Goiás"
+    },
+    {
+      "typeId": 7,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4116474130,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58981,
+      "id": 4116474129,
+      "name": "Operário PR"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51090,
+      "id": 4116473909,
+      "name": "Goiás ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4116473907,
+      "name": "Goiás ou Operário PR"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58981,
+      "id": 4116473908,
+      "name": "Empate ou Operário PR"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51090,
+      "id": 4116473946,
+      "name": "Goiás"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 58981,
+      "id": 4116473947,
+      "name": "Operário PR"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4116473805,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4706,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4116473806,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4116473839,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4116473840,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52542,
+      "id": 4117187433,
+      "name": "Ponte Preta"
+    },
+    {
+      "typeId": 2,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117187434,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51571,
+      "id": 4117187435,
+      "name": "Grêmio Novorizontino SP"
+    },
+    {
+      "typeId": 1,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52542,
+      "id": 4117187506,
+      "name": "Ponte Preta"
+    },
+    {
+      "typeId": 7,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117187508,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 1.5834,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51571,
+      "id": 4117187507,
+      "name": "Grêmio Novorizontino SP"
+    },
+    {
+      "typeId": 9,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52542,
+      "id": 4117187283,
+      "name": "Ponte Preta ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117187281,
+      "name": "Ponte Preta ou Grêmio Novorizontino SP"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51571,
+      "id": 4117187282,
+      "name": "Empate ou Grêmio Novorizontino SP"
+    },
+    {
+      "typeId": 1,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52542,
+      "id": 4117187320,
+      "name": "Ponte Preta"
+    },
+    {
+      "typeId": 3,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51571,
+      "id": 4117187321,
+      "name": "Grêmio Novorizontino SP"
+    },
+    {
+      "typeId": 12,
+      "price": 2.2,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117187179,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5715,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4117187180,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117187213,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4117187214,
+      "name": "Não"
+    },
+    {
+      "typeId": 1,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51707,
+      "id": 4121800055,
+      "name": "América-MG"
+    },
+    {
+      "typeId": 2,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121800056,
+      "name": "Empate"
+    },
+    {
+      "typeId": 3,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51709,
+      "id": 4121800057,
+      "name": "Criciúma"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51707,
+      "id": 4121800128,
+      "name": "América-MG"
+    },
+    {
+      "typeId": 7,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121800130,
+      "name": "Nenhum"
+    },
+    {
+      "typeId": 3,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51709,
+      "id": 4121800129,
+      "name": "Criciúma"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51707,
+      "id": 4121799905,
+      "name": "América-MG ou empate"
+    },
+    {
+      "typeId": 10,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121799903,
+      "name": "América-MG ou Criciúma"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51709,
+      "id": 4121799904,
+      "name": "Empate ou Criciúma"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51707,
+      "id": 4121799942,
+      "name": "América-MG"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51709,
+      "id": 4121799943,
+      "name": "Criciúma"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4121799777,
+      "name": "Mais de 2,5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4706,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 4121799778,
+      "name": "Menos de 2,5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121799835,
+      "name": "Sim"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4121799836,
+      "name": "Não"
+    }
+  ],
+  "events": [
+    {
+      "marketIds": [
+        1588969938,
+        1588969966,
+        1588969898,
+        1588969909,
+        1588969856,
+        1588969889
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554350",
+      "sc": 2120,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        47392,
+        47601
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027579,
+      "name": "Atlético MG vs. Bahia"
+    },
+    {
+      "marketIds": [
+        1588971991,
+        1588972018,
+        1588971951,
+        1588971962,
+        1588971908,
+        1588971942
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554352",
+      "sc": 2171,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        56845,
+        54850
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027580,
+      "name": "Botafogo vs. Santos"
+    },
+    {
+      "marketIds": [
+        1588969022,
+        1588969050,
+        1588968982,
+        1588968993,
+        1588968939,
+        1588968973
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554348",
+      "sc": 2137,
+      "mc": 203,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        60833,
+        56014
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027582,
+      "name": "Chapecoense vs. Flamengo"
+    },
+    {
+      "marketIds": [
+        1588965387,
+        1588965414,
+        1588965347,
+        1588965358,
+        1588965305,
+        1588965338
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554344",
+      "sc": 2115,
+      "mc": 204,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        52540,
+        62258
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027574,
+      "name": "Corinthians vs. Remo"
+    },
+    {
+      "marketIds": [
+        1588966841,
+        1588966868,
+        1588966801,
+        1588966812,
+        1588966760,
+        1588966792
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554346",
+      "sc": 1954,
+      "mc": 202,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        54978,
+        51574
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027584,
+      "name": "Coritiba vs. Palmeiras"
+    },
+    {
+      "marketIds": [
+        1588968581,
+        1588968609,
+        1588968541,
+        1588968552,
+        1588968500,
+        1588968532
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554347",
+      "sc": 2107,
+      "mc": 204,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        47398,
+        54851
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027581,
+      "name": "Fluminense vs. Bragantino"
+    },
+    {
+      "marketIds": [
+        1588966534,
+        1588966561,
+        1588966494,
+        1588966505,
+        1588966453,
+        1588966485
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554345",
+      "sc": 2128,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        58985,
+        51666
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027577,
+      "name": "Internacional RS vs. Cruzeiro MG"
+    },
+    {
+      "marketIds": [
+        1588968141,
+        1588968168,
+        1588968101,
+        1588968112,
+        1588968060,
+        1588968092
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554349",
+      "sc": 2107,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        52545,
+        55673
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027575,
+      "name": "Mirassol  vs. Grêmio"
+    },
+    {
+      "marketIds": [
+        1588882416,
+        1588882443,
+        1588882376,
+        1588882387,
+        1588882335,
+        1588882367
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554312",
+      "sc": 2131,
+      "mc": 205,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        146472,
+        55676
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027578,
+      "name": "São Paulo vs. Athletico-PR"
+    },
+    {
+      "marketIds": [
+        1588970911,
+        1588970939,
+        1588970871,
+        1588970882,
+        1588970830,
+        1588970862
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "hasStream": false,
+      "extId": "fp32_ar:match:554351",
+      "sc": 2135,
+      "mc": 206,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": false,
+      "competitorIds": [
+        47599,
+        52691
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11318,
+      "status": 0,
+      "startDate": "2026-07-22T20:00:00Z",
+      "id": 16027583,
+      "name": "Vitória BA vs. Vasco da Gama"
+    },
+    {
+      "marketIds": [
+        1608951421,
+        1608951446,
+        1608951387,
+        1608951395,
+        1608951361,
+        1608951378
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 321,
+      "hasStream": false,
+      "extId": "fp32_ar:match:559971",
+      "sc": 5576,
+      "mc": 266,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        47637,
+        53089
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-19T00:00:00Z",
+      "id": 15679949,
+      "name": "Sport Recife\t\t vs. Atlético GO"
+    },
+    {
+      "marketIds": [
+        1610420529,
+        1610420555,
+        1610420494,
+        1610420502,
+        1610420468,
+        1610420485
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 2225,
+      "hasStream": false,
+      "extId": "fp32_ar:match:560717",
+      "sc": 1988,
+      "mc": 229,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        58980,
+        74627
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-20T14:00:00Z",
+      "id": 15679940,
+      "name": "Londrina PR vs. Athletic Club SJDR MG"
+    },
+    {
+      "marketIds": [
+        1610420929,
+        1610420954,
+        1610420894,
+        1610420902,
+        1610420868,
+        1610420885
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 3336,
+      "hasStream": false,
+      "extId": "fp32_ar:match:560777",
+      "sc": 1793,
+      "mc": 203,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        61883,
+        52541
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-20T22:00:00Z",
+      "id": 15679946,
+      "name": "Ceará  vs. Botafogo SP"
+    },
+    {
+      "marketIds": [
+        1609368816,
+        1609368841,
+        1609368782,
+        1609368790,
+        1609368756,
+        1609368773
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 9422,
+      "hasStream": false,
+      "extId": "fp32_ar:match:560778",
+      "sc": 1929,
+      "mc": 210,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        51716,
+        47636
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-20T22:00:00Z",
+      "id": 15679951,
+      "name": "Vila Nova GO vs. Náutico PE"
+    },
+    {
+      "marketIds": [
+        1610420132,
+        1610420158,
+        1610420097,
+        1610420105,
+        1610420070,
+        1610420088
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 3345,
+      "hasStream": false,
+      "extId": "fp32_ar:match:561364",
+      "sc": 1896,
+      "mc": 205,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        54948,
+        60696
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-21T14:00:00Z",
+      "id": 15679948,
+      "name": "Avaí SC vs. Cuiabá"
+    },
+    {
+      "marketIds": [
+        1611598438,
+        1611598464,
+        1611598403,
+        1611598411,
+        1611598362,
+        1611598394
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 4531,
+      "hasStream": false,
+      "extId": "fp32_ar:match:561559",
+      "sc": 1985,
+      "mc": 209,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        59995,
+        52701
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-21T19:00:00Z",
+      "id": 15679944,
+      "name": "CRB vs. Fortaleza"
+    },
+    {
+      "marketIds": [
+        1609211145,
+        1609211170,
+        1609211111,
+        1609211119,
+        1609211085,
+        1609211102
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 829,
+      "hasStream": false,
+      "extId": "fp32_ar:match:568033",
+      "sc": 1930,
+      "mc": 208,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        51587,
+        58763
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-21T20:00:00Z",
+      "id": 15679942,
+      "name": "São Bernardo FC vs. EC Juventude"
+    },
+    {
+      "marketIds": [
+        1609953251,
+        1609953276,
+        1609953217,
+        1609953225,
+        1609953191,
+        1609953208
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 7239,
+      "hasStream": false,
+      "extId": "fp32_ar:match:568656",
+      "sc": 1931,
+      "mc": 207,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        51090,
+        58981
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-21T21:30:00Z",
+      "id": 16805373,
+      "name": "Goiás vs. Operário PR"
+    },
+    {
+      "marketIds": [
+        1610176837,
+        1610176863,
+        1610176802,
+        1610176810,
+        1610176776,
+        1610176793
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 1324,
+      "hasStream": false,
+      "extId": "fp32_ar:match:562592",
+      "sc": 1918,
+      "mc": 205,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        52542,
+        51571
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-22T23:00:00Z",
+      "id": 15679941,
+      "name": "Ponte Preta vs. Grêmio Novorizontino SP"
+    },
+    {
+      "marketIds": [
+        1611638835,
+        1611638861,
+        1611638800,
+        1611638808,
+        1611638762,
+        1611638791
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 3384,
+      "hasStream": false,
+      "extId": "fp32_ar:match:563645",
+      "sc": 1899,
+      "mc": 200,
+      "rc": false,
+      "pId": 32,
+      "et": 0,
+      "hasStats": true,
+      "competitorIds": [
+        51707,
+        51709
+      ],
+      "sportId": 66,
+      "catId": 593,
+      "champId": 11005,
+      "status": 0,
+      "startDate": "2026-06-23T23:00:00Z",
+      "id": 15679943,
+      "name": "América-MG vs. Criciúma"
+    }
+  ],
+  "sports": [
+    {
+      "catIds": [
+        593
+      ],
+      "typeId": 1,
+      "iconName": "soccer",
+      "hasLiveEvents": false,
+      "id": 66,
+      "name": "Futebol"
+    }
+  ],
+  "categories": [
+    {
+      "champIds": [
+        11318,
+        11005
+      ],
+      "iso": "BRA",
+      "hasLiveEvents": false,
+      "id": 593,
+      "name": "Brasil"
+    }
+  ],
+  "champs": [
+    {
+      "offers": [
+        {
+          "type": 0,
+          "parameter": 2
+        },
+        {
+          "type": 2
+        },
+        {
+          "type": 6
+        }
+      ],
+      "shortName": "Brasileirão A",
+      "hasLiveEvents": false,
+      "id": 11318,
+      "name": "Brasileirão A"
+    },
+    {
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "shortName": "Brasileirão B",
+      "hasLiveEvents": false,
+      "id": 11005,
+      "name": "Brasileirão B"
+    }
+  ],
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CAM",
+      "id": 47392,
+      "name": "Atlético MG"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "BAH",
+      "id": 47601,
+      "name": "Bahia"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "BOT",
+      "id": 56845,
+      "name": "Botafogo"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "SAN",
+      "id": 54850,
+      "name": "Santos"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CHA",
+      "id": 60833,
+      "name": "Chapecoense"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "FLA",
+      "id": 56014,
+      "name": "Flamengo"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "COR",
+      "id": 52540,
+      "name": "Corinthians"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CLU",
+      "id": 62258,
+      "name": "Remo"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "COR",
+      "id": 54978,
+      "name": "Coritiba"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "PAL",
+      "id": 51574,
+      "name": "Palmeiras"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "FLU",
+      "id": 47398,
+      "name": "Fluminense"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "RBB",
+      "id": 54851,
+      "name": "Bragantino"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "INT",
+      "id": 58985,
+      "name": "Internacional RS"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CRU",
+      "id": 51666,
+      "name": "Cruzeiro MG"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "MIR",
+      "id": 52545,
+      "name": "Mirassol "
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "GRE",
+      "id": 55673,
+      "name": "Grêmio"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "SPA",
+      "id": 146472,
+      "name": "São Paulo"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CAP",
+      "id": 55676,
+      "name": "Athletico-PR"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "VIT",
+      "id": 47599,
+      "name": "Vitória BA"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "VDG",
+      "id": 52691,
+      "name": "Vasco da Gama"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "REC",
+      "id": 47637,
+      "name": "Sport Recife\t\t"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "GOI",
+      "id": 53089,
+      "name": "Atlético GO"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "LON",
+      "id": 58980,
+      "name": "Londrina PR"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "ATH",
+      "id": 74627,
+      "name": "Athletic Club SJDR MG"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CEA",
+      "id": 61883,
+      "name": "Ceará "
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "BOT",
+      "id": 52541,
+      "name": "Botafogo SP"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "VIN",
+      "id": 51716,
+      "name": "Vila Nova GO"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "NAU",
+      "id": 47636,
+      "name": "Náutico PE"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "AVA",
+      "id": 54948,
+      "name": "Avaí SC"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CUI",
+      "id": 60696,
+      "name": "Cuiabá"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CRB",
+      "id": 59995,
+      "name": "CRB"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "FOR",
+      "id": 52701,
+      "name": "Fortaleza"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "SBE",
+      "id": 51587,
+      "name": "São Bernardo FC"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "JUV",
+      "id": 58763,
+      "name": "EC Juventude"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "GGO",
+      "id": 51090,
+      "name": "Goiás"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "OPE",
+      "id": 58981,
+      "name": "Operário PR"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "PON",
+      "id": 52542,
+      "name": "Ponte Preta"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "GRN",
+      "id": 51571,
+      "name": "Grêmio Novorizontino SP"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "AMG",
+      "id": 51707,
+      "name": "América-MG"
+    },
+    {
+      "hasConfigLogo": true,
+      "abbreviation": "CRI",
+      "id": 51709,
+      "name": "Criciúma"
+    }
+  ]
+}

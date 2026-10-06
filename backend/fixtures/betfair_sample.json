@@ -1,0 +1,517 @@
+{
+  "source": "betfair",
+  "coupon_urn": "ppb:tbd:cardgroup:coupon:ah1vXRIAACoAPoxo/s/1",
+  "events": [
+    {
+      "eventId": "35035302",
+      "name": "Inglaterra x Croácia",
+      "openDate": "2026-06-17T20:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Inglaterra",
+      "away": "Croácia",
+      "inplay": true,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.493993504",
+          "marketType": "MATCH_ODDS",
+          "name": "Resultado da partida",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "27",
+              "name": null,
+              "role": "home",
+              "price": 1.2
+            },
+            {
+              "selectionId": "58805",
+              "name": null,
+              "role": "draw",
+              "price": 5.5
+            },
+            {
+              "selectionId": "8212",
+              "name": null,
+              "role": "away",
+              "price": 17.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35035303",
+      "name": "Gana x Panamá",
+      "openDate": "2026-06-17T23:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Gana",
+      "away": "Panamá",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.493993678",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "75108",
+              "name": null,
+              "role": "home",
+              "price": 2.25
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 3.0
+            },
+            {
+              "selectionId": "520320",
+              "name": null,
+              "role": "away",
+              "price": 3.0
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.493993661",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.3
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35035171",
+      "name": "Uzbequistão x Colômbia",
+      "openDate": "2026-06-18T02:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Uzbequistão",
+      "away": "Colômbia",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.493988239",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "51090",
+              "name": null,
+              "role": "home",
+              "price": 9.0
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 4.6
+            },
+            {
+              "selectionId": "15299",
+              "name": null,
+              "role": "away",
+              "price": 1.36
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.493988233",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 1.92
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35595801",
+      "name": "República Tcheca x África do Sul",
+      "openDate": "2026-06-18T16:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "República Tcheca",
+      "away": "África do Sul",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.518970445",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "84483772",
+              "name": null,
+              "role": "home",
+              "price": 1.76
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 3.7
+            },
+            {
+              "selectionId": "33291",
+              "name": null,
+              "role": "away",
+              "price": 4.4
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.518970449",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.1
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35546730",
+      "name": "Suíça x Bósnia",
+      "openDate": "2026-06-18T19:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Suíça",
+      "away": "Bósnia",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.516599624",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "15293",
+              "name": null,
+              "role": "home",
+              "price": 1.52
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 4.2
+            },
+            {
+              "selectionId": "49387",
+              "name": null,
+              "role": "away",
+              "price": 5.5
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.516599570",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.0
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35546732",
+      "name": "Canadá x Catar",
+      "openDate": "2026-06-18T22:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Canadá",
+      "away": "Catar",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.516599412",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "39112",
+              "name": null,
+              "role": "home",
+              "price": 1.26
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 5.5
+            },
+            {
+              "selectionId": "53447",
+              "name": null,
+              "role": "away",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.516599378",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 1.66
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 2.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35546735",
+      "name": "México x Coreia do Sul",
+      "openDate": "2026-06-19T01:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "México",
+      "away": "Coreia do Sul",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.516599801",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "37944",
+              "name": null,
+              "role": "home",
+              "price": 1.95
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 3.2
+            },
+            {
+              "selectionId": "47965",
+              "name": null,
+              "role": "away",
+              "price": 3.9
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.516599878",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.3
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35035353",
+      "name": "Estados Unidos x Austrália",
+      "openDate": "2026-06-19T19:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Estados Unidos",
+      "away": "Austrália",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.518968602",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "352",
+              "name": null,
+              "role": "home",
+              "price": 1.56
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 4.4
+            },
+            {
+              "selectionId": "15296",
+              "name": null,
+              "role": "away",
+              "price": 4.8
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.518968539",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 1.88
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "35595864",
+      "name": "Escócia x Marrocos",
+      "openDate": "2026-06-19T22:00:00.000Z",
+      "competition": "Copa do Mundo FIFA",
+      "country": null,
+      "sport": "Futebol",
+      "home": "Escócia",
+      "away": "Marrocos",
+      "inplay": false,
+      "markets": [
+        {
+          "marketId": "ppb:sbkMarket:924.518975071",
+          "marketType": "FULL_TIME_RESULT_-_2_UP",
+          "name": "Resultado final - 2 Gols de Vantagem",
+          "line": null,
+          "runners": [
+            {
+              "selectionId": "447",
+              "name": null,
+              "role": "home",
+              "price": 5.0
+            },
+            {
+              "selectionId": "151478",
+              "name": null,
+              "role": "draw",
+              "price": 3.5
+            },
+            {
+              "selectionId": "75103",
+              "name": null,
+              "role": "away",
+              "price": 1.68
+            }
+          ]
+        },
+        {
+          "marketId": "ppb:sbkMarket:924.518975073",
+          "marketType": "OVER_UNDER_25",
+          "name": "Mais/Menos de 2,5 Gols",
+          "line": "2.5",
+          "runners": [
+            {
+              "selectionId": "47973",
+              "name": "Mais de 2,5 gols",
+              "role": null,
+              "price": 2.25
+            },
+            {
+              "selectionId": "47972",
+              "name": "Menos de 2,5 gols",
+              "role": null,
+              "price": 1.62
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
