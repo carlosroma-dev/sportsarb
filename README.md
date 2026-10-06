@@ -1,4 +1,4 @@
-# Mestre das Odds — portfolio demo
+# Sports Arb — portfolio demo
 
 An asynchronous multi-source sports odds processing system built with Python,
 FastAPI, SQLite, React and TypeScript.
